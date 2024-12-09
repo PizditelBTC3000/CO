@@ -24,7 +24,7 @@ def getId(nick):
     else:
         nick = "nick=" + nick
 
-    req1 = "https://api.efezgames.com/v1/social/findUser ?{NICK}"
+    req1 = "https://api.efezgames.com/v1/social/findUser?{NICK}"
     request1 = req1.format(NICK=nick)
     response = requests.get(request1)
     try:
