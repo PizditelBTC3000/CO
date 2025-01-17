@@ -94,7 +94,7 @@ if tabs == "Get User ID":
 elif tabs == "Trade":
     # Вкладка для торговли
     trade_nick = st.text_input("Type the player's nick for trade:")
-    skin_input = st.text_input("Type the skin you want to trade:", value="GG40$Xz0$Xz1$Xz2$Xz3$Xz4")
+    skin_input = st.text_input("Type the skin you want to trade:")
 
     if st.button("Create Trade Offer"):
         if trade_nick:
