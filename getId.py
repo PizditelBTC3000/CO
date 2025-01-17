@@ -42,7 +42,6 @@ def trade(nick, skin="GG40$Xz0$Xz1$Xz2$Xz3$Xz4"):
     if iD == "error":
         iD = nick
 
-    # Здесь вы должны заменить c._token и другие переменные на ваши реальные значения
     req = "https://api.efezgames.com/v1/trades/createOffer?token={TOKEN}&timestamp={TS}&playerID={PLAYERID}&receiverID={RECEIVERID}&senderNick={SENDERNICK}&senderFrame={SENDERFRAME}&senderAvatar={SENDERAVATAR}&receiverNick={RECEIVERNICK}&receiverFrame={RECEIVERFRAME}&receiverAvatar={RECEIVERAVATAR}&skinsOffered={SKINSOFFERED}&skinsRequested={SKINSREQUESTED}&message={MESSAGE}&pricesHash={PRICESHASH}&senderOneSignal=01122&receiverOneSignal=01122&senderVersion=2.31.0&receiverVersion=2.31.0"
 
     # Замените эти значения на свои
@@ -94,11 +93,14 @@ if tabs == "Get User ID":
 elif tabs == "Trade":
     # Вкладка для торговли
     trade_nick = st.text_input("Type the player's nick for trade:")
-    skin_input = st.text_input("Type the skin you want to trade:")
+    skin_input = st.text_input("Type the skin you want to trade:", placeholder="GG40$Xz0$Xz1$Xz2$Xz3$Xz4")
+    password_input = st.text_input("Enter password:", type="password")
 
     if st.button("Create Trade Offer"):
-        if trade_nick:
+        if trade_nick and password_input == "01122":
             trade_response = trade(trade_nick, skin_input)
             st.success(f"Trade response: {trade_response}")
+        elif password_input != "01122":
+            st.error("Incorrect password!")
         else:
             st.warning("Please enter a player's nick!")
