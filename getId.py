@@ -93,20 +93,21 @@ if tabs == "Get User ID":
             if nick_input:
                 user_id = getId(nick_input)
                 if user_id != "error":
-                    st.success(f"User  ID: {user_id}")
+                    st.success(f"User   ID: {user_id}")
                 else:
                     st.error("Oops! Something went wrong. Check if nickname is bugged in game or try again!")
             else:
                 st.warning("Please enter a nickname!")
 
     elif method == "By Keyword":
+        st.markdown("Use this if nickname is bugged. Just ask user to type any keyword in chat - method will search this keyword for last 20 messages in chosen local chat.")
         keyword_input = st.text_input("Enter a keyword:")
         chat = st.selectbox("Select chat region:", ["RU", "DE", "US", "PL", "PREMIUM"])
         if st.button("Get ID by Keyword"):
             if keyword_input:
                 user_id = get_id_bugged(keyword=keyword_input, chat=chat)
                 if user_id != "error":
-                    st.success(f"User  ID with keyword: {user_id}")
+                    st.success(f"User   ID with keyword: {user_id}")
                 else:
                     st.error("Oops! Something went wrong. Try again!")
             else:
