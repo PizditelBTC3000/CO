@@ -25,7 +25,7 @@ def getId(nick):
     else:
         nick = "nick=" + nick
 
-    req1 = "https://api.efezgames.com/v1/social/findUser ?{NICK}"
+    req1 = "https://api.efezgames.com/v1/social/findUser?{NICK}"
     request1 = req1.format(NICK=nick)
     response = requests.get(request1)
     try:
@@ -82,31 +82,39 @@ st.title("Case Opener Tool by 01122!")
 tabs = st.sidebar.radio("Select a tab:", ["Get User ID", "Trade"])
 
 if tabs == "Get User ID":
-    # Вкладка для получения ID пользователя
-    nick_input = st.text_input("Type user nick (or leave blank if using keyword):")
-    keyword_input = st.text_input("Or enter a keyword:")
+    st.header("Get User ID")
     
-    # Выбор локации чата
-    chat = st.selectbox("Select chat region:", ["RU", "DE", "US", "PL", "PREMIUM"])
+    # Разделение на секции
+    method = st.radio("Choose a method to get User ID:", ["By Nickname", "By Keyword"])
     
-    if st.button("Get ID"):
-        if nick_input:
-            user_id = getId(nick_input)
-            if user_id != "error":
-                st.success(f"User  ID: {user_id}")
+    if method == "By Nickname":
+        nick_input = st.text_input("Type user nick:")
+        if st.button("Get ID by Nick"):
+            if nick_input:
+                user_id = getId(nick_input)
+                if user_id != "error":
+                    st.success(f"User  ID: {user_id}")
+                else:
+                    st.error("Oops! Something went wrong. Check if nickname is bugged in game or try again!")
             else:
-                st.error("Oops! Something went wrong. Check if nickname is bugged in game or try again!")
-        elif keyword_input:
-            user_id = get_id_bugged(keyword=keyword_input, chat=chat)
-            if user_id != "error":
-                st.success(f"User  ID with keyword: {user_id}")
+                st.warning("Please enter a nickname!")
+
+    elif method == "By Keyword":
+        keyword_input = st.text_input("Enter a keyword:")
+        chat = st.selectbox("Select chat region:", ["RU", "DE", "US", "PL", "PREMIUM"])
+        if st.button("Get ID by Keyword"):
+            if keyword_input:
+                user_id = get_id_bugged(keyword=keyword_input, chat=chat)
+                if user_id != "error":
+                    st.success(f"User  ID with keyword: {user_id}")
+                else:
+                    st.error("Oops! Something went wrong. Try again!")
             else:
-                st.error("Oops! Something went wrong. Try again!")
-        else:
-            st.warning("Please enter a nickname or a keyword!")
+                st.warning("Please enter a keyword!")
 
 elif tabs == "Trade":
     # Вкладка для торговли
+    st.header("Trade")
     trade_nick = st.text_input("Type the player's nick for trade:")
     skin_input = st.text_input("Type the skin you want to trade:", placeholder="GG40$Xz0$Xz1$Xz2$Xz3$Xz4")
     password_input = st.text_input("Enter password:", type="password")
