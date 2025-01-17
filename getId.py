@@ -114,7 +114,7 @@ if tabs == "Get User ID":
         chat = st.selectbox("Select chat region:", ["RU", "DE", "US", "PL", "PREMIUM"])
         if st.button("Get ID by Keyword"):
             if keyword_input:
-                user_id = get_id_bugged(keyword=keyword_input, chat=chat)
+                user_id = get_id_bugged(keyword=keyword_input, chat_id=chat)
                 if user_id != "error":
                     st.success(f"User   ID with keyword: {user_id}")
                 else:
