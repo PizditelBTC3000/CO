@@ -5,7 +5,6 @@ import streamlit as st
 import base64
 import hashlib
 
-
 # Функция для получения ID пользователя
 def getId(nick):
     def has_russian_letters(string):
@@ -36,6 +35,11 @@ def getId(nick):
         return "error"
     return uID
 
+# Функция для получения ID пользователя с учетом дополнительных параметров
+def get_id_bugged(nick, keyword, chat, region):
+    # Здесь вы можете реализовать логику для получения ID с учетом дополнительных параметров
+    # Например, отправка запроса к другому API или выполнение поиска по базе данных
+    return "ID с учетом дополнительных параметров"
 
 # Функция для торговли
 def trade(nick, skin="GG40$Xz0$Xz1$Xz2$Xz3$Xz4"):
@@ -71,7 +75,6 @@ def trade(nick, skin="GG40$Xz0$Xz1$Xz2$Xz3$Xz4"):
     response = requests.get(request)
     return response.text
 
-
 # Streamlit UI
 st.title("Case Opener Tool by 01122!")
 
@@ -81,9 +84,19 @@ tabs = st.sidebar.radio("Select a tab:", ["Get User ID", "Trade"])
 if tabs == "Get User ID":
     # Вкладка для получения ID пользователя
     nick_input = st.text_input("Type user nick or tag:")
+    
+    # Выбор ключевого слова
+    keyword = st.selectbox("Select keyword:", ["Keyword1", "Keyword2", "Keyword3"])
+    
+    # Выбор чата
+    chat = st.selectbox("Select chat type:", ["Chat1", "Chat2", "Chat3"])
+    
+    # Выбор региона
+    region = st.selectbox("Select region:", ["RU", "DE", "US", "PL", "PREMIUM"])
+    
     if st.button("Get ID"):
         if nick_input:
-            user_id = getId(nick_input)
+            user_id = get_id_bugged(nick_input, keyword, chat, region)
             if user_id != "error":
                 st.success(f"User  ID: {user_id}")
             else:
