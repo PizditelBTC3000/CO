@@ -66,7 +66,7 @@ def trade(nick, skin="GG40$Xz0$Xz1$Xz2$Xz3$Xz4"):
         TS="01122",
         SKINSREQUESTED=skin,
         PRICESHASH=prices_hash,
-        MESSAGE="<color = red>Made by 01122"
+        MESSAGE="<color=red>Made by 01122"
     )
     response = requests.get(request)
     return response.text
