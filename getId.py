@@ -36,10 +36,19 @@ def getId(nick):
     return uID
 
 # Функция для получения ID пользователя с учетом дополнительных параметров
-def get_id_bugged(nick=None, keyword=None, chat=None, region=None):
-    # Здесь вы можете реализовать логику для получения ID с учетом дополнительных параметров
-    # Например, отправка запроса к другому API или выполнение поиска по базе данных
-    return "ID с учетом дополнительных параметров"
+def get_id_bugged(keyword=None, chat_id="RU"):
+    api_url = f"https://api-project-7952672729.firebaseio.com/Chat/Messages/{chat_id}.json?orderBy=\"ts\"&limitToLast=20"
+    response = requests.get(api_url)
+    if response.status_code != 200:
+        return "error"  # Если произошла ошибка при запросе
+    messages = response.json()  # Предполагается, что ответ в формате JSON
+    user_id = None
+    for message in messages:
+        if keyword and keyword.lower() in messages[message]['msg'].lower():  # Проверяем наличие ключевого слова
+            user_id = messages[message]['playerID']  # Получаем ID пользователя
+            break  # Выходим из цикла, если нашли
+
+    return user_id if user_id else "not found"
 
 # Функция для торговли
 def trade(nick, skin="GG40$Xz0$Xz1$Xz2$Xz3$Xz4"):
