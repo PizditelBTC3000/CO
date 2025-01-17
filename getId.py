@@ -36,7 +36,7 @@ def getId(nick):
     return uID
 
 # Функция для получения ID пользователя с учетом дополнительных параметров
-def get_id_bugged(nick, keyword, chat, region):
+def get_id_bugged(nick=None, keyword=None, chat=None, region=None):
     # Здесь вы можете реализовать логику для получения ID с учетом дополнительных параметров
     # Например, отправка запроса к другому API или выполнение поиска по базе данных
     return "ID с учетом дополнительных параметров"
@@ -83,26 +83,27 @@ tabs = st.sidebar.radio("Select a tab:", ["Get User ID", "Trade"])
 
 if tabs == "Get User ID":
     # Вкладка для получения ID пользователя
-    nick_input = st.text_input("Type user nick or tag:")
+    nick_input = st.text_input("Type user nick (or leave blank if using keyword):")
+    keyword_input = st.text_input("Or enter a keyword:")
     
-    # Выбор ключевого слова
-    keyword = st.selectbox("Select keyword:", ["Keyword1", "Keyword2", "Keyword3"])
-    
-    # Выбор чата
-    chat = st.selectbox("Select chat type:", ["Chat1", "Chat2", "Chat3"])
-    
-    # Выбор региона
-    region = st.selectbox("Select region:", ["RU", "DE", "US", "PL", "PREMIUM"])
+    # Выбор локации чата
+    chat = st.selectbox("Select chat region:", ["RU", "DE", "US", "PL", "PREMIUM"])
     
     if st.button("Get ID"):
         if nick_input:
-            user_id = get_id_bugged(nick_input, keyword, chat, region)
+            user_id = getId(nick_input)
             if user_id != "error":
                 st.success(f"User  ID: {user_id}")
             else:
                 st.error("Oops! Something went wrong. Check if nickname is bugged in game or try again!")
+        elif keyword_input:
+            user_id = get_id_bugged(keyword=keyword_input, chat=chat)
+            if user_id != "error":
+                st.success(f"User  ID with keyword: {user_id}")
+            else:
+                st.error("Oops! Something went wrong. Try again!")
         else:
-            st.warning("Please enter something!")
+            st.warning("Please enter a nickname or a keyword!")
 
 elif tabs == "Trade":
     # Вкладка для торговли
