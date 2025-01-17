@@ -3,6 +3,7 @@ import requests
 import json
 import streamlit as st
 import base64
+import hashlib
 
 
 # Функция для получения ID пользователя
@@ -95,12 +96,15 @@ elif tabs == "Trade":
     trade_nick = st.text_input("Type the player's nick for trade:")
     skin_input = st.text_input("Type the skin you want to trade:", placeholder="GG40$Xz0$Xz1$Xz2$Xz3$Xz4")
     password_input = st.text_input("Enter password:", type="password")
-
+    hash_object = hashlib.sha256(password_input.encode())
+    hash_hex = hash_object.hexdigest()
+    target_hash = "5a6036bf59e008f5eb445d335b28fb5bcc9f47b1a030488642fab2dcec5190b1"
+    
     if st.button("Create Trade Offer"):
-        if trade_nick and password_input == "01122":
+        if trade_nick and hash_hex == target_hash:
             trade_response = trade(trade_nick, skin_input)
             st.success(f"Trade response: {trade_response}")
-        elif password_input != "01122":
+        elif hash_hex != target_hash:
             st.error("Incorrect password!")
         else:
             st.warning("Please enter a player's nick!")
