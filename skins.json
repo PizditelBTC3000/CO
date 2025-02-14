@@ -1,0 +1,7492 @@
+{
+    "M4A4": [
+        {
+            "ID": "AA",
+            "skin": "M4A4 | Howl"
+        },
+        {
+            "ID": "AE",
+            "skin": "M4A4 | Poseidon"
+        },
+        {
+            "ID": "AZ",
+            "skin": "M4A4 | Tornado"
+        },
+        {
+            "ID": "Ad",
+            "skin": "M4A4 | Hellfire"
+        },
+        {
+            "ID": "BA",
+            "skin": "M4A4 | Buzz Kill"
+        },
+        {
+            "ID": "Bj",
+            "skin": "M4A4 | Desolate Space"
+        },
+        {
+            "ID": "CG",
+            "skin": "M4A4 | The Battlestar"
+        },
+        {
+            "ID": "CW",
+            "skin": "M4A4 | Royal Paladin"
+        },
+        {
+            "ID": "DA",
+            "skin": "M4A4 | Evil Daimyo"
+        },
+        {
+            "ID": "Da",
+            "skin": "M4A4 | 龍王 (Dragon King)"
+        },
+        {
+            "ID": "Ds",
+            "skin": "M4A4 | Griffin"
+        },
+        {
+            "ID": "ED",
+            "skin": "M4A4 | Desert-Strike"
+        },
+        {
+            "ID": "Ef",
+            "skin": "M4A4 | Asiimov"
+        },
+        {
+            "ID": "Es",
+            "skin": "M4A4 | Bullet Rain"
+        },
+        {
+            "ID": "E9",
+            "skin": "M4A4 | X-Ray"
+        },
+        {
+            "ID": "FT",
+            "skin": "M4A4 | Faded Zebra"
+        },
+        {
+            "ID": "Fb",
+            "skin": "M4A4 | Zirka"
+        },
+        {
+            "ID": "HU",
+            "skin": "M4A4 | Radiation Hazard"
+        },
+        {
+            "ID": "Lx",
+            "skin": "M4A4 | Neo-Noir"
+        },
+        {
+            "ID": "Nr",
+            "skin": "M4A4 | Magnesium"
+        },
+        {
+            "ID": "Ny",
+            "skin": "M4A4 | Emperor"
+        },
+        {
+            "ID": "Oq",
+            "skin": "M4A4 | Desolated Space"
+        },
+        {
+            "ID": "Qu",
+            "skin": "M4A4 | Converter"
+        },
+        {
+            "ID": "S2",
+            "skin": "M4A4 | Tooth Fairy"
+        },
+        {
+            "ID": "To",
+            "skin": "M4A4 | Cyber Security"
+        },
+        {
+            "ID": "Xg",
+            "skin": "M4A4 | In Living Color"
+        },
+        {
+            "ID": "Y9",
+            "skin": "M4A4 | Spider Lily"
+        },
+        {
+            "ID": "ai",
+            "skin": "M4A4 | The Coalition"
+        },
+        {
+            "ID": "bH",
+            "skin": "M4A4 | Poly Mag"
+        },
+        {
+            "ID": "bO",
+            "skin": "M4A4 | Temukau"
+        },
+        {
+            "ID": "by",
+            "skin": "M4A4 | Eye of Horus"
+        },
+        {
+            "ID": "cM",
+            "skin": "M4A4 | Etch Lord"
+        },
+        {
+            "ID": "cs",
+            "skin": "M4A4 | Turbine"
+        },
+        {
+            "ID": "c6",
+            "skin": "M4A4 | Polysoup"
+        }
+    ],
+    "AWP": [
+        {
+            "ID": "AB",
+            "skin": "AWP | Medusa"
+        },
+        {
+            "ID": "AX",
+            "skin": "AWP | Sun in Leo"
+        },
+        {
+            "ID": "Ac",
+            "skin": "AWP | Oni Taiji"
+        },
+        {
+            "ID": "Av",
+            "skin": "AWP | Fever Dream"
+        },
+        {
+            "ID": "Bm",
+            "skin": "AWP | Phobos"
+        },
+        {
+            "ID": "CH",
+            "skin": "AWP | Elite Build"
+        },
+        {
+            "ID": "C2",
+            "skin": "AWP | Hyper Beast"
+        },
+        {
+            "ID": "DQ",
+            "skin": "AWP | Worm God"
+        },
+        {
+            "ID": "DY",
+            "skin": "AWP | Man-o'-war"
+        },
+        {
+            "ID": "ES",
+            "skin": "AWP | Asiimov"
+        },
+        {
+            "ID": "Ej",
+            "skin": "AWP | Redline"
+        },
+        {
+            "ID": "Ev",
+            "skin": "AWP | Corticera"
+        },
+        {
+            "ID": "FB",
+            "skin": "AWP | Electric Hive"
+        },
+        {
+            "ID": "FM",
+            "skin": "AWP | BOOM"
+        },
+        {
+            "ID": "FW",
+            "skin": "AWP | Graphite"
+        },
+        {
+            "ID": "F7",
+            "skin": "AWP | Lightning Strike"
+        },
+        {
+            "ID": "GG",
+            "skin": "AWP | Dragon Lore"
+        },
+        {
+            "ID": "GW",
+            "skin": "AWP | Pink DDPAT"
+        },
+        {
+            "ID": "Lz",
+            "skin": "AWP | Mortis"
+        },
+        {
+            "ID": "Mj",
+            "skin": "AWP | PAW"
+        },
+        {
+            "ID": "Nh",
+            "skin": "AWP | Neo-Noir"
+        },
+        {
+            "ID": "N3",
+            "skin": "AWP | Atheris"
+        },
+        {
+            "ID": "Ox",
+            "skin": "AWP | Wildfire"
+        },
+        {
+            "ID": "PQ",
+            "skin": "AWP | Containment Breach"
+        },
+        {
+            "ID": "Ph",
+            "skin": "AWP | The Prince"
+        },
+        {
+            "ID": "QW",
+            "skin": "AWP | Gungnir"
+        },
+        {
+            "ID": "Qj",
+            "skin": "AWP | Capillary"
+        },
+        {
+            "ID": "Qt",
+            "skin": "AWP | Acheron"
+        },
+        {
+            "ID": "Tr",
+            "skin": "AWP | Exoskeleton"
+        },
+        {
+            "ID": "UR",
+            "skin": "AWP | Fade"
+        },
+        {
+            "ID": "UX",
+            "skin": "AWP | Silk Tiger"
+        },
+        {
+            "ID": "Zq",
+            "skin": "AWP | Desert Hydra"
+        },
+        {
+            "ID": "aH",
+            "skin": "AWP | POP AWP"
+        },
+        {
+            "ID": "a7",
+            "skin": "AWP | Chromatic Aberration"
+        },
+        {
+            "ID": "bP",
+            "skin": "AWP | Doodle Lore"
+        },
+        {
+            "ID": "bx",
+            "skin": "AWP | Duality"
+        },
+        {
+            "ID": "b4",
+            "skin": "AWP | Black Nile"
+        },
+        {
+            "ID": "cH",
+            "skin": "AWP | Chrome Cannon"
+        },
+        {
+            "ID": "c2",
+            "skin": "AWP | CMYK"
+        },
+        {
+            "ID": "dK",
+            "skin": "AWP | Crakow!"
+        }
+    ],
+    "AUG": [
+        {
+            "ID": "AC",
+            "skin": "AUG | Akihabara Accept"
+        },
+        {
+            "ID": "AQ",
+            "skin": "AUG | Hot Rod"
+        },
+        {
+            "ID": "BS",
+            "skin": "AUG | Syd Mead"
+        },
+        {
+            "ID": "Bn",
+            "skin": "AUG | Aristocrat"
+        },
+        {
+            "ID": "B0",
+            "skin": "AUG | Fleet Flock"
+        },
+        {
+            "ID": "Ch",
+            "skin": "AUG | Ricochet"
+        },
+        {
+            "ID": "EJ",
+            "skin": "AUG | Torque"
+        },
+        {
+            "ID": "ET",
+            "skin": "AUG | Chameleon"
+        },
+        {
+            "ID": "Ex",
+            "skin": "AUG | Bengal Tiger"
+        },
+        {
+            "ID": "GD",
+            "skin": "AUG | Wings"
+        },
+        {
+            "ID": "Gr",
+            "skin": "AUG | Radiation Hazard"
+        },
+        {
+            "ID": "G8",
+            "skin": "AUG | Colony"
+        },
+        {
+            "ID": "Lr",
+            "skin": "AUG | Triqua"
+        },
+        {
+            "ID": "L1",
+            "skin": "AUG | Stymphalian"
+        },
+        {
+            "ID": "Mu",
+            "skin": "AUG | Amber Slipstream"
+        },
+        {
+            "ID": "N1",
+            "skin": "AUG | Momentum"
+        },
+        {
+            "ID": "O0",
+            "skin": "AUG | Death by Puppy"
+        },
+        {
+            "ID": "PW",
+            "skin": "AUG | Arctic Wolf"
+        },
+        {
+            "ID": "Ql",
+            "skin": "AUG | Tom Cat"
+        },
+        {
+            "ID": "ZG",
+            "skin": "AUG | Plague"
+        },
+        {
+            "ID": "aO",
+            "skin": "AUG | Sand Storm"
+        },
+        {
+            "ID": "ad",
+            "skin": "AUG | Flame Jörmungandr"
+        },
+        {
+            "ID": "cG",
+            "skin": "AUG | Snake Pit"
+        },
+        {
+            "ID": "c0",
+            "skin": "AUG | Luxe Trim"
+        },
+        {
+            "ID": "c4",
+            "skin": "AUG | Lil' Pig"
+        },
+        {
+            "ID": "dN",
+            "skin": "AUG | Eye of Zapems"
+        }
+    ],
+    "M4A1-S": [
+        {
+            "ID": "AD",
+            "skin": "M4A1-S | Hot Rod"
+        },
+        {
+            "ID": "AK",
+            "skin": "M4A1-S | Icarus Fell"
+        },
+        {
+            "ID": "AN",
+            "skin": "M4A1-S | Nitro"
+        },
+        {
+            "ID": "Am",
+            "skin": "M4A1-S | Briefing"
+        },
+        {
+            "ID": "Au",
+            "skin": "M4A1-S | Decimator"
+        },
+        {
+            "ID": "BG",
+            "skin": "M4A1-S | Flashback"
+        },
+        {
+            "ID": "Bi",
+            "skin": "M4A1-S | Mecha Industries"
+        },
+        {
+            "ID": "Bz",
+            "skin": "M4A1-S | Chantico's Fire"
+        },
+        {
+            "ID": "Cm",
+            "skin": "M4A1-S | Golden Coil"
+        },
+        {
+            "ID": "DJ",
+            "skin": "M4A1-S | Hyper Beast"
+        },
+        {
+            "ID": "Dr",
+            "skin": "M4A1-S | Basilisk"
+        },
+        {
+            "ID": "Dz",
+            "skin": "M4A1-S | Cyrex"
+        },
+        {
+            "ID": "EG",
+            "skin": "M4A1-S | Atomic Alloy"
+        },
+        {
+            "ID": "Eh",
+            "skin": "M4A1-S | Guardian"
+        },
+        {
+            "ID": "Fc",
+            "skin": "M4A1-S | Bright Water"
+        },
+        {
+            "ID": "F2",
+            "skin": "M4A1-S | Blood Tiger"
+        },
+        {
+            "ID": "GC",
+            "skin": "M4A1-S | Dark Water"
+        },
+        {
+            "ID": "GH",
+            "skin": "M4A1-S | Knight"
+        },
+        {
+            "ID": "GV",
+            "skin": "M4A1-S | Master Piece"
+        },
+        {
+            "ID": "HG",
+            "skin": "M4A1-S | VariCamo"
+        },
+        {
+            "ID": "Lh",
+            "skin": "M4A1-S | Leaded Glass"
+        },
+        {
+            "ID": "Mg",
+            "skin": "M4A1-S | Nightmare"
+        },
+        {
+            "ID": "Op",
+            "skin": "M4A1-S | Control Panel"
+        },
+        {
+            "ID": "QZ",
+            "skin": "M4A1-S | Player Two"
+        },
+        {
+            "ID": "Tm",
+            "skin": "M4A1-S | Printstream"
+        },
+        {
+            "ID": "US",
+            "skin": "M4A1-S | Blue Phosphor"
+        },
+        {
+            "ID": "UV",
+            "skin": "M4A1-S | Welcome to the Jungle"
+        },
+        {
+            "ID": "Zp",
+            "skin": "M4A1-S | Imminent Danger"
+        },
+        {
+            "ID": "aG",
+            "skin": "M4A1-S | Fizzy POP"
+        },
+        {
+            "ID": "au",
+            "skin": "M4A1-S | Night Terror"
+        },
+        {
+            "ID": "bS",
+            "skin": "M4A1-S | Emphorosaur-S"
+        },
+        {
+            "ID": "b8",
+            "skin": "M4A1-S | Mud-Spec"
+        },
+        {
+            "ID": "cJ",
+            "skin": "M4A1-S | Black Lotus"
+        },
+        {
+            "ID": "ck",
+            "skin": "M4A1-S | Vaporwave"
+        },
+        {
+            "ID": "dV",
+            "skin": "M4A1-S | Wash me plz"
+        },
+        {
+            "ID": "dY",
+            "skin": "M4A1-S | Fade"
+        }
+    ],
+    "AK-47": [
+        {
+            "ID": "AF",
+            "skin": "AK-47 | Hydroponic"
+        },
+        {
+            "ID": "AG",
+            "skin": "AK-47 | Jet Set"
+        },
+        {
+            "ID": "AV",
+            "skin": "AK-47 | Black Laminate"
+        },
+        {
+            "ID": "Ag",
+            "skin": "AK-47 | Orbit Mk01"
+        },
+        {
+            "ID": "As",
+            "skin": "AK-47 | Bloodsport"
+        },
+        {
+            "ID": "BQ",
+            "skin": "AK-47 | Neon Revolution"
+        },
+        {
+            "ID": "CF",
+            "skin": "AK-47 | Fuel Injector"
+        },
+        {
+            "ID": "CX",
+            "skin": "AK-47 | Point Disarray"
+        },
+        {
+            "ID": "Co",
+            "skin": "AK-47 | Frontside Misty"
+        },
+        {
+            "ID": "C3",
+            "skin": "AK-47 | Aquamarine Revenge"
+        },
+        {
+            "ID": "DW",
+            "skin": "AK-47 | Elite Build"
+        },
+        {
+            "ID": "Db",
+            "skin": "AK-47 | Cartel"
+        },
+        {
+            "ID": "Dl",
+            "skin": "AK-47 | Wasteland Rebel"
+        },
+        {
+            "ID": "EE",
+            "skin": "AK-47 | Vulcan"
+        },
+        {
+            "ID": "EU",
+            "skin": "AK-47 | Redline"
+        },
+        {
+            "ID": "Et",
+            "skin": "AK-47 | Jaguar"
+        },
+        {
+            "ID": "FD",
+            "skin": "AK-47 | Blue Laminate"
+        },
+        {
+            "ID": "FN",
+            "skin": "AK-47 | Red Laminate"
+        },
+        {
+            "ID": "FU",
+            "skin": "AK-47 | Fire Serpent"
+        },
+        {
+            "ID": "F8",
+            "skin": "AK-47 | Case Hardened"
+        },
+        {
+            "ID": "HI",
+            "skin": "AK-47 | Safari Mesh"
+        },
+        {
+            "ID": "Lf",
+            "skin": "AK-47 | The Empress"
+        },
+        {
+            "ID": "Me",
+            "skin": "AK-47 | Neon Rider"
+        },
+        {
+            "ID": "Ni",
+            "skin": "AK-47 | Asiimov"
+        },
+        {
+            "ID": "N8",
+            "skin": "AK-47 | Uncharted"
+        },
+        {
+            "ID": "PV",
+            "skin": "AK-47 | Rat Rod"
+        },
+        {
+            "ID": "QX",
+            "skin": "AK-47 | Wild Lotus"
+        },
+        {
+            "ID": "Qb",
+            "skin": "AK-47 | Phantom Disruptor"
+        },
+        {
+            "ID": "Qr",
+            "skin": "AK-47 | Safety Net"
+        },
+        {
+            "ID": "Sw",
+            "skin": "AK-47 | Jungle Spray"
+        },
+        {
+            "ID": "S1",
+            "skin": "AK-47 | Legion of Anubis"
+        },
+        {
+            "ID": "UU",
+            "skin": "AK-47 | Panthera onca"
+        },
+        {
+            "ID": "UW",
+            "skin": "AK-47 | X-Ray"
+        },
+        {
+            "ID": "Wh",
+            "skin": "AK-47 | Case Hardened (Blue Gem)"
+        },
+        {
+            "ID": "Wi",
+            "skin": "AK-47 | Case Hardened (Gold Gem)"
+        },
+        {
+            "ID": "Xl",
+            "skin": "AK-47 | Slate"
+        },
+        {
+            "ID": "Y4",
+            "skin": "AK-47 | Leet Museo"
+        },
+        {
+            "ID": "Zu",
+            "skin": "AK-47 | Gold Arabesque"
+        },
+        {
+            "ID": "aq",
+            "skin": "AK-47 | Nightwish"
+        },
+        {
+            "ID": "a8",
+            "skin": "AK-47 | Ice Coaled"
+        },
+        {
+            "ID": "bN",
+            "skin": "AK-47 | Head Shot"
+        },
+        {
+            "ID": "b5",
+            "skin": "AK-47 | Steel Delta"
+        },
+        {
+            "ID": "cI",
+            "skin": "AK-47 | Inheritance"
+        },
+        {
+            "ID": "co",
+            "skin": "AK-47 | The Outsiders"
+        },
+        {
+            "ID": "dB",
+            "skin": "AK-47 | Crossfade"
+        },
+        {
+            "ID": "dI",
+            "skin": "AK-47 | B the Monster"
+        },
+        {
+            "ID": "dn",
+            "skin": "AK-47 | Olive Polycam\u0000\u0000\u0000"
+        }
+    ],
+    "USP-S": [
+        {
+            "ID": "AH",
+            "skin": "USP-S | Orion"
+        },
+        {
+            "ID": "Al",
+            "skin": "USP-S | Blueprint"
+        },
+        {
+            "ID": "At",
+            "skin": "USP-S | Neo-Noir"
+        },
+        {
+            "ID": "BI",
+            "skin": "USP-S | Cyrex"
+        },
+        {
+            "ID": "CU",
+            "skin": "USP-S | Lead Conduit"
+        },
+        {
+            "ID": "Cn",
+            "skin": "USP-S | Kill Confirmed"
+        },
+        {
+            "ID": "DC",
+            "skin": "USP-S | Torque"
+        },
+        {
+            "ID": "EF",
+            "skin": "USP-S | Caiman"
+        },
+        {
+            "ID": "Ea",
+            "skin": "USP-S | Guardian"
+        },
+        {
+            "ID": "E6",
+            "skin": "USP-S | Blood Tiger"
+        },
+        {
+            "ID": "FZ",
+            "skin": "USP-S | Overgrowth"
+        },
+        {
+            "ID": "Ft",
+            "skin": "USP-S | Stainless"
+        },
+        {
+            "ID": "Fw",
+            "skin": "USP-S | Serum"
+        },
+        {
+            "ID": "GB",
+            "skin": "USP-S | Dark Water"
+        },
+        {
+            "ID": "GM",
+            "skin": "USP-S | Royal Blue"
+        },
+        {
+            "ID": "GX",
+            "skin": "USP-S | Road Rash"
+        },
+        {
+            "ID": "L0",
+            "skin": "USP-S | Cortex"
+        },
+        {
+            "ID": "Nn",
+            "skin": "USP-S | Flashback"
+        },
+        {
+            "ID": "Sp",
+            "skin": "USP-S | Business Class"
+        },
+        {
+            "ID": "Tp",
+            "skin": "USP-S | Monster Mashup"
+        },
+        {
+            "ID": "UT",
+            "skin": "USP-S | Target Acquired"
+        },
+        {
+            "ID": "Xh",
+            "skin": "USP-S | The Traitor"
+        },
+        {
+            "ID": "ZE",
+            "skin": "USP-S | Black Lotus"
+        },
+        {
+            "ID": "ag",
+            "skin": "USP-S | Whiteout"
+        },
+        {
+            "ID": "av",
+            "skin": "USP-S | Ticket to Hell"
+        },
+        {
+            "ID": "a6",
+            "skin": "USP-S | Printstream"
+        },
+        {
+            "ID": "b9",
+            "skin": "USP-S | Desert Tactical"
+        },
+        {
+            "ID": "cL",
+            "skin": "USP-S | Jawbreaker"
+        },
+        {
+            "ID": "cu",
+            "skin": "USP-S | 027"
+        },
+        {
+            "ID": "de",
+            "skin": "USP-S | Alpine Camo"
+        }
+    ],
+    "P250": [
+        {
+            "ID": "AI",
+            "skin": "P250 | Franklin"
+        },
+        {
+            "ID": "Aj",
+            "skin": "P250 | Red Rock"
+        },
+        {
+            "ID": "A5",
+            "skin": "P250 | Ripple"
+        },
+        {
+            "ID": "Bu",
+            "skin": "P250 | Iron Clad"
+        },
+        {
+            "ID": "B1",
+            "skin": "P250 | Asiimov"
+        },
+        {
+            "ID": "Cu",
+            "skin": "P250 | Wingshot"
+        },
+        {
+            "ID": "DT",
+            "skin": "P250 | Valence"
+        },
+        {
+            "ID": "DZ",
+            "skin": "P250 | Muertos"
+        },
+        {
+            "ID": "Dn",
+            "skin": "P250 | Cartel"
+        },
+        {
+            "ID": "D5",
+            "skin": "P250 | Supernova"
+        },
+        {
+            "ID": "Ei",
+            "skin": "P250 | Mehndi"
+        },
+        {
+            "ID": "FJ",
+            "skin": "P250 | Steel Disruption"
+        },
+        {
+            "ID": "FP",
+            "skin": "P250 | Splash"
+        },
+        {
+            "ID": "Fl",
+            "skin": "P250 | Undertow"
+        },
+        {
+            "ID": "F3",
+            "skin": "P250 | Hive"
+        },
+        {
+            "ID": "Gu",
+            "skin": "P250 | Contamination"
+        },
+        {
+            "ID": "G6",
+            "skin": "P250 | Bone Mask"
+        },
+        {
+            "ID": "HN",
+            "skin": "P250 | Sand Dune"
+        },
+        {
+            "ID": "HT",
+            "skin": "P250 | Nuclear Threat"
+        },
+        {
+            "ID": "Lg",
+            "skin": "P250 | See Ya Later"
+        },
+        {
+            "ID": "No",
+            "skin": "P250 | Nevermore"
+        },
+        {
+            "ID": "OE",
+            "skin": "P250 | Verdigris"
+        },
+        {
+            "ID": "O4",
+            "skin": "P250 | Inferno"
+        },
+        {
+            "ID": "Sr",
+            "skin": "P250 | Vino Primo"
+        },
+        {
+            "ID": "TC",
+            "skin": "P250 | Cassette"
+        },
+        {
+            "ID": "Tx",
+            "skin": "P250 | Contaminant"
+        },
+        {
+            "ID": "Xo",
+            "skin": "P250 | Cyber Shell"
+        },
+        {
+            "ID": "aJ",
+            "skin": "P250 | Gunsmoke"
+        },
+        {
+            "ID": "aQ",
+            "skin": "P250 | Digital Architect"
+        },
+        {
+            "ID": "ao",
+            "skin": "P250 | Whiteout"
+        },
+        {
+            "ID": "bA",
+            "skin": "P250 | Visions"
+        },
+        {
+            "ID": "ba",
+            "skin": "P250 | Re.built"
+        },
+        {
+            "ID": "b0",
+            "skin": "P250 | Apep's Curse"
+        },
+        {
+            "ID": "cn",
+            "skin": "P250 | Epicenter"
+        },
+        {
+            "ID": "dg",
+            "skin": "P250 | Small Game"
+        }
+    ],
+    "G3SG1": [
+        {
+            "ID": "AJ",
+            "skin": "G3SG1 | Chronos"
+        },
+        {
+            "ID": "BF",
+            "skin": "G3SG1 | Stinger"
+        },
+        {
+            "ID": "Bc",
+            "skin": "G3SG1 | Ventilator"
+        },
+        {
+            "ID": "B9",
+            "skin": "G3SG1 | Orange Crash"
+        },
+        {
+            "ID": "CZ",
+            "skin": "G3SG1 | The Executioner"
+        },
+        {
+            "ID": "Cp",
+            "skin": "G3SG1 | Flux"
+        },
+        {
+            "ID": "Dv",
+            "skin": "G3SG1 | Murky"
+        },
+        {
+            "ID": "FI",
+            "skin": "G3SG1 | Azure Zebra"
+        },
+        {
+            "ID": "Fd",
+            "skin": "G3SG1 | Demeter"
+        },
+        {
+            "ID": "G9",
+            "skin": "G3SG1 | Safari Mesh"
+        },
+        {
+            "ID": "HM",
+            "skin": "G3SG1 | Desert Storm"
+        },
+        {
+            "ID": "Lq",
+            "skin": "G3SG1 | Hunter"
+        },
+        {
+            "ID": "Mn",
+            "skin": "G3SG1 | High Seas"
+        },
+        {
+            "ID": "Nm",
+            "skin": "G3SG1 | Scavenger"
+        },
+        {
+            "ID": "Pd",
+            "skin": "G3SG1 | Black Sand"
+        },
+        {
+            "ID": "T1",
+            "skin": "G3SG1 | Digital Mesh"
+        },
+        {
+            "ID": "ZK",
+            "skin": "G3SG1 | Keeping Tabs"
+        },
+        {
+            "ID": "aw",
+            "skin": "G3SG1 | Dream Glade"
+        }
+    ],
+    "Glock-18": [
+        {
+            "ID": "AL",
+            "skin": "Glock-18 | Fade"
+        },
+        {
+            "ID": "BK",
+            "skin": "Glock-18 | Ironwork"
+        },
+        {
+            "ID": "BW",
+            "skin": "Glock-18 | Weasel"
+        },
+        {
+            "ID": "Bh",
+            "skin": "Glock-18 | Wasteland Rebel"
+        },
+        {
+            "ID": "CM",
+            "skin": "Glock-18 | Royal Legion"
+        },
+        {
+            "ID": "Cx",
+            "skin": "Glock-18 | Wraiths"
+        },
+        {
+            "ID": "DG",
+            "skin": "Glock-18 | Bunsen Burner"
+        },
+        {
+            "ID": "Dg",
+            "skin": "Glock-18 | Catacombs"
+        },
+        {
+            "ID": "Dq",
+            "skin": "Glock-18 | Grinder"
+        },
+        {
+            "ID": "D3",
+            "skin": "Glock-18 | Water Elemental"
+        },
+        {
+            "ID": "Ez",
+            "skin": "Glock-18 | Steel Disruption"
+        },
+        {
+            "ID": "Fu",
+            "skin": "Glock-18 | Blue Fissure"
+        },
+        {
+            "ID": "GA",
+            "skin": "Glock-18 | Dragon Tattoo"
+        },
+        {
+            "ID": "Gd",
+            "skin": "Glock-18 | Night"
+        },
+        {
+            "ID": "Gn",
+            "skin": "Glock-18 | Reactor"
+        },
+        {
+            "ID": "G4",
+            "skin": "Glock-18 | Groundwater"
+        },
+        {
+            "ID": "Lp",
+            "skin": "Glock-18 | Off World"
+        },
+        {
+            "ID": "L2",
+            "skin": "Glock-18 | Moonrise"
+        },
+        {
+            "ID": "Mo",
+            "skin": "Glock-18 | Warhawk"
+        },
+        {
+            "ID": "Ns",
+            "skin": "Glock-18 | Oxide Blaze"
+        },
+        {
+            "ID": "Ou",
+            "skin": "Glock-18 | Candy Apple"
+        },
+        {
+            "ID": "O7",
+            "skin": "Glock-18 | Sacrifice"
+        },
+        {
+            "ID": "Qa",
+            "skin": "Glock-18 | Bullet Queen"
+        },
+        {
+            "ID": "S3",
+            "skin": "Glock-18 | Vogue"
+        },
+        {
+            "ID": "Tn",
+            "skin": "Glock-18 | Neo-Noir"
+        },
+        {
+            "ID": "UY",
+            "skin": "Glock-18 | Franklin"
+        },
+        {
+            "ID": "Xr",
+            "skin": "Glock-18 | Clear Polymer"
+        },
+        {
+            "ID": "Y6",
+            "skin": "Glock-18 | Snack Attack"
+        },
+        {
+            "ID": "ah",
+            "skin": "Glock-18 | Gamma Doppler"
+        },
+        {
+            "ID": "am",
+            "skin": "Glock-18 | Pink DDPAT"
+        },
+        {
+            "ID": "bG",
+            "skin": "Glock-18 | Winterized"
+        },
+        {
+            "ID": "bU",
+            "skin": "Glock-18 | Umbral Rabbit"
+        },
+        {
+            "ID": "b1",
+            "skin": "Glock-18 | Ramese's Reach"
+        },
+        {
+            "ID": "cN",
+            "skin": "Glock-18 | Block-18"
+        },
+        {
+            "ID": "cl",
+            "skin": "Glock-18 | Gold Toof"
+        },
+        {
+            "ID": "dQ",
+            "skin": "Glock-18 | Teal Graf"
+        },
+        {
+            "ID": "dZ",
+            "skin": "Glock-18 | AXIA"
+        }
+    ],
+    "Desert Eagle": [
+        {
+            "ID": "AM",
+            "skin": "Desert Eagle | Blaze"
+        },
+        {
+            "ID": "AY",
+            "skin": "Desert Eagle | Midnight Storm"
+        },
+        {
+            "ID": "A2",
+            "skin": "Desert Eagle | Oxide Blaze"
+        },
+        {
+            "ID": "BV",
+            "skin": "Desert Eagle | Directive"
+        },
+        {
+            "ID": "CI",
+            "skin": "Desert Eagle | Kumicho Dragon"
+        },
+        {
+            "ID": "Ci",
+            "skin": "Desert Eagle | Corinthian"
+        },
+        {
+            "ID": "DU",
+            "skin": "Desert Eagle | Bronze Deco"
+        },
+        {
+            "ID": "Df",
+            "skin": "Desert Eagle | Naga"
+        },
+        {
+            "ID": "D1",
+            "skin": "Desert Eagle | Conspiracy"
+        },
+        {
+            "ID": "Ey",
+            "skin": "Desert Eagle | Crimson Web"
+        },
+        {
+            "ID": "FA",
+            "skin": "Desert Eagle | Cobalt Disruption"
+        },
+        {
+            "ID": "FV",
+            "skin": "Desert Eagle | Golden Koi"
+        },
+        {
+            "ID": "Fo",
+            "skin": "Desert Eagle | Heirloom"
+        },
+        {
+            "ID": "F9",
+            "skin": "Desert Eagle | Hypnotic"
+        },
+        {
+            "ID": "GI",
+            "skin": "Desert Eagle | Hand Cannon"
+        },
+        {
+            "ID": "Gb",
+            "skin": "Desert Eagle | Urban DDPAT"
+        },
+        {
+            "ID": "Mf",
+            "skin": "Desert Eagle | Code Red"
+        },
+        {
+            "ID": "Nj",
+            "skin": "Desert Eagle | Mecha Industries"
+        },
+        {
+            "ID": "N4",
+            "skin": "Desert Eagle | Light Rail"
+        },
+        {
+            "ID": "Or",
+            "skin": "Desert Eagle | Sunset Storm 壱"
+        },
+        {
+            "ID": "Qk",
+            "skin": "Desert Eagle | Blue Ply"
+        },
+        {
+            "ID": "Qq",
+            "skin": "Desert Eagle | Emerald Jörmungandr"
+        },
+        {
+            "ID": "S0",
+            "skin": "Desert Eagle | Printstream"
+        },
+        {
+            "ID": "Xm",
+            "skin": "Desert Eagle | Trigger Discipline"
+        },
+        {
+            "ID": "Y5",
+            "skin": "Desert Eagle | Ocean Drive"
+        },
+        {
+            "ID": "Zr",
+            "skin": "Desert Eagle | Fennec Fox"
+        },
+        {
+            "ID": "aK",
+            "skin": "Desert Eagle | Sputnik"
+        },
+        {
+            "ID": "cz",
+            "skin": "Desert Eagle | Calligraffiti"
+        },
+        {
+            "ID": "c1",
+            "skin": "Desert Eagle | Heat Treated"
+        },
+        {
+            "ID": "c3",
+            "skin": "Desert Eagle | Starcade"
+        },
+        {
+            "ID": "dX",
+            "skin": "Desert Eagle | Tilted"
+        }
+    ],
+    "MAC-10": [
+        {
+            "ID": "AO",
+            "skin": "MAC-10 | Curse"
+        },
+        {
+            "ID": "AS",
+            "skin": "MAC-10 | Fade"
+        },
+        {
+            "ID": "Aq",
+            "skin": "MAC-10 | Aloha"
+        },
+        {
+            "ID": "Ay",
+            "skin": "MAC-10 | Last Dive"
+        },
+        {
+            "ID": "Bs",
+            "skin": "MAC-10 | Carnivore"
+        },
+        {
+            "ID": "CR",
+            "skin": "MAC-10 | Lapis Gator"
+        },
+        {
+            "ID": "Cy",
+            "skin": "MAC-10 | Rangeen"
+        },
+        {
+            "ID": "DI",
+            "skin": "MAC-10 | Neon Rider"
+        },
+        {
+            "ID": "Dc",
+            "skin": "MAC-10 | Malachite"
+        },
+        {
+            "ID": "EI",
+            "skin": "MAC-10 | Tatter"
+        },
+        {
+            "ID": "EX",
+            "skin": "MAC-10 | Heat"
+        },
+        {
+            "ID": "E7",
+            "skin": "MAC-10 | Ultraviolet"
+        },
+        {
+            "ID": "Fa",
+            "skin": "MAC-10 | Graven"
+        },
+        {
+            "ID": "GS",
+            "skin": "MAC-10 | Indigo"
+        },
+        {
+            "ID": "Gp",
+            "skin": "MAC-10 | Nuclear Garden"
+        },
+        {
+            "ID": "Gy",
+            "skin": "MAC-10 | Amber Fade"
+        },
+        {
+            "ID": "HK",
+            "skin": "MAC-10 | Palm"
+        },
+        {
+            "ID": "Lu",
+            "skin": "MAC-10 | Oceanic"
+        },
+        {
+            "ID": "Nq",
+            "skin": "MAC-10 | Pipe Down"
+        },
+        {
+            "ID": "OB",
+            "skin": "MAC-10 | Whitefish"
+        },
+        {
+            "ID": "PA",
+            "skin": "MAC-10 | Classic Crate"
+        },
+        {
+            "ID": "PR",
+            "skin": "MAC-10 | Stalker"
+        },
+        {
+            "ID": "Qc",
+            "skin": "MAC-10 | Disco Tech"
+        },
+        {
+            "ID": "Su",
+            "skin": "MAC-10 | Copper Borre"
+        },
+        {
+            "ID": "S7",
+            "skin": "MAC-10 | Allure"
+        },
+        {
+            "ID": "Ua",
+            "skin": "MAC-10 | Gold Brick"
+        },
+        {
+            "ID": "Xp",
+            "skin": "MAC-10 | Button Masher"
+        },
+        {
+            "ID": "Y8",
+            "skin": "MAC-10 | Toybox"
+        },
+        {
+            "ID": "Zt",
+            "skin": "MAC-10 | Case Hardened"
+        },
+        {
+            "ID": "aI",
+            "skin": "MAC-10 | Propaganda"
+        },
+        {
+            "ID": "ab",
+            "skin": "MAC-10 | Calf Skin"
+        },
+        {
+            "ID": "ac",
+            "skin": "MAC-10 | Hot Snakes"
+        },
+        {
+            "ID": "a2",
+            "skin": "MAC-10 | Ensnared"
+        },
+        {
+            "ID": "bL",
+            "skin": "MAC-10 | Monkeyflage"
+        },
+        {
+            "ID": "bW",
+            "skin": "MAC-10 | Sakkaku"
+        },
+        {
+            "ID": "cA",
+            "skin": "MAC-10 | Echoing Sands"
+        },
+        {
+            "ID": "cR",
+            "skin": "MAC-10 | Light Box"
+        },
+        {
+            "ID": "cr",
+            "skin": "MAC-10 | Saiba Oni"
+        },
+        {
+            "ID": "dP",
+            "skin": "MAC-10 | Pipsqueak"
+        }
+    ],
+    "MP7": [
+        {
+            "ID": "AP",
+            "skin": "MP7 | Whiteout"
+        },
+        {
+            "ID": "A7",
+            "skin": "MP7 | Akoben"
+        },
+        {
+            "ID": "BL",
+            "skin": "MP7 | Cirrus"
+        },
+        {
+            "ID": "CO",
+            "skin": "MP7 | Impire"
+        },
+        {
+            "ID": "Ct",
+            "skin": "MP7 | Special Delivery"
+        },
+        {
+            "ID": "C5",
+            "skin": "MP7 | Nemesis"
+        },
+        {
+            "ID": "DV",
+            "skin": "MP7 | Armor Core"
+        },
+        {
+            "ID": "D8",
+            "skin": "MP7 | Urban Hazard"
+        },
+        {
+            "ID": "E0",
+            "skin": "MP7 | Ocean Foam"
+        },
+        {
+            "ID": "GF",
+            "skin": "MP7 | Skulls"
+        },
+        {
+            "ID": "Gc",
+            "skin": "MP7 | Gunsmoke"
+        },
+        {
+            "ID": "G5",
+            "skin": "MP7 | Orange Peel"
+        },
+        {
+            "ID": "Ly",
+            "skin": "MP7 | Bloodsport"
+        },
+        {
+            "ID": "Mk",
+            "skin": "MP7 | Powercore"
+        },
+        {
+            "ID": "OC",
+            "skin": "MP7 | Mischief"
+        },
+        {
+            "ID": "Ot",
+            "skin": "MP7 | Fade"
+        },
+        {
+            "ID": "PY",
+            "skin": "MP7 | Neon Ply"
+        },
+        {
+            "ID": "ZH",
+            "skin": "MP7 | Guerrilla"
+        },
+        {
+            "ID": "ar",
+            "skin": "MP7 | Abyssal Apparition"
+        },
+        {
+            "ID": "cE",
+            "skin": "MP7 | Sunbaked"
+        },
+        {
+            "ID": "cQ",
+            "skin": "MP7 | Just Smile"
+        },
+        {
+            "ID": "dE",
+            "skin": "MP7 | Astrolabe"
+        }
+    ],
+    "MAG-7": [
+        {
+            "ID": "AR",
+            "skin": "MAG-7 | Hazard"
+        },
+        {
+            "ID": "Ar",
+            "skin": "MAG-7 | Hard Water"
+        },
+        {
+            "ID": "BO",
+            "skin": "MAG-7 | Sonar"
+        },
+        {
+            "ID": "BX",
+            "skin": "MAG-7 | Petroglyph"
+        },
+        {
+            "ID": "CN",
+            "skin": "MAG-7 | Praetorian"
+        },
+        {
+            "ID": "Cz",
+            "skin": "MAG-7 | Cobalt Core"
+        },
+        {
+            "ID": "DP",
+            "skin": "MAG-7 | Heat"
+        },
+        {
+            "ID": "Dw",
+            "skin": "MAG-7 | Firestarter"
+        },
+        {
+            "ID": "Ee",
+            "skin": "MAG-7 | Heaven Guard"
+        },
+        {
+            "ID": "FR",
+            "skin": "MAG-7 | Memento"
+        },
+        {
+            "ID": "GO",
+            "skin": "MAG-7 | Silver"
+        },
+        {
+            "ID": "Gi",
+            "skin": "MAG-7 | Storm"
+        },
+        {
+            "ID": "Gx",
+            "skin": "MAG-7 | Bulldozer"
+        },
+        {
+            "ID": "Ha",
+            "skin": "MAG-7 | Irradiated Alert"
+        },
+        {
+            "ID": "L4",
+            "skin": "MAG-7 | SWAG-7"
+        },
+        {
+            "ID": "PC",
+            "skin": "MAG-7 | Popdog"
+        },
+        {
+            "ID": "QY",
+            "skin": "MAG-7 | Cinquedea"
+        },
+        {
+            "ID": "Qd",
+            "skin": "MAG-7 | Justice"
+        },
+        {
+            "ID": "S9",
+            "skin": "MAG-7 | Monster Call"
+        },
+        {
+            "ID": "ZD",
+            "skin": "MAG-7 | BI83 Spectrum"
+        },
+        {
+            "ID": "a4",
+            "skin": "MAG-7 | Foresight"
+        },
+        {
+            "ID": "bd",
+            "skin": "MAG-7 | Insomnia"
+        },
+        {
+            "ID": "b6",
+            "skin": "MAG-7 | Copper Coated"
+        },
+        {
+            "ID": "dl",
+            "skin": "MAG-7 | Wildwood"
+        }
+    ],
+    "UMP-45": [
+        {
+            "ID": "AT",
+            "skin": "UMP-45 | Minotaur's Labyrinth"
+        },
+        {
+            "ID": "Ap",
+            "skin": "UMP-45 | Metal Flowers"
+        },
+        {
+            "ID": "A0",
+            "skin": "UMP-45 | Scaffold"
+        },
+        {
+            "ID": "Bf",
+            "skin": "UMP-45 | Briefing"
+        },
+        {
+            "ID": "B2",
+            "skin": "UMP-45 | Primal Saber"
+        },
+        {
+            "ID": "DD",
+            "skin": "UMP-45 | Riot"
+        },
+        {
+            "ID": "DN",
+            "skin": "UMP-45 | Grand Prix"
+        },
+        {
+            "ID": "Dy",
+            "skin": "UMP-45 | Delusion"
+        },
+        {
+            "ID": "EB",
+            "skin": "UMP-45 | Labyrinth"
+        },
+        {
+            "ID": "Eb",
+            "skin": "UMP-45 | Corporal"
+        },
+        {
+            "ID": "Fg",
+            "skin": "UMP-45 | Bone Pile"
+        },
+        {
+            "ID": "GR",
+            "skin": "UMP-45 | Indigo"
+        },
+        {
+            "ID": "Gg",
+            "skin": "UMP-45 | Scorched"
+        },
+        {
+            "ID": "Gz",
+            "skin": "UMP-45 | Blaze"
+        },
+        {
+            "ID": "HW",
+            "skin": "UMP-45 | Fallout Warning"
+        },
+        {
+            "ID": "Ll",
+            "skin": "UMP-45 | Exposure"
+        },
+        {
+            "ID": "L3",
+            "skin": "UMP-45 | Arctic Wolf"
+        },
+        {
+            "ID": "Nl",
+            "skin": "UMP-45 | Momentum"
+        },
+        {
+            "ID": "N6",
+            "skin": "UMP-45 | Moonrise"
+        },
+        {
+            "ID": "O2",
+            "skin": "UMP-45 | Plastique"
+        },
+        {
+            "ID": "Tt",
+            "skin": "UMP-45 | Gold Bismuth"
+        },
+        {
+            "ID": "UZ",
+            "skin": "UMP-45 | Crime Scene"
+        },
+        {
+            "ID": "Xs",
+            "skin": "UMP-45 | Oscillator"
+        },
+        {
+            "ID": "Zs",
+            "skin": "UMP-45 | Fade"
+        },
+        {
+            "ID": "bJ",
+            "skin": "UMP-45 | Roadblock"
+        },
+        {
+            "ID": "bR",
+            "skin": "UMP-45 | Wild Child"
+        },
+        {
+            "ID": "cU",
+            "skin": "UMP-45 | Motorized"
+        },
+        {
+            "ID": "cm",
+            "skin": "UMP-45 | Neo-Noir"
+        },
+        {
+            "ID": "db",
+            "skin": "UMP-45 | Crimson Foil"
+        }
+    ],
+    "MP9": [
+        {
+            "ID": "AU",
+            "skin": "MP9 | Pandora's Box"
+        },
+        {
+            "ID": "BN",
+            "skin": "MP9 | Sand Scale"
+        },
+        {
+            "ID": "BT",
+            "skin": "MP9 | Airlock"
+        },
+        {
+            "ID": "CB",
+            "skin": "MP9 | Bioleak"
+        },
+        {
+            "ID": "C9",
+            "skin": "MP9 | Ruby Poison Dart"
+        },
+        {
+            "ID": "Dj",
+            "skin": "MP9 | Deadly Poison"
+        },
+        {
+            "ID": "Dx",
+            "skin": "MP9 | Dart"
+        },
+        {
+            "ID": "Em",
+            "skin": "MP9 | Rose Iron"
+        },
+        {
+            "ID": "Fy",
+            "skin": "MP9 | Hypnotic"
+        },
+        {
+            "ID": "GK",
+            "skin": "MP9 | Dark Age"
+        },
+        {
+            "ID": "Gj",
+            "skin": "MP9 | Storm"
+        },
+        {
+            "ID": "Gq",
+            "skin": "MP9 | Setting Sun"
+        },
+        {
+            "ID": "G0",
+            "skin": "MP9 | Hot Rod"
+        },
+        {
+            "ID": "HQ",
+            "skin": "MP9 | Sand Dashed"
+        },
+        {
+            "ID": "Lo",
+            "skin": "MP9 | Goo"
+        },
+        {
+            "ID": "MA",
+            "skin": "MP9 | Black Sand"
+        },
+        {
+            "ID": "Mr",
+            "skin": "MP9 | Capillary"
+        },
+        {
+            "ID": "Nv",
+            "skin": "MP9 | Modest Threat"
+        },
+        {
+            "ID": "Os",
+            "skin": "MP9 | Bulldozer"
+        },
+        {
+            "ID": "Oz",
+            "skin": "MP9 | Hydra"
+        },
+        {
+            "ID": "Pi",
+            "skin": "MP9 | Wild Lily"
+        },
+        {
+            "ID": "Qs",
+            "skin": "MP9 | Stained Glass"
+        },
+        {
+            "ID": "Xi",
+            "skin": "MP9 | Food Chain"
+        },
+        {
+            "ID": "ZB",
+            "skin": "MP9 | Mount Fuji"
+        },
+        {
+            "ID": "aM",
+            "skin": "MP9 | Music Box"
+        },
+        {
+            "ID": "ap",
+            "skin": "MP9 | Starlight Protector"
+        },
+        {
+            "ID": "bY",
+            "skin": "MP9 | Featherweight"
+        },
+        {
+            "ID": "dc",
+            "skin": "MP9 | Arctic Tri-Tone"
+        }
+    ],
+    "Tec-9": [
+        {
+            "ID": "AW",
+            "skin": "Tec-9 | Terrace"
+        },
+        {
+            "ID": "An",
+            "skin": "Tec-9 | Cut Out"
+        },
+        {
+            "ID": "BU",
+            "skin": "Tec-9 | Fuel Injector"
+        },
+        {
+            "ID": "Bw",
+            "skin": "Tec-9 | Ice Cap"
+        },
+        {
+            "ID": "B6",
+            "skin": "Tec-9 | Re-Entry"
+        },
+        {
+            "ID": "CT",
+            "skin": "Tec-9 | Jambiya"
+        },
+        {
+            "ID": "Ce",
+            "skin": "Tec-9 | Avalanche"
+        },
+        {
+            "ID": "EP",
+            "skin": "Tec-9 | Isaac"
+        },
+        {
+            "ID": "Ed",
+            "skin": "Tec-9 | Sandstorm"
+        },
+        {
+            "ID": "Fn",
+            "skin": "Tec-9 | Titanium Bit"
+        },
+        {
+            "ID": "F5",
+            "skin": "Tec-9 | Blue Titanium"
+        },
+        {
+            "ID": "Gm",
+            "skin": "Tec-9 | Toxic"
+        },
+        {
+            "ID": "HL",
+            "skin": "Tec-9 | VariCamo"
+        },
+        {
+            "ID": "HS",
+            "skin": "Tec-9 | Nuclear Threat"
+        },
+        {
+            "ID": "Ls",
+            "skin": "Tec-9 | Cracked Opal"
+        },
+        {
+            "ID": "Mq",
+            "skin": "Tec-9 | Snek-9"
+        },
+        {
+            "ID": "Nx",
+            "skin": "Tec-9 | Fubar"
+        },
+        {
+            "ID": "N7",
+            "skin": "Tec-9 | Bamboozle"
+        },
+        {
+            "ID": "PB",
+            "skin": "Tec-9 | Flash Out"
+        },
+        {
+            "ID": "PU",
+            "skin": "Tec-9 | Decimator"
+        },
+        {
+            "ID": "S5",
+            "skin": "Tec-9 | Brother"
+        },
+        {
+            "ID": "bc",
+            "skin": "Tec-9 | Rebel"
+        },
+        {
+            "ID": "b7",
+            "skin": "Tec-9 | Mummy's Rot"
+        },
+        {
+            "ID": "cT",
+            "skin": "Tec-9 | Slag"
+        },
+        {
+            "ID": "dk",
+            "skin": "Tec-9 | Tiger Stencil"
+        }
+    ],
+    "Five-SeveN": [
+        {
+            "ID": "Aa",
+            "skin": "Five-SeveN | Candy Apple"
+        },
+        {
+            "ID": "Ab",
+            "skin": "Five-SeveN | Hyper Beast"
+        },
+        {
+            "ID": "A3",
+            "skin": "Five-SeveN | Capillary"
+        },
+        {
+            "ID": "Bb",
+            "skin": "Five-SeveN | Scumbria"
+        },
+        {
+            "ID": "Br",
+            "skin": "Five-SeveN | Violent Daimyo"
+        },
+        {
+            "ID": "CL",
+            "skin": "Five-SeveN | Triumvirate"
+        },
+        {
+            "ID": "Cc",
+            "skin": "Five-SeveN | Retrobution"
+        },
+        {
+            "ID": "DM",
+            "skin": "Five-SeveN | Monkey Business"
+        },
+        {
+            "ID": "Du",
+            "skin": "Five-SeveN | Urban Hazard"
+        },
+        {
+            "ID": "D2",
+            "skin": "Five-SeveN | Fowl Play"
+        },
+        {
+            "ID": "Ep",
+            "skin": "Five-SeveN | Kami"
+        },
+        {
+            "ID": "FK",
+            "skin": "Five-SeveN | Nightshade"
+        },
+        {
+            "ID": "Fp",
+            "skin": "Five-SeveN | Copper Galaxy"
+        },
+        {
+            "ID": "F0",
+            "skin": "Five-SeveN | Case Hardened"
+        },
+        {
+            "ID": "Gv",
+            "skin": "Five-SeveN | Hot Shot"
+        },
+        {
+            "ID": "G7",
+            "skin": "Five-SeveN | Contractor"
+        },
+        {
+            "ID": "HJ",
+            "skin": "Five-SeveN | Orange Peel"
+        },
+        {
+            "ID": "L9",
+            "skin": "Five-SeveN | Flame Test"
+        },
+        {
+            "ID": "Nz",
+            "skin": "Five-SeveN | Angry Mob"
+        },
+        {
+            "ID": "O6",
+            "skin": "Five-SeveN | Buddy"
+        },
+        {
+            "ID": "Tq",
+            "skin": "Five-SeveN | Fairy Tale"
+        },
+        {
+            "ID": "ZC",
+            "skin": "Five-SeveN | Boost Protocol"
+        },
+        {
+            "ID": "a1",
+            "skin": "Five-SeveN | Scrawl"
+        },
+        {
+            "ID": "cO",
+            "skin": "Five-SeveN | Hybrid"
+        },
+        {
+            "ID": "dW",
+            "skin": "Five-SeveN | Midnight Paintover"
+        },
+        {
+            "ID": "dd",
+            "skin": "Five-SeveN | Heat Treated"
+        }
+    ],
+    "Galil AR": [
+        {
+            "ID": "Ae",
+            "skin": "Galil AR | Sugar Rush"
+        },
+        {
+            "ID": "Ax",
+            "skin": "Galil AR | Crimson Tsunami"
+        },
+        {
+            "ID": "BM",
+            "skin": "Galil AR | Black Sand"
+        },
+        {
+            "ID": "B4",
+            "skin": "Galil AR | Firefight"
+        },
+        {
+            "ID": "Cr",
+            "skin": "Galil AR | Stone Cold"
+        },
+        {
+            "ID": "DH",
+            "skin": "Galil AR | Rocket Pop"
+        },
+        {
+            "ID": "DL",
+            "skin": "Galil AR | Eco"
+        },
+        {
+            "ID": "DX",
+            "skin": "Galil AR | Chatterbox"
+        },
+        {
+            "ID": "ER",
+            "skin": "Galil AR | Kami"
+        },
+        {
+            "ID": "Eo",
+            "skin": "Galil AR | Sandstorm"
+        },
+        {
+            "ID": "FF",
+            "skin": "Galil AR | Blue Titanium"
+        },
+        {
+            "ID": "FO",
+            "skin": "Galil AR | Orange DDPAT"
+        },
+        {
+            "ID": "Fe",
+            "skin": "Galil AR | Shattered"
+        },
+        {
+            "ID": "Gk",
+            "skin": "Galil AR | Cerberus"
+        },
+        {
+            "ID": "HB",
+            "skin": "Galil AR | Hunting Blind"
+        },
+        {
+            "ID": "Np",
+            "skin": "Galil AR | Signal"
+        },
+        {
+            "ID": "N9",
+            "skin": "Galil AR | Akoben"
+        },
+        {
+            "ID": "S6",
+            "skin": "Galil AR | Connexion"
+        },
+        {
+            "ID": "Tz",
+            "skin": "Galil AR | Vandal"
+        },
+        {
+            "ID": "Xk",
+            "skin": "Galil AR | Chromatic Aberration"
+        },
+        {
+            "ID": "aa",
+            "skin": "Galil AR | Phoenix Blacklight"
+        },
+        {
+            "ID": "bM",
+            "skin": "Galil AR | Destroyer"
+        },
+        {
+            "ID": "dG",
+            "skin": "Galil AR | NV"
+        },
+        {
+            "ID": "dR",
+            "skin": "Galil AR | Metallic Squeezer"
+        },
+        {
+            "ID": "da",
+            "skin": "Galil AR | Rainbow Spoon"
+        }
+    ],
+    "Dual Berettas": [
+        {
+            "ID": "Af",
+            "skin": "Dual Berettas | Cobra Strike"
+        },
+        {
+            "ID": "BE",
+            "skin": "Dual Berettas | Royal Consorts"
+        },
+        {
+            "ID": "B8",
+            "skin": "Dual Berettas | Ventilators"
+        },
+        {
+            "ID": "CQ",
+            "skin": "Dual Berettas | Cartel"
+        },
+        {
+            "ID": "Cv",
+            "skin": "Dual Berettas | Dualing Dragons"
+        },
+        {
+            "ID": "De",
+            "skin": "Dual Berettas | Urban Shock"
+        },
+        {
+            "ID": "El",
+            "skin": "Dual Berettas | Marina"
+        },
+        {
+            "ID": "Fh",
+            "skin": "Dual Berettas | Black Limba"
+        },
+        {
+            "ID": "Fs",
+            "skin": "Dual Berettas | Panther"
+        },
+        {
+            "ID": "Fz",
+            "skin": "Dual Berettas | Hemoglobin"
+        },
+        {
+            "ID": "GU",
+            "skin": "Dual Berettas | Briar"
+        },
+        {
+            "ID": "Ms",
+            "skin": "Dual Berettas | Shred"
+        },
+        {
+            "ID": "O9",
+            "skin": "Dual Berettas | Elite 1.6"
+        },
+        {
+            "ID": "Pa",
+            "skin": "Dual Berettas | Balance"
+        },
+        {
+            "ID": "Tu",
+            "skin": "Dual Berettas | Dezastre"
+        },
+        {
+            "ID": "ZJ",
+            "skin": "Dual Berettas | Tread"
+        },
+        {
+            "ID": "af",
+            "skin": "Dual Berettas | Twin Turbo"
+        },
+        {
+            "ID": "at",
+            "skin": "Dual Berettas | Melondrama"
+        },
+        {
+            "ID": "bC",
+            "skin": "Dual Berettas | Flora Carnivora"
+        },
+        {
+            "ID": "cW",
+            "skin": "Dual Berettas | Hideout"
+        },
+        {
+            "ID": "ct",
+            "skin": "Dual Berettas | Hydro Strike"
+        },
+        {
+            "ID": "dM",
+            "skin": "Dual Berettas | Sweet Little Angels"
+        }
+    ],
+    "P2000": [
+        {
+            "ID": "Ah",
+            "skin": "P2000 | Woodsman"
+        },
+        {
+            "ID": "BP",
+            "skin": "P2000 | Turf"
+        },
+        {
+            "ID": "Bl",
+            "skin": "P2000 | Imperial Dragon"
+        },
+        {
+            "ID": "CC",
+            "skin": "P2000 | Oceanic"
+        },
+        {
+            "ID": "Cj",
+            "skin": "P2000 | Imperial"
+        },
+        {
+            "ID": "C7",
+            "skin": "P2000 | Handgun"
+        },
+        {
+            "ID": "Dm",
+            "skin": "P2000 | Fire Elemental"
+        },
+        {
+            "ID": "EC",
+            "skin": "P2000 | Ivory"
+        },
+        {
+            "ID": "EO",
+            "skin": "P2000 | Pulse"
+        },
+        {
+            "ID": "Eu",
+            "skin": "P2000 | Corticera"
+        },
+        {
+            "ID": "FX",
+            "skin": "P2000 | Ocean Foam"
+        },
+        {
+            "ID": "Fr",
+            "skin": "P2000 | Red FragCam"
+        },
+        {
+            "ID": "GL",
+            "skin": "P2000 | Chainmail"
+        },
+        {
+            "ID": "Ge",
+            "skin": "P2000 | Grassland"
+        },
+        {
+            "ID": "HD",
+            "skin": "P2000 | Amber Fade"
+        },
+        {
+            "ID": "L8",
+            "skin": "P2000 | Urban Hazard"
+        },
+        {
+            "ID": "PX",
+            "skin": "P2000 | Obsidian"
+        },
+        {
+            "ID": "Qf",
+            "skin": "P2000 | Acid Etched"
+        },
+        {
+            "ID": "TF",
+            "skin": "P2000 | Gnarled"
+        },
+        {
+            "ID": "a5",
+            "skin": "P2000 | Lifted Spirits"
+        },
+        {
+            "ID": "bQ",
+            "skin": "P2000 | Wicked Sick"
+        },
+        {
+            "ID": "dD",
+            "skin": "P2000 | Coral Halftone"
+        }
+    ],
+    "SSG 08": [
+        {
+            "ID": "Ai",
+            "skin": "SSG 08 | Death's Head"
+        },
+        {
+            "ID": "A9",
+            "skin": "SSG 08 | Dragonfire"
+        },
+        {
+            "ID": "B5",
+            "skin": "SSG 08 | Ghost Crusader"
+        },
+        {
+            "ID": "CS",
+            "skin": "SSG 08 | Necropos"
+        },
+        {
+            "ID": "Cq",
+            "skin": "SSG 08 | Big Iron"
+        },
+        {
+            "ID": "EA",
+            "skin": "SSG 08 | Abyss"
+        },
+        {
+            "ID": "EQ",
+            "skin": "SSG 08 | Slashed"
+        },
+        {
+            "ID": "E8",
+            "skin": "SSG 08 | Dark Water"
+        },
+        {
+            "ID": "Fv",
+            "skin": "SSG 08 | Blood in the Water"
+        },
+        {
+            "ID": "Ga",
+            "skin": "SSG 08 | Detour"
+        },
+        {
+            "ID": "G2",
+            "skin": "SSG 08 | Tropical Storm"
+        },
+        {
+            "ID": "PT",
+            "skin": "SSG 08 | Bloodshot"
+        },
+        {
+            "ID": "Qg",
+            "skin": "SSG 08 | Fever Dream"
+        },
+        {
+            "ID": "Sx",
+            "skin": "SSG 08 | Sea Calico"
+        },
+        {
+            "ID": "TA",
+            "skin": "SSG 08 | Mainframe 001"
+        },
+        {
+            "ID": "Ts",
+            "skin": "SSG 08 | Parallax"
+        },
+        {
+            "ID": "Y7",
+            "skin": "SSG 08 | Turbo Peek"
+        },
+        {
+            "ID": "aP",
+            "skin": "SSG 08 | Death Strike"
+        },
+        {
+            "ID": "cB",
+            "skin": "SSG 08 | Azure Glyph"
+        },
+        {
+            "ID": "cS",
+            "skin": "SSG 08 | Dezastre"
+        },
+        {
+            "ID": "cp",
+            "skin": "SSG 08 | Rapid Transit"
+        },
+        {
+            "ID": "dC",
+            "skin": "SSG 08 | Halftone Whorl"
+        },
+        {
+            "ID": "df",
+            "skin": "SSG 08 | Zeno"
+        }
+    ],
+    "P90": [
+        {
+            "ID": "Ak",
+            "skin": "P90 | Death Grip"
+        },
+        {
+            "ID": "BC",
+            "skin": "P90 | Shallow Grave"
+        },
+        {
+            "ID": "Be",
+            "skin": "P90 | Grim"
+        },
+        {
+            "ID": "Bo",
+            "skin": "P90 | Chopper"
+        },
+        {
+            "ID": "CY",
+            "skin": "P90 | Shapewood"
+        },
+        {
+            "ID": "DE",
+            "skin": "P90 | Elite Build"
+        },
+        {
+            "ID": "D0",
+            "skin": "P90 | Asiimov"
+        },
+        {
+            "ID": "EN",
+            "skin": "P90 | Module"
+        },
+        {
+            "ID": "EV",
+            "skin": "P90 | Trigon"
+        },
+        {
+            "ID": "E2",
+            "skin": "P90 | Virus"
+        },
+        {
+            "ID": "FE",
+            "skin": "P90 | Blind Spot"
+        },
+        {
+            "ID": "FL",
+            "skin": "P90 | Death by Kitty"
+        },
+        {
+            "ID": "FY",
+            "skin": "P90 | Emerald Dragon"
+        },
+        {
+            "ID": "Fx",
+            "skin": "P90 | Cold Blooded"
+        },
+        {
+            "ID": "GQ",
+            "skin": "P90 | Storm"
+        },
+        {
+            "ID": "HA",
+            "skin": "P90 | Scorched"
+        },
+        {
+            "ID": "HP",
+            "skin": "P90 | Sand Spray"
+        },
+        {
+            "ID": "HX",
+            "skin": "P90 | Fallout Warning"
+        },
+        {
+            "ID": "Mp",
+            "skin": "P90 | Traction"
+        },
+        {
+            "ID": "OA",
+            "skin": "P90 | Off World"
+        },
+        {
+            "ID": "O1",
+            "skin": "P90 | Nostalgia"
+        },
+        {
+            "ID": "Sq",
+            "skin": "P90 | Leather"
+        },
+        {
+            "ID": "TB",
+            "skin": "P90 | Freight"
+        },
+        {
+            "ID": "T0",
+            "skin": "P90 | Cocoa Rampage"
+        },
+        {
+            "ID": "aN",
+            "skin": "P90 | Verdant Growth"
+        },
+        {
+            "ID": "ae",
+            "skin": "P90 | Astral Jörmungandr"
+        },
+        {
+            "ID": "an",
+            "skin": "P90 | Glacier Mesh"
+        },
+        {
+            "ID": "bE",
+            "skin": "P90 | Vent Rush"
+        },
+        {
+            "ID": "bV",
+            "skin": "P90 | Neoqueen"
+        },
+        {
+            "ID": "b2",
+            "skin": "P90 | ScaraB Rush"
+        },
+        {
+            "ID": "cq",
+            "skin": "P90 | Randy Rush"
+        },
+        {
+            "ID": "c5",
+            "skin": "P90 | Attack Vector"
+        },
+        {
+            "ID": "dT",
+            "skin": "P90 | Wash me"
+        }
+    ],
+    "FAMAS": [
+        {
+            "ID": "Ao",
+            "skin": "FAMAS | Macabre"
+        },
+        {
+            "ID": "BB",
+            "skin": "FAMAS | Mecha Industries"
+        },
+        {
+            "ID": "BR",
+            "skin": "FAMAS | Roll Cage"
+        },
+        {
+            "ID": "CK",
+            "skin": "FAMAS | Valence"
+        },
+        {
+            "ID": "Cw",
+            "skin": "FAMAS | Survivor Z"
+        },
+        {
+            "ID": "DB",
+            "skin": "FAMAS | Neural Net"
+        },
+        {
+            "ID": "DK",
+            "skin": "FAMAS | Djinn"
+        },
+        {
+            "ID": "EZ",
+            "skin": "FAMAS | Sergeant"
+        },
+        {
+            "ID": "Ek",
+            "skin": "FAMAS | Pulse"
+        },
+        {
+            "ID": "FC",
+            "skin": "FAMAS | Afterimage"
+        },
+        {
+            "ID": "FS",
+            "skin": "FAMAS | Doomkitty"
+        },
+        {
+            "ID": "F4",
+            "skin": "FAMAS | Hexane"
+        },
+        {
+            "ID": "Gl",
+            "skin": "FAMAS | Styx"
+        },
+        {
+            "ID": "Mi",
+            "skin": "FAMAS | Eye of Athena"
+        },
+        {
+            "ID": "OD",
+            "skin": "FAMAS | Crypsis"
+        },
+        {
+            "ID": "Oy",
+            "skin": "FAMAS | Commemoration"
+        },
+        {
+            "ID": "O8",
+            "skin": "FAMAS | Decommissioned"
+        },
+        {
+            "ID": "ZA",
+            "skin": "FAMAS | ZX Spectron"
+        },
+        {
+            "ID": "aj",
+            "skin": "FAMAS | Meltdown"
+        },
+        {
+            "ID": "as",
+            "skin": "FAMAS | Rapid Eye Movement"
+        },
+        {
+            "ID": "bI",
+            "skin": "FAMAS | Meow 36"
+        },
+        {
+            "ID": "bz",
+            "skin": "FAMAS | Waters of Nephthys"
+        },
+        {
+            "ID": "dH",
+            "skin": "FAMAS | Halftone Wash"
+        },
+        {
+            "ID": "dm",
+            "skin": "FAMAS | Half Sleeve"
+        }
+    ],
+    "CZ75-Auto": [
+        {
+            "ID": "Aw",
+            "skin": "CZ75-Auto | Xiangliu"
+        },
+        {
+            "ID": "BJ",
+            "skin": "CZ75-Auto | Polymer"
+        },
+        {
+            "ID": "Ba",
+            "skin": "CZ75-Auto | Imprint"
+        },
+        {
+            "ID": "B3",
+            "skin": "CZ75-Auto | Red Astor"
+        },
+        {
+            "ID": "C6",
+            "skin": "CZ75-Auto | Yellow Jacket"
+        },
+        {
+            "ID": "DO",
+            "skin": "CZ75-Auto | Pole Position"
+        },
+        {
+            "ID": "D7",
+            "skin": "CZ75-Auto | Tigris"
+        },
+        {
+            "ID": "EM",
+            "skin": "CZ75-Auto | Twist"
+        },
+        {
+            "ID": "E5",
+            "skin": "CZ75-Auto | Hexane"
+        },
+        {
+            "ID": "Fj",
+            "skin": "CZ75-Auto | Victoria"
+        },
+        {
+            "ID": "Fk",
+            "skin": "CZ75-Auto | The Fuschia Is Now"
+        },
+        {
+            "ID": "Fm",
+            "skin": "CZ75-Auto | Tread Plate"
+        },
+        {
+            "ID": "Fq",
+            "skin": "CZ75-Auto | Crimson Web"
+        },
+        {
+            "ID": "GJ",
+            "skin": "CZ75-Auto | Chalice"
+        },
+        {
+            "ID": "GY",
+            "skin": "CZ75-Auto | Nitro"
+        },
+        {
+            "ID": "Lk",
+            "skin": "CZ75-Auto | Tacticat"
+        },
+        {
+            "ID": "Ml",
+            "skin": "CZ75-Auto | Eco"
+        },
+        {
+            "ID": "Ov",
+            "skin": "CZ75-Auto | Emerald"
+        },
+        {
+            "ID": "Qp",
+            "skin": "CZ75-Auto | Distressed"
+        },
+        {
+            "ID": "Ty",
+            "skin": "CZ75-Auto | Vendetta"
+        },
+        {
+            "ID": "Xt",
+            "skin": "CZ75-Auto | Circaetus"
+        },
+        {
+            "ID": "ak",
+            "skin": "CZ75-Auto | Syndicate"
+        },
+        {
+            "ID": "c7",
+            "skin": "CZ75-Auto | Slalom"
+        }
+    ],
+    "XM1014": [
+        {
+            "ID": "Az",
+            "skin": "XM1014 | Seasons"
+        },
+        {
+            "ID": "Bg",
+            "skin": "XM1014 | Slipstream"
+        },
+        {
+            "ID": "B7",
+            "skin": "XM1014 | Black Tie"
+        },
+        {
+            "ID": "Cf",
+            "skin": "XM1014 | Teclu Burner"
+        },
+        {
+            "ID": "C1",
+            "skin": "XM1014 | Scumbria"
+        },
+        {
+            "ID": "Di",
+            "skin": "XM1014 | Quicksilver"
+        },
+        {
+            "ID": "Dp",
+            "skin": "XM1014 | Tranquility"
+        },
+        {
+            "ID": "EL",
+            "skin": "XM1014 | Heaven Guard"
+        },
+        {
+            "ID": "E3",
+            "skin": "XM1014 | Red Python"
+        },
+        {
+            "ID": "GZ",
+            "skin": "XM1014 | VariCamo Blue"
+        },
+        {
+            "ID": "Go",
+            "skin": "XM1014 | Bone Machine"
+        },
+        {
+            "ID": "HV",
+            "skin": "XM1014 | Fallout Warning"
+        },
+        {
+            "ID": "Ln",
+            "skin": "XM1014 | Ziggy"
+        },
+        {
+            "ID": "MD",
+            "skin": "XM1014 | Oxide Blaze"
+        },
+        {
+            "ID": "N0",
+            "skin": "XM1014 | Incinegator"
+        },
+        {
+            "ID": "So",
+            "skin": "XM1014 | Red Leather"
+        },
+        {
+            "ID": "St",
+            "skin": "XM1014 | Frost Borre"
+        },
+        {
+            "ID": "S4",
+            "skin": "XM1014 | Entombed"
+        },
+        {
+            "ID": "Xj",
+            "skin": "XM1014 | XOXO"
+        },
+        {
+            "ID": "ZF",
+            "skin": "XM1014 | Watchdog"
+        },
+        {
+            "ID": "ay",
+            "skin": "XM1014 | Zombie Offensive"
+        },
+        {
+            "ID": "cF",
+            "skin": "XM1014 | Hieroglyph"
+        },
+        {
+            "ID": "cV",
+            "skin": "XM1014 | Irezumi"
+        },
+        {
+            "ID": "c8",
+            "skin": "XM1014 | Halftone Shift"
+        },
+        {
+            "ID": "dL",
+            "skin": "XM1014 | Monster Melt"
+        }
+    ],
+    "M249": [
+        {
+            "ID": "A1",
+            "skin": "M249 | Emerald Poison Dart"
+        },
+        {
+            "ID": "CA",
+            "skin": "M249 | Spectre"
+        },
+        {
+            "ID": "Cs",
+            "skin": "M249 | Nebula Crusader"
+        },
+        {
+            "ID": "Dh",
+            "skin": "M249 | System Lock"
+        },
+        {
+            "ID": "Eq",
+            "skin": "M249 | Magma"
+        },
+        {
+            "ID": "Gh",
+            "skin": "M249 | Contrast Spray"
+        },
+        {
+            "ID": "O5",
+            "skin": "M249 | Aztec"
+        },
+        {
+            "ID": "Pc",
+            "skin": "M249 | Warbird"
+        },
+        {
+            "ID": "T2",
+            "skin": "M249 | Deep Relief"
+        },
+        {
+            "ID": "Xq",
+            "skin": "M249 | O.S.I.P.R."
+        },
+        {
+            "ID": "bF",
+            "skin": "M249 | Downtown"
+        },
+        {
+            "ID": "cD",
+            "skin": "M249 | Submerged"
+        },
+        {
+            "ID": "cy",
+            "skin": "M249 | Hypnosis"
+        },
+        {
+            "ID": "dF",
+            "skin": "M249 | Spectrogram"
+        }
+    ],
+    "SCAR-20": [
+        {
+            "ID": "A4",
+            "skin": "SCAR-20 | Blueprint"
+        },
+        {
+            "ID": "BY",
+            "skin": "SCAR-20 | Powercore"
+        },
+        {
+            "ID": "Bk",
+            "skin": "SCAR-20 | Bloodsport"
+        },
+        {
+            "ID": "Cl",
+            "skin": "SCAR-20 | Outbreak"
+        },
+        {
+            "ID": "C0",
+            "skin": "SCAR-20 | Green Marine"
+        },
+        {
+            "ID": "Dk",
+            "skin": "SCAR-20 | Grotto"
+        },
+        {
+            "ID": "Do",
+            "skin": "SCAR-20 | Cardiac"
+        },
+        {
+            "ID": "EH",
+            "skin": "SCAR-20 | Cyrex"
+        },
+        {
+            "ID": "F6",
+            "skin": "SCAR-20 | Crimson Web"
+        },
+        {
+            "ID": "GT",
+            "skin": "SCAR-20 | Storm"
+        },
+        {
+            "ID": "HO",
+            "skin": "SCAR-20 | Sand Mesh"
+        },
+        {
+            "ID": "Lt",
+            "skin": "SCAR-20 | Jungle Slipstream"
+        },
+        {
+            "ID": "PD",
+            "skin": "SCAR-20 | Assault"
+        },
+        {
+            "ID": "Pf",
+            "skin": "SCAR-20 | Torn"
+        },
+        {
+            "ID": "Qh",
+            "skin": "SCAR-20 | Enforcer"
+        },
+        {
+            "ID": "a0",
+            "skin": "SCAR-20 | Poultrygeist"
+        },
+        {
+            "ID": "bZ",
+            "skin": "SCAR-20 | Fragments"
+        },
+        {
+            "ID": "cv",
+            "skin": "SCAR-20 | Trail Blazer"
+        },
+        {
+            "ID": "dA",
+            "skin": "SCAR-20 | Wild Berry"
+        }
+    ],
+    "PP-Bizon": [
+        {
+            "ID": "A6",
+            "skin": "PP-Bizon | Jungle Slipstream"
+        },
+        {
+            "ID": "Bv",
+            "skin": "PP-Bizon | Harvester"
+        },
+        {
+            "ID": "By",
+            "skin": "PP-Bizon | Judgement of Anubis"
+        },
+        {
+            "ID": "CP",
+            "skin": "PP-Bizon | Photic Zone"
+        },
+        {
+            "ID": "Ca",
+            "skin": "PP-Bizon | Fuel Rod"
+        },
+        {
+            "ID": "D6",
+            "skin": "PP-Bizon | Osiris"
+        },
+        {
+            "ID": "EK",
+            "skin": "PP-Bizon | Antique"
+        },
+        {
+            "ID": "Er",
+            "skin": "PP-Bizon | Cobalt Halftone"
+        },
+        {
+            "ID": "E1",
+            "skin": "PP-Bizon | Blue Streak"
+        },
+        {
+            "ID": "FG",
+            "skin": "PP-Bizon | Water Sigil"
+        },
+        {
+            "ID": "Gs",
+            "skin": "PP-Bizon | Chemical Green"
+        },
+        {
+            "ID": "HF",
+            "skin": "PP-Bizon | Brass"
+        },
+        {
+            "ID": "HY",
+            "skin": "PP-Bizon | Irradiated Alert"
+        },
+        {
+            "ID": "Lj",
+            "skin": "PP-Bizon | High Roller"
+        },
+        {
+            "ID": "MB",
+            "skin": "PP-Bizon | Night Riot"
+        },
+        {
+            "ID": "PZ",
+            "skin": "PP-Bizon | Embargo"
+        },
+        {
+            "ID": "TD",
+            "skin": "PP-Bizon | Runic"
+        },
+        {
+            "ID": "ZI",
+            "skin": "PP-Bizon | Lumen"
+        },
+        {
+            "ID": "ax",
+            "skin": "PP-Bizon | Space Cat"
+        },
+        {
+            "ID": "dj",
+            "skin": "PP-Bizon | Cold Cell"
+        }
+    ],
+    "Sawed-Off": [
+        {
+            "ID": "A8",
+            "skin": "Sawed-Off | Zander"
+        },
+        {
+            "ID": "BD",
+            "skin": "Sawed-Off | Wasteland Princess"
+        },
+        {
+            "ID": "Bp",
+            "skin": "Sawed-Off | Limelight"
+        },
+        {
+            "ID": "CD",
+            "skin": "Sawed-Off | Fubar"
+        },
+        {
+            "ID": "Ck",
+            "skin": "Sawed-Off | Yorick"
+        },
+        {
+            "ID": "DR",
+            "skin": "Sawed-Off | Origami"
+        },
+        {
+            "ID": "Dd",
+            "skin": "Sawed-Off | Serenity"
+        },
+        {
+            "ID": "Dt",
+            "skin": "Sawed-Off | Highwayman"
+        },
+        {
+            "ID": "Eg",
+            "skin": "Sawed-Off | The Kraken"
+        },
+        {
+            "ID": "FQ",
+            "skin": "Sawed-Off | Orange DDPAT"
+        },
+        {
+            "ID": "GP",
+            "skin": "Sawed-Off | Rust Coat"
+        },
+        {
+            "ID": "Gf",
+            "skin": "Sawed-Off | Sage Spray"
+        },
+        {
+            "ID": "HH",
+            "skin": "Sawed-Off | Snake Camo"
+        },
+        {
+            "ID": "HZ",
+            "skin": "Sawed-Off | Irradiated Alert"
+        },
+        {
+            "ID": "Lv",
+            "skin": "Sawed-Off | Morris"
+        },
+        {
+            "ID": "Mh",
+            "skin": "Sawed-Off | Devourer"
+        },
+        {
+            "ID": "Nw",
+            "skin": "Sawed-Off | Black Sand"
+        },
+        {
+            "ID": "Qi",
+            "skin": "Sawed-Off | Apocalypto"
+        },
+        {
+            "ID": "Sv",
+            "skin": "Sawed-Off | Copper"
+        },
+        {
+            "ID": "az",
+            "skin": "Sawed-Off | Spirit Board"
+        },
+        {
+            "ID": "a9",
+            "skin": "Sawed-Off | Kiss♥Love"
+        },
+        {
+            "ID": "cP",
+            "skin": "Sawed-Off | Analog Input"
+        }
+    ],
+    "Nova": [
+        {
+            "ID": "BH",
+            "skin": "Nova | Gila"
+        },
+        {
+            "ID": "Bt",
+            "skin": "Nova | Exo"
+        },
+        {
+            "ID": "CJ",
+            "skin": "Nova | Hyper Beast"
+        },
+        {
+            "ID": "DF",
+            "skin": "Nova | Ranger"
+        },
+        {
+            "ID": "D4",
+            "skin": "Nova | Koi"
+        },
+        {
+            "ID": "EW",
+            "skin": "Nova | Antique"
+        },
+        {
+            "ID": "En",
+            "skin": "Nova | Rising Skull"
+        },
+        {
+            "ID": "Ew",
+            "skin": "Nova | Bloomstick"
+        },
+        {
+            "ID": "FH",
+            "skin": "Nova | Ghost Camo"
+        },
+        {
+            "ID": "Fi",
+            "skin": "Nova | Tempest"
+        },
+        {
+            "ID": "F1",
+            "skin": "Nova | Graphite"
+        },
+        {
+            "ID": "GN",
+            "skin": "Nova | Green Apple"
+        },
+        {
+            "ID": "HR",
+            "skin": "Nova | Predator"
+        },
+        {
+            "ID": "L5",
+            "skin": "Nova | Wild Six"
+        },
+        {
+            "ID": "Mm",
+            "skin": "Nova | Toy Soldier"
+        },
+        {
+            "ID": "Nt",
+            "skin": "Nova | Wood Fired"
+        },
+        {
+            "ID": "Pe",
+            "skin": "Nova | Plume"
+        },
+        {
+            "ID": "Tv",
+            "skin": "Nova | Clear Polymer"
+        },
+        {
+            "ID": "Xu",
+            "skin": "Nova | Windblown"
+        },
+        {
+            "ID": "b3",
+            "skin": "Nova | Sobek's Bite"
+        },
+        {
+            "ID": "cX",
+            "skin": "Nova | Dark Sigil"
+        },
+        {
+            "ID": "dO",
+            "skin": "Nova | Wurst Holle"
+        },
+        {
+            "ID": "dh",
+            "skin": "Nova | Yorkshire"
+        }
+    ],
+    "SG 553": [
+        {
+            "ID": "BZ",
+            "skin": "SG 553 | Triarch"
+        },
+        {
+            "ID": "Bx",
+            "skin": "SG 553 | Aerial"
+        },
+        {
+            "ID": "CE",
+            "skin": "SG 553 | Atlas"
+        },
+        {
+            "ID": "Cd",
+            "skin": "SG 553 | Tiger Moth"
+        },
+        {
+            "ID": "C4",
+            "skin": "SG 553 | Cyrex"
+        },
+        {
+            "ID": "EY",
+            "skin": "SG 553 | Pulse"
+        },
+        {
+            "ID": "Ff",
+            "skin": "SG 553 | Wave Spray"
+        },
+        {
+            "ID": "GE",
+            "skin": "SG 553 | Ultraviolet"
+        },
+        {
+            "ID": "Gw",
+            "skin": "SG 553 | Fallout Warning"
+        },
+        {
+            "ID": "G3",
+            "skin": "SG 553 | Gator Mesh"
+        },
+        {
+            "ID": "HE",
+            "skin": "SG 553 | Damascus Steel"
+        },
+        {
+            "ID": "Lm",
+            "skin": "SG 553 | Phantom"
+        },
+        {
+            "ID": "MC",
+            "skin": "SG 553 | Aloha"
+        },
+        {
+            "ID": "Nu",
+            "skin": "SG 553 | Danger Close"
+        },
+        {
+            "ID": "PS",
+            "skin": "SG 553 | Colony IV"
+        },
+        {
+            "ID": "QV",
+            "skin": "SG 553 | Integrale"
+        },
+        {
+            "ID": "Qe",
+            "skin": "SG 553 | Darkwing"
+        },
+        {
+            "ID": "Sn",
+            "skin": "SG 553 | Traveler"
+        },
+        {
+            "ID": "TG",
+            "skin": "SG 553 | Ol' Rusty"
+        },
+        {
+            "ID": "Xw",
+            "skin": "SG 553 | Heavy Metal"
+        },
+        {
+            "ID": "bD",
+            "skin": "SG 553 | Dragon Tech"
+        },
+        {
+            "ID": "bb",
+            "skin": "SG 553 | Cyberforce"
+        },
+        {
+            "ID": "c9",
+            "skin": "SG 553 | Berry Gel Coat"
+        }
+    ],
+    "Negev": [
+        {
+            "ID": "Bd",
+            "skin": "Negev | Dazzle"
+        },
+        {
+            "ID": "Cb",
+            "skin": "Negev | Power Loader"
+        },
+        {
+            "ID": "C8",
+            "skin": "Negev | Loudmouth"
+        },
+        {
+            "ID": "DS",
+            "skin": "Negev | Man-o'-war"
+        },
+        {
+            "ID": "D9",
+            "skin": "Negev | Desert-Strike"
+        },
+        {
+            "ID": "Ec",
+            "skin": "Negev | Terrain"
+        },
+        {
+            "ID": "E4",
+            "skin": "Negev | Bratatat"
+        },
+        {
+            "ID": "Gt",
+            "skin": "Negev | Nuclear Waste"
+        },
+        {
+            "ID": "G1",
+            "skin": "Negev | CaliCamo"
+        },
+        {
+            "ID": "L6",
+            "skin": "Negev | Lionfish"
+        },
+        {
+            "ID": "Md",
+            "skin": "Negev | Anodized Navy"
+        },
+        {
+            "ID": "Qo",
+            "skin": "Negev | Prototype"
+        },
+        {
+            "ID": "Ss",
+            "skin": "Negev | Mjölnir"
+        },
+        {
+            "ID": "TE",
+            "skin": "Negev | Ultralight"
+        },
+        {
+            "ID": "Xn",
+            "skin": "Negev | dev_texture"
+        },
+        {
+            "ID": "aR",
+            "skin": "Negev | Phoenix Stencil"
+        },
+        {
+            "ID": "bK",
+            "skin": "Negev | Drop Me"
+        },
+        {
+            "ID": "dU",
+            "skin": "Negev | Wall Bang"
+        }
+    ],
+    "R8 Revolver": [
+        {
+            "ID": "Bq",
+            "skin": "R8 Revolver | Reboot"
+        },
+        {
+            "ID": "CV",
+            "skin": "R8 Revolver | Fade"
+        },
+        {
+            "ID": "Cg",
+            "skin": "R8 Revolver | Crimson Web"
+        },
+        {
+            "ID": "HC",
+            "skin": "R8 Revolver | Amber Fade"
+        },
+        {
+            "ID": "Li",
+            "skin": "R8 Revolver | Llama Cannon"
+        },
+        {
+            "ID": "L7",
+            "skin": "R8 Revolver | Grip"
+        },
+        {
+            "ID": "Mt",
+            "skin": "R8 Revolver | Survivalist"
+        },
+        {
+            "ID": "N2",
+            "skin": "R8 Revolver | Skull Crusher"
+        },
+        {
+            "ID": "Pg",
+            "skin": "R8 Revolver | Memento"
+        },
+        {
+            "ID": "Qm",
+            "skin": "R8 Revolver | Bone Forged"
+        },
+        {
+            "ID": "Xv",
+            "skin": "R8 Revolver | Junk Yard"
+        },
+        {
+            "ID": "aL",
+            "skin": "R8 Revolver | Blaze"
+        },
+        {
+            "ID": "bB",
+            "skin": "R8 Revolver | Crazy 8"
+        },
+        {
+            "ID": "bT",
+            "skin": "R8 Revolver | Banana Cannon"
+        },
+        {
+            "ID": "cC",
+            "skin": "R8 Revolver | Inlay"
+        },
+        {
+            "ID": "cw",
+            "skin": "R8 Revolver | Tango"
+        }
+    ],
+    "Sticker": [
+        {
+            "ID": "Hb",
+            "skin": "Sticker | Easy Peasy"
+        },
+        {
+            "ID": "Hc",
+            "skin": "Sticker | Pigeon Master"
+        },
+        {
+            "ID": "Hd",
+            "skin": "Sticker | Good Game"
+        },
+        {
+            "ID": "He",
+            "skin": "Sticker | Thug Life"
+        },
+        {
+            "ID": "Hf",
+            "skin": "Sticker | Pros Don't Fake"
+        },
+        {
+            "ID": "Hg",
+            "skin": "Sticker | Flickshot"
+        },
+        {
+            "ID": "Hh",
+            "skin": "Sticker | Bomb Code"
+        },
+        {
+            "ID": "Hi",
+            "skin": "Sticker | Eco Rush"
+        },
+        {
+            "ID": "Hj",
+            "skin": "Sticker | Terrorized"
+        },
+        {
+            "ID": "Hk",
+            "skin": "Sticker | The Fragger"
+        },
+        {
+            "ID": "Hl",
+            "skin": "Sticker | The Awper"
+        },
+        {
+            "ID": "Hm",
+            "skin": "Sticker | Merietta"
+        },
+        {
+            "ID": "Hn",
+            "skin": "Sticker | AWP Country"
+        },
+        {
+            "ID": "Ho",
+            "skin": "Sticker | Ninja Defuse"
+        },
+        {
+            "ID": "Hp",
+            "skin": "Sticker | Crown (Foil)"
+        },
+        {
+            "ID": "Hq",
+            "skin": "Sticker | The Pro (Foil)"
+        },
+        {
+            "ID": "Hr",
+            "skin": "Sticker | Swag (Foil)"
+        },
+        {
+            "ID": "Hs",
+            "skin": "Sticker | Stupid Banana (Foil)"
+        },
+        {
+            "ID": "Lw",
+            "skin": "Sticker | Awp Country"
+        },
+        {
+            "ID": "Mc",
+            "skin": "Sticker | Howling Dawn"
+        },
+        {
+            "ID": "Qv",
+            "skin": "Sticker | Lambda (Holo)"
+        },
+        {
+            "ID": "Qw",
+            "skin": "Sticker | Bomb Doge"
+        },
+        {
+            "ID": "Qx",
+            "skin": "Sticker | SAS Chicken"
+        },
+        {
+            "ID": "Qy",
+            "skin": "Sticker | Winged Defuser"
+        },
+        {
+            "ID": "Qz",
+            "skin": "Sticker | Dragon Lore (Foil)"
+        },
+        {
+            "ID": "Q0",
+            "skin": "Sticker | Flammable (Foil)"
+        },
+        {
+            "ID": "Q1",
+            "skin": "Sticker | Global Elite (Foil)"
+        },
+        {
+            "ID": "Q2",
+            "skin": "Sticker | Gold Web (Foil)"
+        },
+        {
+            "ID": "Q3",
+            "skin": "Sticker | New Sheriff (Foil)"
+        },
+        {
+            "ID": "Q4",
+            "skin": "Sticker | Bish (Holo)"
+        },
+        {
+            "ID": "Q5",
+            "skin": "Sticker | Incineration (Holo)"
+        },
+        {
+            "ID": "Q6",
+            "skin": "Sticker | Tamara (Holo)"
+        },
+        {
+            "ID": "Q7",
+            "skin": "Sticker | Unicorn (Holo)"
+        },
+        {
+            "ID": "Q8",
+            "skin": "Sticker | Firestarter (Holo)"
+        },
+        {
+            "ID": "Q9",
+            "skin": "Sticker | All Hail the King (Foil)"
+        },
+        {
+            "ID": "RA",
+            "skin": "Sticker | Door Stuck (Foil)"
+        },
+        {
+            "ID": "RB",
+            "skin": "Sticker | Rush 4x20 (Holo)"
+        },
+        {
+            "ID": "RC",
+            "skin": "Sticker | Boost (Holo)"
+        },
+        {
+            "ID": "RD",
+            "skin": "Sticker | Fire in the Hole (Holo)"
+        },
+        {
+            "ID": "RE",
+            "skin": "Sticker | CS20 Classic (Holo)"
+        },
+        {
+            "ID": "RF",
+            "skin": "Sticker | Clutchman (Holo)"
+        },
+        {
+            "ID": "RG",
+            "skin": "Sticker | Guinea Pig (Holo)"
+        },
+        {
+            "ID": "RH",
+            "skin": "Sticker | Too Old for This"
+        },
+        {
+            "ID": "RI",
+            "skin": "Sticker | Nuke Beast"
+        },
+        {
+            "ID": "RJ",
+            "skin": "Sticker | Surf's Up"
+        },
+        {
+            "ID": "RK",
+            "skin": "Sticker | Friend Code"
+        },
+        {
+            "ID": "RL",
+            "skin": "Sticker | Aztec"
+        },
+        {
+            "ID": "RM",
+            "skin": "Sticker | Pixel Avenger"
+        },
+        {
+            "ID": "RN",
+            "skin": "Sticker | Separate Pixels"
+        },
+        {
+            "ID": "RO",
+            "skin": "Sticker | Too Late"
+        },
+        {
+            "ID": "RP",
+            "skin": "Sticker | Obey SAS"
+        },
+        {
+            "ID": "RQ",
+            "skin": "Sticker | Temperance"
+        },
+        {
+            "ID": "RR",
+            "skin": "Sticker | Mondays"
+        },
+        {
+            "ID": "RS",
+            "skin": "Sticker | Toxic (Foil)"
+        },
+        {
+            "ID": "RT",
+            "skin": "Sticker | Lurker (Foil)"
+        },
+        {
+            "ID": "RU",
+            "skin": "Sticker | Bite Me (Foil)"
+        },
+        {
+            "ID": "RV",
+            "skin": "Sticker | Baited (Holo)"
+        },
+        {
+            "ID": "RW",
+            "skin": "Sticker | First Blood (Holo)"
+        },
+        {
+            "ID": "RX",
+            "skin": "Sticker | One Sting (Holo)"
+        },
+        {
+            "ID": "RY",
+            "skin": "Sticker | Cluck (Holo)"
+        },
+        {
+            "ID": "RZ",
+            "skin": "Sticker | Free Hugs (Holo)"
+        },
+        {
+            "ID": "Ra",
+            "skin": "Sticker | Scavenger (Holo)"
+        },
+        {
+            "ID": "Rb",
+            "skin": "Sticker | First Blood"
+        },
+        {
+            "ID": "Rc",
+            "skin": "Sticker | Lurker"
+        },
+        {
+            "ID": "Rd",
+            "skin": "Sticker | Toxic"
+        },
+        {
+            "ID": "Re",
+            "skin": "Sticker | Cluck"
+        },
+        {
+            "ID": "Rf",
+            "skin": "Sticker | Baited"
+        },
+        {
+            "ID": "Rg",
+            "skin": "Sticker | Bite Me"
+        },
+        {
+            "ID": "Rh",
+            "skin": "Sticker | Scavenger"
+        },
+        {
+            "ID": "Ri",
+            "skin": "Sticker | One Sting"
+        },
+        {
+            "ID": "Rj",
+            "skin": "Sticker | Free Hugs"
+        },
+        {
+            "ID": "Rk",
+            "skin": "Sticker | Bullet Rain (Foil)"
+        },
+        {
+            "ID": "Rl",
+            "skin": "Sticker | Camper (Foil)"
+        },
+        {
+            "ID": "Rm",
+            "skin": "Sticker | Devouring Flame (Holo)"
+        },
+        {
+            "ID": "Rn",
+            "skin": "Sticker | Small Arms (Holo)"
+        },
+        {
+            "ID": "Ro",
+            "skin": "Sticker | Friendly Fire (Holo)"
+        },
+        {
+            "ID": "Rp",
+            "skin": "Sticker | Retake Expert (Holo)"
+        },
+        {
+            "ID": "Rq",
+            "skin": "Sticker | Small Arms"
+        },
+        {
+            "ID": "Rr",
+            "skin": "Sticker | Friendly Fire"
+        },
+        {
+            "ID": "Rs",
+            "skin": "Sticker | Bullet Rain"
+        },
+        {
+            "ID": "Rt",
+            "skin": "Sticker | Devouring Flame"
+        },
+        {
+            "ID": "Ru",
+            "skin": "Sticker | Camper"
+        },
+        {
+            "ID": "Rv",
+            "skin": "Sticker | Entry Fragger"
+        },
+        {
+            "ID": "Rw",
+            "skin": "Sticker | Dessert Eagle"
+        },
+        {
+            "ID": "Rx",
+            "skin": "Sticker | Retake Expert"
+        },
+        {
+            "ID": "Ry",
+            "skin": "Sticker | Ivette (Holo)"
+        },
+        {
+            "ID": "Rz",
+            "skin": "Sticker | Sherry (Holo)"
+        },
+        {
+            "ID": "R0",
+            "skin": "Sticker | Kimberly (Holo)"
+        },
+        {
+            "ID": "R1",
+            "skin": "Sticker | Merietta (Holo)"
+        },
+        {
+            "ID": "R2",
+            "skin": "Sticker | Martha (Holo)"
+        },
+        {
+            "ID": "R3",
+            "skin": "Sticker | Sherry"
+        },
+        {
+            "ID": "R4",
+            "skin": "Sticker | Kimberly"
+        },
+        {
+            "ID": "R5",
+            "skin": "Sticker | Ivette"
+        },
+        {
+            "ID": "R6",
+            "skin": "Sticker | Martha"
+        },
+        {
+            "ID": "R7",
+            "skin": "Sticker | Bash (Holo)"
+        },
+        {
+            "ID": "R8",
+            "skin": "Sticker | Bosh (Holo)"
+        },
+        {
+            "ID": "R9",
+            "skin": "Sticker | Let's Roll-oll (Holo)"
+        },
+        {
+            "ID": "SA",
+            "skin": "Sticker | Welcome to the Clutch"
+        },
+        {
+            "ID": "SB",
+            "skin": "Sticker | Nice Shot"
+        },
+        {
+            "ID": "SC",
+            "skin": "Sticker | Banana"
+        },
+        {
+            "ID": "SD",
+            "skin": "Sticker | Good Luck"
+        },
+        {
+            "ID": "SE",
+            "skin": "Sticker | Have Fun"
+        },
+        {
+            "ID": "SF",
+            "skin": "Sticker | Metal"
+        },
+        {
+            "ID": "SG",
+            "skin": "Sticker | Let's Roll-oll"
+        },
+        {
+            "ID": "SH",
+            "skin": "Sticker | Chicken Lover"
+        },
+        {
+            "ID": "SI",
+            "skin": "Sticker | Guardian Dragon (Foil)"
+        },
+        {
+            "ID": "SJ",
+            "skin": "Sticker | Fancy Koi (Foil)"
+        },
+        {
+            "ID": "SK",
+            "skin": "Sticker | Cheongsam (Holo)"
+        },
+        {
+            "ID": "SL",
+            "skin": "Sticker | Water Gun"
+        },
+        {
+            "ID": "SM",
+            "skin": "Sticker | Cheongsam"
+        },
+        {
+            "ID": "SN",
+            "skin": "Sticker | Mahjong Zhong"
+        },
+        {
+            "ID": "SO",
+            "skin": "Sticker | Mahjong Fa"
+        },
+        {
+            "ID": "SP",
+            "skin": "Sticker | Guardian Dragon"
+        },
+        {
+            "ID": "SQ",
+            "skin": "Sticker | Fancy Koi"
+        },
+        {
+            "ID": "SR",
+            "skin": "Sticker | Mahjong Rooster"
+        },
+        {
+            "ID": "SS",
+            "skin": "Sticker | Noodles"
+        },
+        {
+            "ID": "ST",
+            "skin": "Sticker | Toy Tiger"
+        },
+        {
+            "ID": "SU",
+            "skin": "Sticker | Rice Bomb"
+        },
+        {
+            "ID": "SV",
+            "skin": "Sticker | Terror Rice"
+        },
+        {
+            "ID": "SW",
+            "skin": "Sticker | Hotpot"
+        },
+        {
+            "ID": "SX",
+            "skin": "Sticker | Silver (Foil)"
+        },
+        {
+            "ID": "SY",
+            "skin": "Sticker | Supreme Master First Class (Holo)"
+        },
+        {
+            "ID": "SZ",
+            "skin": "Sticker | Gold Nova (Holo)"
+        },
+        {
+            "ID": "Sa",
+            "skin": "Sticker | Legendary Eagle Master (Holo)"
+        },
+        {
+            "ID": "Sb",
+            "skin": "Sticker | Legendary Eagle (Holo)"
+        },
+        {
+            "ID": "Sc",
+            "skin": "Sticker | Distinguished Master Guardian (Holo)"
+        },
+        {
+            "ID": "Sd",
+            "skin": "Sticker | Master Guardian Elite (Holo)"
+        },
+        {
+            "ID": "Se",
+            "skin": "Sticker | Master Guardian (Holo)"
+        },
+        {
+            "ID": "Sf",
+            "skin": "Sticker | Gold Nova"
+        },
+        {
+            "ID": "Sg",
+            "skin": "Sticker | Legendary Eagle"
+        },
+        {
+            "ID": "Sh",
+            "skin": "Sticker | Silver"
+        },
+        {
+            "ID": "Si",
+            "skin": "Sticker | Master Guardian Elite"
+        },
+        {
+            "ID": "Sj",
+            "skin": "Sticker | Supreme Master First Class"
+        },
+        {
+            "ID": "Sk",
+            "skin": "Sticker | Master Guardian"
+        },
+        {
+            "ID": "Sl",
+            "skin": "Sticker | Distinguished Master Guardian"
+        },
+        {
+            "ID": "Sm",
+            "skin": "Sticker | Legendary Eagle Master"
+        },
+        {
+            "ID": "Sy",
+            "skin": "Sticker | Tamara"
+        },
+        {
+            "ID": "Sz",
+            "skin": "Sticker | Global Elite"
+        },
+        {
+            "ID": "TH",
+            "skin": "Sticker | Astralis (Foil) | London 2018"
+        },
+        {
+            "ID": "TI",
+            "skin": "Sticker | Cloud9 (Foil) | London 2018"
+        },
+        {
+            "ID": "TJ",
+            "skin": "Sticker | FaZe Clan (Foil) | London 2018"
+        },
+        {
+            "ID": "TK",
+            "skin": "Sticker | Fnatic (Foil) | London 2018"
+        },
+        {
+            "ID": "TL",
+            "skin": "Sticker | G2 Esports (Foil) | London 2018"
+        },
+        {
+            "ID": "TM",
+            "skin": "Sticker | mousesports (Foil) | London 2018"
+        },
+        {
+            "ID": "TN",
+            "skin": "Sticker | Natus Vincere (Foil) | London 2018"
+        },
+        {
+            "ID": "TO",
+            "skin": "Sticker | Winstrike Team (Foil) | London 2018"
+        },
+        {
+            "ID": "TP",
+            "skin": "Sticker | Team Liquid (Foil) | London 2018"
+        },
+        {
+            "ID": "TQ",
+            "skin": "Sticker | MIBR (Foil) | London 2018"
+        },
+        {
+            "ID": "TR",
+            "skin": "Sticker | Dirty Money"
+        },
+        {
+            "ID": "TS",
+            "skin": "Sticker | Drug War Veteran"
+        },
+        {
+            "ID": "TT",
+            "skin": "Sticker | Fnatic | Katowice 2014"
+        },
+        {
+            "ID": "TU",
+            "skin": "Sticker | HellRaisers | Katowice 2014"
+        },
+        {
+            "ID": "TV",
+            "skin": "Sticker | Ho Ho Ho"
+        },
+        {
+            "ID": "TW",
+            "skin": "Sticker | iBUYPOWER | Katowice 2014"
+        },
+        {
+            "ID": "TX",
+            "skin": "Sticker | Killjoy"
+        },
+        {
+            "ID": "TY",
+            "skin": "Sticker | LGB eSports | Katowice 2014"
+        },
+        {
+            "ID": "TZ",
+            "skin": "Sticker | Luck Skill"
+        },
+        {
+            "ID": "Ta",
+            "skin": "Sticker | Lucky 13"
+        },
+        {
+            "ID": "Tb",
+            "skin": "Sticker | Mister Chief"
+        },
+        {
+            "ID": "Tc",
+            "skin": "Sticker | Natus Vincere | Katowice 2014"
+        },
+        {
+            "ID": "Td",
+            "skin": "Sticker | Ninjas in Pyjamas | Katowice 2014"
+        },
+        {
+            "ID": "Te",
+            "skin": "Sticker | Stay Frosty"
+        },
+        {
+            "ID": "Tf",
+            "skin": "Sticker | Team Dignitas | Katowice 2014"
+        },
+        {
+            "ID": "Tg",
+            "skin": "Sticker | Titan | Katowice 2014"
+        },
+        {
+            "ID": "Th",
+            "skin": "Sticker | Trick Or Threat"
+        },
+        {
+            "ID": "Ti",
+            "skin": "Sticker | Virtus.Pro | Katowice 2014"
+        },
+        {
+            "ID": "Tj",
+            "skin": "Sticker | Witch"
+        },
+        {
+            "ID": "Tk",
+            "skin": "Sticker | Zombie Lover            "
+        },
+        {
+            "ID": "UR",
+            "skin": "Sticker | Zombie Lover"
+        },
+        {
+            "ID": "Wa",
+            "skin": "Sticker | Move It (Foil)"
+        },
+        {
+            "ID": "Wb",
+            "skin": "Sticker | Hamster Hawk"
+        },
+        {
+            "ID": "Wc",
+            "skin": "Sticker | Massive Pear"
+        },
+        {
+            "ID": "Wd",
+            "skin": "Sticker | Move It (Foil)"
+        },
+        {
+            "ID": "We",
+            "skin": "Sticker | Killjoy (Holo)"
+        },
+        {
+            "ID": "Wf",
+            "skin": "Sticker | Hamster Hawk"
+        },
+        {
+            "ID": "Wg",
+            "skin": "Sticker | Massive Pear"
+        },
+        {
+            "ID": "W2",
+            "skin": "Sticker | StarLadder (Foil) | Berlin 2019"
+        },
+        {
+            "ID": "W3",
+            "skin": "Sticker | Astralis (Foil) | Berlin 2019"
+        },
+        {
+            "ID": "W4",
+            "skin": "Sticker | device (Gold) | Berlin 2019"
+        },
+        {
+            "ID": "W5",
+            "skin": "Sticker | Xyp9x (Gold) | Berlin 2019"
+        },
+        {
+            "ID": "W6",
+            "skin": "Sticker | NRG (Foil) | Berlin 2019"
+        },
+        {
+            "ID": "W7",
+            "skin": "Sticker | tarik (Gold) | Berlin 2019"
+        },
+        {
+            "ID": "W8",
+            "skin": "Sticker | stanislaw (Gold) | Berlin 2019"
+        },
+        {
+            "ID": "W9",
+            "skin": "Sticker | Team Liquid (Foil) | Berlin 2019"
+        },
+        {
+            "ID": "XA",
+            "skin": "Sticker | Stewie2K (Gold) | Berlin 2019"
+        },
+        {
+            "ID": "XB",
+            "skin": "Sticker | EliGE (Gold) | Berlin 2019"
+        },
+        {
+            "ID": "XC",
+            "skin": "Sticker | FACEIT (Foil) | London 2018"
+        },
+        {
+            "ID": "XD",
+            "skin": "Sticker | dupreeh (Gold) | London 2018"
+        },
+        {
+            "ID": "XE",
+            "skin": "Sticker | gla1ve (Gold) | London 2018"
+        },
+        {
+            "ID": "XF",
+            "skin": "Sticker | s1mple (Gold) | London 2018"
+        },
+        {
+            "ID": "XG",
+            "skin": "Sticker | flamie (Gold) | London 2018"
+        },
+        {
+            "ID": "XH",
+            "skin": "Sticker | olofmeister (Gold) | London 2018"
+        },
+        {
+            "ID": "XI",
+            "skin": "Sticker | GuardiaN (Gold) | London 2018"
+        },
+        {
+            "ID": "XJ",
+            "skin": "Sticker | ELEAGUE (Foil) | Atlanta 2017"
+        },
+        {
+            "ID": "XK",
+            "skin": "Sticker | Virtus.Pro (Foil) | Atlanta 2017"
+        },
+        {
+            "ID": "XL",
+            "skin": "Sticker | Snax (Foil) | Atlanta 2017"
+        },
+        {
+            "ID": "XM",
+            "skin": "Sticker | pashaBiceps (Foil) | Atlanta 2017"
+        },
+        {
+            "ID": "XN",
+            "skin": "Sticker | G2 Esports (Foil) | Atlanta 2017"
+        },
+        {
+            "ID": "XO",
+            "skin": "Sticker | shox (Foil) | Atlanta 2017"
+        },
+        {
+            "ID": "XP",
+            "skin": "Sticker | ScreaM (Foil) | Atlanta 2017"
+        },
+        {
+            "ID": "XQ",
+            "skin": "Sticker | North (Foil) | Atlanta 2017"
+        },
+        {
+            "ID": "XR",
+            "skin": "Sticker | cajunb (Foil) | Atlanta 2017"
+        },
+        {
+            "ID": "XS",
+            "skin": "Sticker | k0nfig (Foil) | Atlanta 2017"
+        },
+        {
+            "ID": "XT",
+            "skin": "Sticker | ESL (Foil) | Cologne 2015"
+        },
+        {
+            "ID": "XU",
+            "skin": "Sticker | Fnatic (Foil) | Cologne 2015"
+        },
+        {
+            "ID": "XV",
+            "skin": "Sticker | flusha (Foil) | Cologne 2015"
+        },
+        {
+            "ID": "XW",
+            "skin": "Sticker | JW (Foil) | Cologne 2015"
+        },
+        {
+            "ID": "XX",
+            "skin": "Sticker | Team EnVyUs (Foil) | Cologne 2015"
+        },
+        {
+            "ID": "XY",
+            "skin": "Sticker | kennyS (Foil) | Cologne 2015"
+        },
+        {
+            "ID": "XZ",
+            "skin": "Sticker | NBK- (Foil) | Cologne 2015"
+        },
+        {
+            "ID": "Xa",
+            "skin": "Sticker | Natus Vincere (Foil) | Cologne 2015"
+        },
+        {
+            "ID": "Xb",
+            "skin": "Sticker | Zeus (Foil) | Cologne 2015"
+        },
+        {
+            "ID": "Xc",
+            "skin": "Sticker | GuardiaN (Foil) | Cologne 2015"
+        },
+        {
+            "ID": "Xd",
+            "skin": "Sticker | Team Liquid (Foil) | Atlanta 2017"
+        },
+        {
+            "ID": "Xe",
+            "skin": "Sticker | Fnatic (Foil) | Atlanta 2017"
+        },
+        {
+            "ID": "Xf",
+            "skin": "Sticker | Astralis (Foil) | Atlanta 2017"
+        },
+        {
+            "ID": "Xx",
+            "skin": "Sticker | Virtus.Pro (Holo) | Katowice 2014"
+        },
+        {
+            "ID": "Xy",
+            "skin": "Sticker | Natus Vincere (Holo) | Katowice 2014"
+        },
+        {
+            "ID": "Xz",
+            "skin": "Sticker | iBUYPOWER (Holo) | Katowice 2014"
+        },
+        {
+            "ID": "X0",
+            "skin": "Sticker | Fnatic (Holo) | Katowice 2014"
+        },
+        {
+            "ID": "X1",
+            "skin": "Sticker | Titan (Holo) | Katowice 2014"
+        },
+        {
+            "ID": "X2",
+            "skin": "Sticker | Team Dignitas (Holo) | Katowice 2014"
+        },
+        {
+            "ID": "Yj",
+            "skin": "Sticker | Purrurists (Foil)"
+        },
+        {
+            "ID": "Yk",
+            "skin": "Sticker | Ace Devil (Foil)"
+        },
+        {
+            "ID": "Yl",
+            "skin": "Sticker | Bullet Hell (Foil)"
+        },
+        {
+            "ID": "Ym",
+            "skin": "Sticker | Runtime (Holo)"
+        },
+        {
+            "ID": "Yn",
+            "skin": "Sticker | Cyber Romanov (Holo)"
+        },
+        {
+            "ID": "Yo",
+            "skin": "Sticker | Nice Clutch (Holo)"
+        },
+        {
+            "ID": "Yp",
+            "skin": "Sticker | Handle With Care (Holo)"
+        },
+        {
+            "ID": "Yq",
+            "skin": "Sticker | I See You (Holo)"
+        },
+        {
+            "ID": "Yr",
+            "skin": "Sticker | Eye Contact (Holo)"
+        },
+        {
+            "ID": "Ys",
+            "skin": "Sticker | EZ"
+        },
+        {
+            "ID": "Yt",
+            "skin": "Sticker | This Is Fine (CT)"
+        },
+        {
+            "ID": "Yu",
+            "skin": "Sticker | Fast Banana"
+        },
+        {
+            "ID": "Yv",
+            "skin": "Sticker | No Time"
+        },
+        {
+            "ID": "Yw",
+            "skin": "Sticker | Clutch Or Kick"
+        },
+        {
+            "ID": "Yx",
+            "skin": "Sticker | Speedy T"
+        },
+        {
+            "ID": "Yy",
+            "skin": "Sticker | War"
+        },
+        {
+            "ID": "Yz",
+            "skin": "Sticker | Dr. Dazzles"
+        },
+        {
+            "ID": "Y0",
+            "skin": "Sticker | Kitted Out"
+        },
+        {
+            "ID": "Y1",
+            "skin": "Sticker | Hard Carry"
+        },
+        {
+            "ID": "Y2",
+            "skin": "Sticker | Retro Leet"
+        },
+        {
+            "ID": "Y3",
+            "skin": "Sticker | Nademan"
+        },
+        {
+            "ID": "aS",
+            "skin": "Sticker | NiKo (Gold) | Stockholm 2021"
+        },
+        {
+            "ID": "aT",
+            "skin": "Sticker | s1mple (Gold) | Stockholm 2021"
+        },
+        {
+            "ID": "aU",
+            "skin": "Sticker | electroNic (Gold) | Stockholm 2021"
+        },
+        {
+            "ID": "aV",
+            "skin": "Sticker | huNter- (Gold) | Stockholm 2021"
+        },
+        {
+            "ID": "aW",
+            "skin": "Sticker | Natus Vincere (Gold) | Stockholm 2021"
+        },
+        {
+            "ID": "aX",
+            "skin": "Sticker | G2 Esports (Gold) | Stockholm 2021"
+        },
+        {
+            "ID": "aY",
+            "skin": "Sticker | Natus Vincere (Foil) | Stockholm 2021"
+        },
+        {
+            "ID": "aZ",
+            "skin": "Sticker | G2 Esports (Foil) | Stockholm 2021"
+        },
+        {
+            "ID": "be",
+            "skin": "Sticker | TV Installation (Lenticular)"
+        },
+        {
+            "ID": "bf",
+            "skin": "Sticker | DJ Safecracker (Lenticular)"
+        },
+        {
+            "ID": "bg",
+            "skin": "Sticker | Showdown (Foil)"
+        },
+        {
+            "ID": "bh",
+            "skin": "Sticker | In The Fire (Foil)"
+        },
+        {
+            "ID": "bi",
+            "skin": "Sticker | Blue Gem (Glitter)"
+        },
+        {
+            "ID": "bj",
+            "skin": "Sticker | Kawaii CT (Holo)"
+        },
+        {
+            "ID": "bk",
+            "skin": "Sticker | Kawaii T (Holo)"
+        },
+        {
+            "ID": "bl",
+            "skin": "Sticker | Cbbl (Holo)"
+        },
+        {
+            "ID": "bm",
+            "skin": "Sticker | Conspiracy Club (Holo)"
+        },
+        {
+            "ID": "bn",
+            "skin": "Sticker | Pain Train (Holo)"
+        },
+        {
+            "ID": "bo",
+            "skin": "Sticker | Baby Howl"
+        },
+        {
+            "ID": "bp",
+            "skin": "Sticker | Baby Medusa"
+        },
+        {
+            "ID": "bq",
+            "skin": "Sticker | Baby Lore"
+        },
+        {
+            "ID": "br",
+            "skin": "Sticker | Baby Cerberus"
+        },
+        {
+            "ID": "bs",
+            "skin": "Sticker | Baby Fire Serpent"
+        },
+        {
+            "ID": "bt",
+            "skin": "Sticker | This Is Fine (H)"
+        },
+        {
+            "ID": "bu",
+            "skin": "Sticker | Infinite Diamond (Holo)"
+        },
+        {
+            "ID": "bv",
+            "skin": "Sticker | B Hop"
+        },
+        {
+            "ID": "bw",
+            "skin": "Sticker | This Is Fine (T)"
+        }
+    ],
+    "Bayonet": [
+        {
+            "ID": "Ht",
+            "skin": "Bayonet | Lore"
+        },
+        {
+            "ID": "Hu",
+            "skin": "Bayonet | Black Laminate"
+        },
+        {
+            "ID": "Hv",
+            "skin": "Bayonet | Gamma Doppler"
+        },
+        {
+            "ID": "Hw",
+            "skin": "Bayonet | Autotronic"
+        },
+        {
+            "ID": "Hx",
+            "skin": "Bayonet | Bright Water"
+        },
+        {
+            "ID": "Hy",
+            "skin": "Bayonet | Freehand"
+        },
+        {
+            "ID": "Hz",
+            "skin": "Bayonet | Damascus Steel"
+        },
+        {
+            "ID": "H0",
+            "skin": "Bayonet | Doppler"
+        },
+        {
+            "ID": "H1",
+            "skin": "Bayonet | Marble Fade"
+        },
+        {
+            "ID": "H2",
+            "skin": "Bayonet | Tiger Tooth"
+        },
+        {
+            "ID": "H3",
+            "skin": "Bayonet | Rust Coat"
+        },
+        {
+            "ID": "H4",
+            "skin": "Bayonet | Ultraviolet"
+        },
+        {
+            "ID": "H5",
+            "skin": "Bayonet | Blue Steel"
+        },
+        {
+            "ID": "H6",
+            "skin": "Bayonet | Boreal Forest"
+        },
+        {
+            "ID": "H7",
+            "skin": "Bayonet | Case Hardened"
+        },
+        {
+            "ID": "H8",
+            "skin": "Bayonet | Crimson Web"
+        },
+        {
+            "ID": "H9",
+            "skin": "Bayonet | Fade"
+        },
+        {
+            "ID": "IA",
+            "skin": "Bayonet | Forest DDPAT"
+        },
+        {
+            "ID": "IB",
+            "skin": "Bayonet | Night"
+        },
+        {
+            "ID": "IC",
+            "skin": "Bayonet | Safari Mesh"
+        },
+        {
+            "ID": "ID",
+            "skin": "Bayonet | Scorched"
+        },
+        {
+            "ID": "IE",
+            "skin": "Bayonet | Slaughter"
+        },
+        {
+            "ID": "IF",
+            "skin": "Bayonet | Stained"
+        },
+        {
+            "ID": "IG",
+            "skin": "Bayonet | Urban Masked"
+        },
+        {
+            "ID": "VH",
+            "skin": "Bayonet | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "VI",
+            "skin": "Bayonet | Doppler (Phase 1)"
+        },
+        {
+            "ID": "VJ",
+            "skin": "Bayonet | Doppler (Phase 2)"
+        },
+        {
+            "ID": "VK",
+            "skin": "Bayonet | Doppler (Phase 3)"
+        },
+        {
+            "ID": "VL",
+            "skin": "Bayonet | Doppler (Phase 4)"
+        },
+        {
+            "ID": "VM",
+            "skin": "Bayonet | Doppler (Ruby)"
+        },
+        {
+            "ID": "VN",
+            "skin": "Bayonet | Doppler (Sapphire)"
+        },
+        {
+            "ID": "Vc",
+            "skin": "Bayonet | Gamma Doppler (Emerald)"
+        },
+        {
+            "ID": "Vd",
+            "skin": "Bayonet | Gamma Doppler (Phase 1)"
+        },
+        {
+            "ID": "Ve",
+            "skin": "Bayonet | Gamma Doppler (Phase 2)"
+        },
+        {
+            "ID": "Vf",
+            "skin": "Bayonet | Gamma Doppler (Phase 3)"
+        },
+        {
+            "ID": "Vg",
+            "skin": "Bayonet | Gamma Doppler (Phase 4)"
+        },
+        {
+            "ID": "Wl",
+            "skin": "Bayonet | Case Hardened (Blue Gem)"
+        }
+    ],
+    "Flip Knife": [
+        {
+            "ID": "IH",
+            "skin": "★ Flip Knife | Lore"
+        },
+        {
+            "ID": "II",
+            "skin": "★ Flip Knife | Black Laminate"
+        },
+        {
+            "ID": "IJ",
+            "skin": "★ Flip Knife | Gamma Doppler"
+        },
+        {
+            "ID": "IK",
+            "skin": "★ Flip Knife | Autotronic"
+        },
+        {
+            "ID": "IL",
+            "skin": "★ Flip Knife | Bright Water"
+        },
+        {
+            "ID": "IM",
+            "skin": "★ Flip Knife | Freehand"
+        },
+        {
+            "ID": "IN",
+            "skin": "★ Flip Knife | Damascus Steel"
+        },
+        {
+            "ID": "IO",
+            "skin": "★ Flip Knife | Doppler"
+        },
+        {
+            "ID": "IP",
+            "skin": "★ Flip Knife | Marble Fade"
+        },
+        {
+            "ID": "IQ",
+            "skin": "★ Flip Knife | Tiger Tooth"
+        },
+        {
+            "ID": "IR",
+            "skin": "★ Flip Knife | Rust Coat"
+        },
+        {
+            "ID": "IS",
+            "skin": "★ Flip Knife | Ultraviolet"
+        },
+        {
+            "ID": "IT",
+            "skin": "★ Flip Knife | Blue Steel"
+        },
+        {
+            "ID": "IU",
+            "skin": "★ Flip Knife | Boreal Forest"
+        },
+        {
+            "ID": "IV",
+            "skin": "★ Flip Knife | Case Hardened"
+        },
+        {
+            "ID": "IW",
+            "skin": "★ Flip Knife | Crimson Web"
+        },
+        {
+            "ID": "IX",
+            "skin": "★ Flip Knife | Fade"
+        },
+        {
+            "ID": "IY",
+            "skin": "★ Flip Knife | Forest DDPAT"
+        },
+        {
+            "ID": "IZ",
+            "skin": "★ Flip Knife | Night"
+        },
+        {
+            "ID": "Ia",
+            "skin": "★ Flip Knife | Safari Mesh"
+        },
+        {
+            "ID": "Ib",
+            "skin": "★ Flip Knife | Scorched"
+        },
+        {
+            "ID": "Ic",
+            "skin": "★ Flip Knife | Slaughter"
+        },
+        {
+            "ID": "Id",
+            "skin": "★ Flip Knife | Stained"
+        },
+        {
+            "ID": "Ie",
+            "skin": "★ Flip Knife | Urban Masked"
+        },
+        {
+            "ID": "VA",
+            "skin": "★ Flip Knife | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "VB",
+            "skin": "★ Flip Knife | Doppler (Phase 1)"
+        },
+        {
+            "ID": "VC",
+            "skin": "★ Flip Knife | Doppler (Phase 2)"
+        },
+        {
+            "ID": "VD",
+            "skin": "★ Flip Knife | Doppler (Phase 3)"
+        },
+        {
+            "ID": "VE",
+            "skin": "★ Flip Knife | Doppler (Phase 4)"
+        },
+        {
+            "ID": "VF",
+            "skin": "★ Flip Knife | Doppler (Ruby)"
+        },
+        {
+            "ID": "VG",
+            "skin": "★ Flip Knife | Doppler (Sapphire)"
+        },
+        {
+            "ID": "Vh",
+            "skin": "★ Flip Knife | Gamma Doppler (Emerald)"
+        },
+        {
+            "ID": "Vi",
+            "skin": "★ Flip Knife | Gamma Doppler (Phase 1)"
+        },
+        {
+            "ID": "Vj",
+            "skin": "★ Flip Knife | Gamma Doppler (Phase 2)"
+        },
+        {
+            "ID": "Vk",
+            "skin": "★ Flip Knife | Gamma Doppler (Phase 3)"
+        },
+        {
+            "ID": "Vl",
+            "skin": "★ Flip Knife | Gamma Doppler (Phase 4)"
+        },
+        {
+            "ID": "Wj",
+            "skin": "★ Flip Knife | Case Hardened (Blue Gem)"
+        },
+        {
+            "ID": "Wk",
+            "skin": "★ Flip Knife | Case Hardened (Gold Gem)"
+        }
+    ],
+    "Gut Knife": [
+        {
+            "ID": "If",
+            "skin": "★ Gut Knife | Lore"
+        },
+        {
+            "ID": "Ig",
+            "skin": "★ Gut Knife | Black Laminate"
+        },
+        {
+            "ID": "Ih",
+            "skin": "★ Gut Knife | Gamma Doppler"
+        },
+        {
+            "ID": "Ii",
+            "skin": "★ Gut Knife | Autotronic"
+        },
+        {
+            "ID": "Ij",
+            "skin": "★ Gut Knife | Bright Water"
+        },
+        {
+            "ID": "Ik",
+            "skin": "★ Gut Knife | Freehand"
+        },
+        {
+            "ID": "Il",
+            "skin": "★ Gut Knife | Damascus Steel"
+        },
+        {
+            "ID": "Im",
+            "skin": "★ Gut Knife | Doppler"
+        },
+        {
+            "ID": "In",
+            "skin": "★ Gut Knife | Marble Fade"
+        },
+        {
+            "ID": "Io",
+            "skin": "★ Gut Knife | Tiger Tooth"
+        },
+        {
+            "ID": "Ip",
+            "skin": "★ Gut Knife | Rust Coat"
+        },
+        {
+            "ID": "Iq",
+            "skin": "★ Gut Knife | Ultraviolet"
+        },
+        {
+            "ID": "Ir",
+            "skin": "★ Gut Knife | Blue Steel"
+        },
+        {
+            "ID": "Is",
+            "skin": "★ Gut Knife | Boreal Forest"
+        },
+        {
+            "ID": "It",
+            "skin": "★ Gut Knife | Case Hardened"
+        },
+        {
+            "ID": "Iu",
+            "skin": "★ Gut Knife | Crimson Web"
+        },
+        {
+            "ID": "Iv",
+            "skin": "★ Gut Knife | Fade"
+        },
+        {
+            "ID": "Iw",
+            "skin": "★ Gut Knife | Forest DDPAT"
+        },
+        {
+            "ID": "Ix",
+            "skin": "★ Gut Knife | Night"
+        },
+        {
+            "ID": "Iy",
+            "skin": "★ Gut Knife | Safari Mesh"
+        },
+        {
+            "ID": "Iz",
+            "skin": "★ Gut Knife | Scorched"
+        },
+        {
+            "ID": "I0",
+            "skin": "★ Gut Knife | Slaughter"
+        },
+        {
+            "ID": "I1",
+            "skin": "★ Gut Knife | Stained"
+        },
+        {
+            "ID": "I2",
+            "skin": "★ Gut Knife | Urban Masked"
+        },
+        {
+            "ID": "U3",
+            "skin": "★ Gut Knife | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "U4",
+            "skin": "★ Gut Knife | Doppler (Phase 1)"
+        },
+        {
+            "ID": "U5",
+            "skin": "★ Gut Knife | Doppler (Phase 2)"
+        },
+        {
+            "ID": "U6",
+            "skin": "★ Gut Knife | Doppler (Phase 3)"
+        },
+        {
+            "ID": "U7",
+            "skin": "★ Gut Knife | Doppler (Phase 4)"
+        },
+        {
+            "ID": "U8",
+            "skin": "★ Gut Knife | Doppler (Ruby)"
+        },
+        {
+            "ID": "U9",
+            "skin": "★ Gut Knife | Doppler (Sapphire)"
+        },
+        {
+            "ID": "Vm",
+            "skin": "★ Gut Knife | Gamma Doppler (Emerald)"
+        },
+        {
+            "ID": "Vn",
+            "skin": "★ Gut Knife | Gamma Doppler (Phase 1)"
+        },
+        {
+            "ID": "Vo",
+            "skin": "★ Gut Knife | Gamma Doppler (Phase 2)"
+        },
+        {
+            "ID": "Vp",
+            "skin": "★ Gut Knife | Gamma Doppler (Phase 3)"
+        },
+        {
+            "ID": "Vq",
+            "skin": "★ Gut Knife | Gamma Doppler (Phase 4)"
+        }
+    ],
+    "Karambit": [
+        {
+            "ID": "I3",
+            "skin": "★ Karambit | Lore"
+        },
+        {
+            "ID": "I4",
+            "skin": "★ Karambit | Black Laminate"
+        },
+        {
+            "ID": "I5",
+            "skin": "★ Karambit | Gamma Doppler"
+        },
+        {
+            "ID": "I6",
+            "skin": "★ Karambit | Autotronic"
+        },
+        {
+            "ID": "I7",
+            "skin": "★ Karambit | Bright Water"
+        },
+        {
+            "ID": "I8",
+            "skin": "★ Karambit | Freehand"
+        },
+        {
+            "ID": "I9",
+            "skin": "★ Karambit | Damascus Steel"
+        },
+        {
+            "ID": "JA",
+            "skin": "★ Karambit | Doppler"
+        },
+        {
+            "ID": "JB",
+            "skin": "★ Karambit | Marble Fade"
+        },
+        {
+            "ID": "JC",
+            "skin": "★ Karambit | Tiger Tooth"
+        },
+        {
+            "ID": "JD",
+            "skin": "★ Karambit | Rust Coat"
+        },
+        {
+            "ID": "JE",
+            "skin": "★ Karambit | Ultraviolet"
+        },
+        {
+            "ID": "JF",
+            "skin": "★ Karambit | Blue Steel"
+        },
+        {
+            "ID": "JG",
+            "skin": "★ Karambit | Boreal Forest"
+        },
+        {
+            "ID": "JH",
+            "skin": "★ Karambit | Case Hardened"
+        },
+        {
+            "ID": "JI",
+            "skin": "★ Karambit | Crimson Web"
+        },
+        {
+            "ID": "JJ",
+            "skin": "★ Karambit | Fade"
+        },
+        {
+            "ID": "JK",
+            "skin": "★ Karambit | Forest DDPAT"
+        },
+        {
+            "ID": "JL",
+            "skin": "★ Karambit | Night"
+        },
+        {
+            "ID": "JM",
+            "skin": "★ Karambit | Safari Mesh"
+        },
+        {
+            "ID": "JN",
+            "skin": "★ Karambit | Scorched"
+        },
+        {
+            "ID": "JO",
+            "skin": "★ Karambit | Slaughter"
+        },
+        {
+            "ID": "JP",
+            "skin": "★ Karambit | Stained"
+        },
+        {
+            "ID": "JQ",
+            "skin": "★ Karambit | Urban Masked"
+        },
+        {
+            "ID": "VV",
+            "skin": "★ Karambit | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "VW",
+            "skin": "★ Karambit | Doppler (Phase 1)"
+        },
+        {
+            "ID": "VX",
+            "skin": "★ Karambit | Doppler (Phase 2)"
+        },
+        {
+            "ID": "VY",
+            "skin": "★ Karambit | Doppler (Phase 3)"
+        },
+        {
+            "ID": "VZ",
+            "skin": "★ Karambit | Doppler (Phase 4)"
+        },
+        {
+            "ID": "Va",
+            "skin": "★ Karambit | Doppler (Ruby)"
+        },
+        {
+            "ID": "Vb",
+            "skin": "★ Karambit | Doppler (Sapphire)"
+        },
+        {
+            "ID": "Vr",
+            "skin": "★ Karambit | Gamma Doppler (Emerald)"
+        },
+        {
+            "ID": "Vs",
+            "skin": "★ Karambit | Gamma Doppler (Phase 1)"
+        },
+        {
+            "ID": "Vt",
+            "skin": "★ Karambit | Gamma Doppler (Phase 2)"
+        },
+        {
+            "ID": "Vu",
+            "skin": "★ Karambit | Gamma Doppler (Phase 3)"
+        },
+        {
+            "ID": "Vv",
+            "skin": "★ Karambit | Gamma Doppler (Phase 4)"
+        },
+        {
+            "ID": "Wm",
+            "skin": "★ Karambit | Case Hardened (Blue Gem)"
+        },
+        {
+            "ID": "Wn",
+            "skin": "★ Karambit | Case Hardened (Gold Gem)"
+        }
+    ],
+    "M9 Bayonet": [
+        {
+            "ID": "JR",
+            "skin": "★ M9 Bayonet | Lore"
+        },
+        {
+            "ID": "JS",
+            "skin": "★ M9 Bayonet | Black Laminate"
+        },
+        {
+            "ID": "JT",
+            "skin": "★ M9 Bayonet | Gamma Doppler"
+        },
+        {
+            "ID": "JU",
+            "skin": "★ M9 Bayonet | Autotronic"
+        },
+        {
+            "ID": "JV",
+            "skin": "★ M9 Bayonet | Bright Water"
+        },
+        {
+            "ID": "JW",
+            "skin": "★ M9 Bayonet | Freehand"
+        },
+        {
+            "ID": "JX",
+            "skin": "★ M9 Bayonet | Damascus Steel"
+        },
+        {
+            "ID": "JY",
+            "skin": "★ M9 Bayonet | Doppler"
+        },
+        {
+            "ID": "JZ",
+            "skin": "★ M9 Bayonet | Marble Fade"
+        },
+        {
+            "ID": "Ja",
+            "skin": "★ M9 Bayonet | Tiger Tooth"
+        },
+        {
+            "ID": "Jb",
+            "skin": "★ M9 Bayonet | Rust Coat"
+        },
+        {
+            "ID": "Jc",
+            "skin": "★ M9 Bayonet | Ultraviolet"
+        },
+        {
+            "ID": "Jd",
+            "skin": "★ M9 Bayonet | Blue Steel"
+        },
+        {
+            "ID": "Je",
+            "skin": "★ M9 Bayonet | Boreal Forest"
+        },
+        {
+            "ID": "Jf",
+            "skin": "★ M9 Bayonet | Case Hardened"
+        },
+        {
+            "ID": "Jg",
+            "skin": "★ M9 Bayonet | Crimson Web"
+        },
+        {
+            "ID": "Jh",
+            "skin": "★ M9 Bayonet | Fade"
+        },
+        {
+            "ID": "Ji",
+            "skin": "★ M9 Bayonet | Forest DDPAT"
+        },
+        {
+            "ID": "Jj",
+            "skin": "★ M9 Bayonet | Night"
+        },
+        {
+            "ID": "Jk",
+            "skin": "★ M9 Bayonet | Safari Mesh"
+        },
+        {
+            "ID": "Jl",
+            "skin": "★ M9 Bayonet | Scorched"
+        },
+        {
+            "ID": "Jm",
+            "skin": "★ M9 Bayonet | Slaughter"
+        },
+        {
+            "ID": "Jn",
+            "skin": "★ M9 Bayonet | Stained"
+        },
+        {
+            "ID": "Jo",
+            "skin": "★ M9 Bayonet | Urban Masked"
+        },
+        {
+            "ID": "VO",
+            "skin": "★ M9 Bayonet | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "VP",
+            "skin": "★ M9 Bayonet | Doppler (Phase 1)"
+        },
+        {
+            "ID": "VQ",
+            "skin": "★ M9 Bayonet | Doppler (Phase 2)"
+        },
+        {
+            "ID": "VR",
+            "skin": "★ M9 Bayonet | Doppler (Phase 3)"
+        },
+        {
+            "ID": "VS",
+            "skin": "★ M9 Bayonet | Doppler (Phase 4)"
+        },
+        {
+            "ID": "VT",
+            "skin": "★ M9 Bayonet | Doppler (Ruby)"
+        },
+        {
+            "ID": "VU",
+            "skin": "★ M9 Bayonet | Doppler (Sapphire)"
+        },
+        {
+            "ID": "Vw",
+            "skin": "★ M9 Bayonet | Gamma Doppler (Emerald)"
+        },
+        {
+            "ID": "Vx",
+            "skin": "★ M9 Bayonet | Gamma Doppler (Phase 1)"
+        },
+        {
+            "ID": "Vy",
+            "skin": "★ M9 Bayonet | Gamma Doppler (Phase 2)"
+        },
+        {
+            "ID": "Vz",
+            "skin": "★ M9 Bayonet | Gamma Doppler (Phase 3)"
+        },
+        {
+            "ID": "V0",
+            "skin": "★ M9 Bayonet | Gamma Doppler (Phase 4)"
+        },
+        {
+            "ID": "W1",
+            "skin": "★ M9 Bayonet | Case Hardened (Blue Gem)"
+        }
+    ],
+    "Huntsman Knife": [
+        {
+            "ID": "Jp",
+            "skin": "★ Huntsman Knife | Damascus Steel"
+        },
+        {
+            "ID": "Jq",
+            "skin": "★ Huntsman Knife | Ultraviolet"
+        },
+        {
+            "ID": "Jr",
+            "skin": "★ Huntsman Knife | Tiger Tooth"
+        },
+        {
+            "ID": "Js",
+            "skin": "★ Huntsman Knife | Rust Coat"
+        },
+        {
+            "ID": "Jt",
+            "skin": "★ Huntsman Knife | Doppler"
+        },
+        {
+            "ID": "Ju",
+            "skin": "★ Huntsman Knife | Marble Fade"
+        },
+        {
+            "ID": "Jv",
+            "skin": "★ Huntsman Knife | Fade"
+        },
+        {
+            "ID": "Jw",
+            "skin": "★ Huntsman Knife | Slaughter"
+        },
+        {
+            "ID": "Jx",
+            "skin": "★ Huntsman Knife | Crimson Web"
+        },
+        {
+            "ID": "Jy",
+            "skin": "★ Huntsman Knife | Case Hardened"
+        },
+        {
+            "ID": "Jz",
+            "skin": "★ Huntsman Knife | Night"
+        },
+        {
+            "ID": "J0",
+            "skin": "★ Huntsman Knife | Stained"
+        },
+        {
+            "ID": "J1",
+            "skin": "★ Huntsman Knife | Blue Steel"
+        },
+        {
+            "ID": "J2",
+            "skin": "★ Huntsman Knife | Scorched"
+        },
+        {
+            "ID": "J3",
+            "skin": "★ Huntsman Knife | Safari Mesh"
+        },
+        {
+            "ID": "J4",
+            "skin": "★ Huntsman Knife | Boreal Forest"
+        },
+        {
+            "ID": "J5",
+            "skin": "★ Huntsman Knife | Forest DDPAT"
+        },
+        {
+            "ID": "J6",
+            "skin": "★ Huntsman Knife | Urban Masked"
+        },
+        {
+            "ID": "WM",
+            "skin": "★ Huntsman Knife | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "WN",
+            "skin": "★ Huntsman Knife | Doppler (Phase 1)"
+        },
+        {
+            "ID": "WO",
+            "skin": "★ Huntsman Knife | Doppler (Phase 2)"
+        },
+        {
+            "ID": "WP",
+            "skin": "★ Huntsman Knife | Doppler (Phase 3)"
+        },
+        {
+            "ID": "WQ",
+            "skin": "★ Huntsman Knife | Doppler (Phase 4)"
+        },
+        {
+            "ID": "WR",
+            "skin": "★ Huntsman Knife | Doppler (Ruby)"
+        },
+        {
+            "ID": "WS",
+            "skin": "★ Huntsman Knife | Doppler (Sapphire)"
+        },
+        {
+            "ID": "Wo",
+            "skin": "★ Huntsman Knife | Case Hardened (Blue Gem)"
+        },
+        {
+            "ID": "Wp",
+            "skin": "★ Huntsman Knife | Case Hardened (Gold Gem)"
+        },
+        {
+            "ID": "Zd",
+            "skin": "★ Huntsman Knife | Gamma Doppler"
+        },
+        {
+            "ID": "Ze",
+            "skin": "★ Huntsman Knife | Lore"
+        },
+        {
+            "ID": "Zf",
+            "skin": "★ Huntsman Knife | Autotronic"
+        },
+        {
+            "ID": "Zg",
+            "skin": "★ Huntsman Knife | Bright Water"
+        },
+        {
+            "ID": "Zh",
+            "skin": "★ Huntsman Knife | Black Laminate"
+        },
+        {
+            "ID": "Zi",
+            "skin": "★ Huntsman Knife | Freehand"
+        }
+    ],
+    "Butterfly Knife": [
+        {
+            "ID": "J7",
+            "skin": "★ Butterfly Knife | Damascus Steel"
+        },
+        {
+            "ID": "J8",
+            "skin": "★ Butterfly Knife | Doppler"
+        },
+        {
+            "ID": "J9",
+            "skin": "★ Butterfly Knife | Ultraviolet"
+        },
+        {
+            "ID": "KA",
+            "skin": "★ Butterfly Knife | Rust Coat"
+        },
+        {
+            "ID": "KB",
+            "skin": "★ Butterfly Knife | Marble Fade"
+        },
+        {
+            "ID": "KC",
+            "skin": "★ Butterfly Knife | Tiger Tooth"
+        },
+        {
+            "ID": "KD",
+            "skin": "★ Butterfly Knife | Fade"
+        },
+        {
+            "ID": "KE",
+            "skin": "★ Butterfly Knife | Slaughter"
+        },
+        {
+            "ID": "KF",
+            "skin": "★ Butterfly Knife | Crimson Web"
+        },
+        {
+            "ID": "KG",
+            "skin": "★ Butterfly Knife | Case Hardened"
+        },
+        {
+            "ID": "KH",
+            "skin": "★ Butterfly Knife | Blue Steel"
+        },
+        {
+            "ID": "KI",
+            "skin": "★ Butterfly Knife | Night"
+        },
+        {
+            "ID": "KJ",
+            "skin": "★ Butterfly Knife | Stained"
+        },
+        {
+            "ID": "KK",
+            "skin": "★ Butterfly Knife | Safari Mesh"
+        },
+        {
+            "ID": "KL",
+            "skin": "★ Butterfly Knife | Boreal Forest"
+        },
+        {
+            "ID": "KM",
+            "skin": "★ Butterfly Knife | Urban Masked"
+        },
+        {
+            "ID": "KN",
+            "skin": "★ Butterfly Knife | Scorched"
+        },
+        {
+            "ID": "KO",
+            "skin": "★ Butterfly Knife | Forest DDPAT"
+        },
+        {
+            "ID": "V8",
+            "skin": "★ Butterfly Knife | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "V9",
+            "skin": "★ Butterfly Knife | Doppler (Phase 1)"
+        },
+        {
+            "ID": "WA",
+            "skin": "★ Butterfly Knife | Doppler (Phase 2)"
+        },
+        {
+            "ID": "WB",
+            "skin": "★ Butterfly Knife | Doppler (Phase 3)"
+        },
+        {
+            "ID": "WC",
+            "skin": "★ Butterfly Knife | Doppler (Phase 4)"
+        },
+        {
+            "ID": "WD",
+            "skin": "★ Butterfly Knife | Doppler (Ruby)"
+        },
+        {
+            "ID": "WE",
+            "skin": "★ Butterfly Knife | Doppler (Sapphire)"
+        },
+        {
+            "ID": "Wq",
+            "skin": "★ Butterfly Knife | Case Hardened (Blue Gem)"
+        },
+        {
+            "ID": "Wr",
+            "skin": "★ Butterfly Knife | Case Hardened (Gold Gem)"
+        },
+        {
+            "ID": "ZR",
+            "skin": "★ Butterfly Knife | Lore"
+        },
+        {
+            "ID": "ZS",
+            "skin": "★ Butterfly Knife | Autotronic"
+        },
+        {
+            "ID": "ZT",
+            "skin": "★ Butterfly Knife | Bright Water"
+        },
+        {
+            "ID": "ZU",
+            "skin": "★ Butterfly Knife | Black Laminate"
+        },
+        {
+            "ID": "ZV",
+            "skin": "★ Butterfly Knife | Freehand"
+        },
+        {
+            "ID": "ZW",
+            "skin": "★ Butterfly Knife | Gamma Doppler"
+        }
+    ],
+    "Falchion Knife": [
+        {
+            "ID": "KP",
+            "skin": "★ Falchion Knife | Tiger Tooth"
+        },
+        {
+            "ID": "KQ",
+            "skin": "★ Falchion Knife | Damascus Steel"
+        },
+        {
+            "ID": "KR",
+            "skin": "★ Falchion Knife | Rust Coat"
+        },
+        {
+            "ID": "KS",
+            "skin": "★ Falchion Knife | Ultraviolet"
+        },
+        {
+            "ID": "KT",
+            "skin": "★ Falchion Knife | Doppler"
+        },
+        {
+            "ID": "KU",
+            "skin": "★ Falchion Knife | Marble Fade"
+        },
+        {
+            "ID": "KV",
+            "skin": "★ Falchion Knife | Fade"
+        },
+        {
+            "ID": "KW",
+            "skin": "★ Falchion Knife | Slaughter"
+        },
+        {
+            "ID": "KX",
+            "skin": "★ Falchion Knife | Crimson Web"
+        },
+        {
+            "ID": "KY",
+            "skin": "★ Falchion Knife | Night"
+        },
+        {
+            "ID": "KZ",
+            "skin": "★ Falchion Knife | Case Hardened"
+        },
+        {
+            "ID": "Ka",
+            "skin": "★ Falchion Knife | Blue Steel"
+        },
+        {
+            "ID": "Kb",
+            "skin": "★ Falchion Knife | Stained"
+        },
+        {
+            "ID": "Kc",
+            "skin": "★ Falchion Knife | Urban Masked"
+        },
+        {
+            "ID": "Kd",
+            "skin": "★ Falchion Knife | Boreal Forest"
+        },
+        {
+            "ID": "Ke",
+            "skin": "★ Falchion Knife | Scorched"
+        },
+        {
+            "ID": "Kf",
+            "skin": "★ Falchion Knife | Forest DDPAT"
+        },
+        {
+            "ID": "Kg",
+            "skin": "★ Falchion Knife | Safari Mesh"
+        },
+        {
+            "ID": "WF",
+            "skin": "★ Falchion Knife | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "WG",
+            "skin": "★ Falchion Knife | Doppler (Phase 1)"
+        },
+        {
+            "ID": "WH",
+            "skin": "★ Falchion Knife | Doppler (Phase 2)"
+        },
+        {
+            "ID": "WI",
+            "skin": "★ Falchion Knife | Doppler (Phase 3)"
+        },
+        {
+            "ID": "WJ",
+            "skin": "★ Falchion Knife | Doppler (Phase 4)"
+        },
+        {
+            "ID": "WK",
+            "skin": "★ Falchion Knife | Doppler (Ruby)"
+        },
+        {
+            "ID": "WL",
+            "skin": "★ Falchion Knife | Doppler (Sapphire)"
+        },
+        {
+            "ID": "Ws",
+            "skin": "★ Falchion Knife | Case Hardened (Blue Gem)"
+        },
+        {
+            "ID": "Wt",
+            "skin": "★ Falchion Knife | Case Hardened (Gold Gem)"
+        },
+        {
+            "ID": "ZX",
+            "skin": "★ Falchion Knife | Autotronic"
+        },
+        {
+            "ID": "ZY",
+            "skin": "★ Falchion Knife | Gamma Doppler"
+        },
+        {
+            "ID": "ZZ",
+            "skin": "★ Falchion Knife | Freehand"
+        },
+        {
+            "ID": "Za",
+            "skin": "★ Falchion Knife | Lore"
+        },
+        {
+            "ID": "Zb",
+            "skin": "★ Falchion Knife | Black Laminate"
+        },
+        {
+            "ID": "Zc",
+            "skin": "★ Falchion Knife | Bright Water"
+        }
+    ],
+    "Shadow Daggers": [
+        {
+            "ID": "Kh",
+            "skin": "★ Shadow Daggers | Marble Fade"
+        },
+        {
+            "ID": "Ki",
+            "skin": "★ Shadow Daggers | Doppler"
+        },
+        {
+            "ID": "Kj",
+            "skin": "★ Shadow Daggers | Damascus Steel"
+        },
+        {
+            "ID": "Kk",
+            "skin": "★ Shadow Daggers | Rust Coat"
+        },
+        {
+            "ID": "Kl",
+            "skin": "★ Shadow Daggers | Ultraviolet"
+        },
+        {
+            "ID": "Km",
+            "skin": "★ Shadow Daggers | Tiger Tooth"
+        },
+        {
+            "ID": "Kn",
+            "skin": "★ Shadow Daggers | Fade"
+        },
+        {
+            "ID": "Ko",
+            "skin": "★ Shadow Daggers | Crimson Web"
+        },
+        {
+            "ID": "Kp",
+            "skin": "★ Shadow Daggers | Slaughter"
+        },
+        {
+            "ID": "Kq",
+            "skin": "★ Shadow Daggers | Case Hardened"
+        },
+        {
+            "ID": "Kr",
+            "skin": "★ Shadow Daggers | Night"
+        },
+        {
+            "ID": "Ks",
+            "skin": "★ Shadow Daggers | Blue Steel"
+        },
+        {
+            "ID": "Kt",
+            "skin": "★ Shadow Daggers | Urban Masked"
+        },
+        {
+            "ID": "Ku",
+            "skin": "★ Shadow Daggers | Scorched"
+        },
+        {
+            "ID": "Kv",
+            "skin": "★ Shadow Daggers | Stained"
+        },
+        {
+            "ID": "Kw",
+            "skin": "★ Shadow Daggers | Forest DDPAT"
+        },
+        {
+            "ID": "Kx",
+            "skin": "★ Shadow Daggers | Boreal Forest"
+        },
+        {
+            "ID": "Ky",
+            "skin": "★ Shadow Daggers | Safari Mesh"
+        },
+        {
+            "ID": "WT",
+            "skin": "★ Shadow Daggers | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "WU",
+            "skin": "★ Shadow Daggers | Doppler (Phase 1)"
+        },
+        {
+            "ID": "WV",
+            "skin": "★ Shadow Daggers | Doppler (Phase 2)"
+        },
+        {
+            "ID": "WW",
+            "skin": "★ Shadow Daggers | Doppler (Phase 3)"
+        },
+        {
+            "ID": "WX",
+            "skin": "★ Shadow Daggers | Doppler (Phase 4)"
+        },
+        {
+            "ID": "WY",
+            "skin": "★ Shadow Daggers | Doppler (Ruby)"
+        },
+        {
+            "ID": "WZ",
+            "skin": "★ Shadow Daggers | Doppler (Sapphire)"
+        },
+        {
+            "ID": "Wg",
+            "skin": "★ Shadow Daggers | Doppler (Sapphire)"
+        },
+        {
+            "ID": "Wu",
+            "skin": "★ Shadow Daggers | Case Hardened (Blue Gem)"
+        },
+        {
+            "ID": "Zj",
+            "skin": "★ Shadow Daggers | Freehand"
+        },
+        {
+            "ID": "Zk",
+            "skin": "★ Shadow Daggers | Autotronic"
+        },
+        {
+            "ID": "Zl",
+            "skin": "★ Shadow Daggers | Black Laminate"
+        },
+        {
+            "ID": "Zm",
+            "skin": "★ Shadow Daggers | Gamma Doppler"
+        },
+        {
+            "ID": "Zn",
+            "skin": "★ Shadow Daggers | Bright Water"
+        },
+        {
+            "ID": "Zo",
+            "skin": "★ Shadow Daggers | Lore"
+        }
+    ],
+    "Bowie Knife": [
+        {
+            "ID": "Kz",
+            "skin": "★ Bowie Knife | Ultraviolet"
+        },
+        {
+            "ID": "K0",
+            "skin": "★ Bowie Knife | Rust Coat"
+        },
+        {
+            "ID": "K1",
+            "skin": "★ Bowie Knife | Damascus Steel"
+        },
+        {
+            "ID": "K2",
+            "skin": "★ Bowie Knife | Doppler"
+        },
+        {
+            "ID": "K3",
+            "skin": "★ Bowie Knife | Marble Fade"
+        },
+        {
+            "ID": "K4",
+            "skin": "★ Bowie Knife | Tiger Tooth"
+        },
+        {
+            "ID": "K5",
+            "skin": "★ Bowie Knife | Slaughter"
+        },
+        {
+            "ID": "K6",
+            "skin": "★ Bowie Knife | Fade"
+        },
+        {
+            "ID": "K7",
+            "skin": "★ Bowie Knife | Case Hardened"
+        },
+        {
+            "ID": "K8",
+            "skin": "★ Bowie Knife | Crimson Web"
+        },
+        {
+            "ID": "K9",
+            "skin": "★ Bowie Knife | Boreal Forest"
+        },
+        {
+            "ID": "LA",
+            "skin": "★ Bowie Knife | Night"
+        },
+        {
+            "ID": "LB",
+            "skin": "★ Bowie Knife | Blue Steel"
+        },
+        {
+            "ID": "LC",
+            "skin": "★ Bowie Knife | Stained"
+        },
+        {
+            "ID": "LD",
+            "skin": "★ Bowie Knife | Scorched"
+        },
+        {
+            "ID": "LE",
+            "skin": "★ Bowie Knife | Forest DDPAT"
+        },
+        {
+            "ID": "LF",
+            "skin": "★ Bowie Knife | Urban Masked"
+        },
+        {
+            "ID": "LG",
+            "skin": "★ Bowie Knife | Safari Mesh"
+        },
+        {
+            "ID": "V1",
+            "skin": "★ Bowie Knife | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "V2",
+            "skin": "★ Bowie Knife | Doppler (Phase 1)"
+        },
+        {
+            "ID": "V3",
+            "skin": "★ Bowie Knife | Doppler (Phase 2)"
+        },
+        {
+            "ID": "V4",
+            "skin": "★ Bowie Knife | Doppler (Phase 3)"
+        },
+        {
+            "ID": "V5",
+            "skin": "★ Bowie Knife | Doppler (Phase 4)"
+        },
+        {
+            "ID": "V6",
+            "skin": "★ Bowie Knife | Doppler (Ruby)"
+        },
+        {
+            "ID": "V7",
+            "skin": "★ Bowie Knife | Doppler (Sapphire)"
+        },
+        {
+            "ID": "ZL",
+            "skin": "★ Bowie Knife | Gamma Doppler"
+        },
+        {
+            "ID": "ZM",
+            "skin": "★ Bowie Knife | Lore"
+        },
+        {
+            "ID": "ZN",
+            "skin": "★ Bowie Knife | Freehand"
+        },
+        {
+            "ID": "ZO",
+            "skin": "★ Bowie Knife | Autotronic"
+        },
+        {
+            "ID": "ZP",
+            "skin": "★ Bowie Knife | Bright Water"
+        },
+        {
+            "ID": "ZQ",
+            "skin": "★ Bowie Knife | Black Laminate"
+        }
+    ],
+    "Bloodhound Gloves": [
+        {
+            "ID": "LH",
+            "skin": "★ Bloodhound Gloves | Bronzed"
+        },
+        {
+            "ID": "LI",
+            "skin": "★ Bloodhound Gloves | Charred"
+        },
+        {
+            "ID": "LJ",
+            "skin": "★ Bloodhound Gloves | Guerrilla"
+        },
+        {
+            "ID": "LK",
+            "skin": "★ Bloodhound Gloves | Snakebite"
+        }
+    ],
+    "Driver Gloves": [
+        {
+            "ID": "LL",
+            "skin": "★ Driver Gloves | Convoy"
+        },
+        {
+            "ID": "LM",
+            "skin": "★ Driver Gloves | Crimson Weave"
+        },
+        {
+            "ID": "LN",
+            "skin": "★ Driver Gloves | Diamondback"
+        },
+        {
+            "ID": "LO",
+            "skin": "★ Driver Gloves | Lunar Weave"
+        },
+        {
+            "ID": "MY",
+            "skin": "★ Driver Gloves | King Snake"
+        },
+        {
+            "ID": "MZ",
+            "skin": "★ Driver Gloves | Imperial Plaid"
+        },
+        {
+            "ID": "Ma",
+            "skin": "★ Driver Gloves | Overtake"
+        },
+        {
+            "ID": "Mb",
+            "skin": "★ Driver Gloves | Racing Green"
+        },
+        {
+            "ID": "T7",
+            "skin": "★ Driver Gloves | Snow Leopard"
+        },
+        {
+            "ID": "T8",
+            "skin": "★ Driver Gloves | Rezan the Red"
+        },
+        {
+            "ID": "T9",
+            "skin": "★ Driver Gloves | Black Tie"
+        },
+        {
+            "ID": "UA",
+            "skin": "★ Driver Gloves | Queen Jaguar"
+        }
+    ],
+    "Hand Wraps": [
+        {
+            "ID": "LP",
+            "skin": "★ Hand Wraps | Badlands"
+        },
+        {
+            "ID": "LQ",
+            "skin": "★ Hand Wraps | Leather"
+        },
+        {
+            "ID": "LR",
+            "skin": "★ Hand Wraps | Slaughter"
+        },
+        {
+            "ID": "LS",
+            "skin": "★ Hand Wraps | Spruce DDPAT"
+        },
+        {
+            "ID": "MQ",
+            "skin": "★ Hand Wraps | Cobalt Skulls"
+        },
+        {
+            "ID": "MR",
+            "skin": "★ Hand Wraps | Overprint"
+        },
+        {
+            "ID": "MS",
+            "skin": "★ Hand Wraps | Duct Tape"
+        },
+        {
+            "ID": "MT",
+            "skin": "★ Hand Wraps | Arboreal"
+        },
+        {
+            "ID": "UB",
+            "skin": "★ Hand Wraps | CAUTION!"
+        },
+        {
+            "ID": "UC",
+            "skin": "★ Hand Wraps | Giraffe"
+        },
+        {
+            "ID": "UD",
+            "skin": "★ Hand Wraps | Constrictor"
+        },
+        {
+            "ID": "UE",
+            "skin": "★ Hand Wraps | Desert Shamagh"
+        }
+    ],
+    "Moto Gloves": [
+        {
+            "ID": "LT",
+            "skin": "★ Moto Gloves | Boom!"
+        },
+        {
+            "ID": "LU",
+            "skin": "★ Moto Gloves | Cool Mint"
+        },
+        {
+            "ID": "LV",
+            "skin": "★ Moto Gloves | Eclipse"
+        },
+        {
+            "ID": "LW",
+            "skin": "★ Moto Gloves | Spearmint"
+        },
+        {
+            "ID": "MU",
+            "skin": "★ Moto Gloves | POW!"
+        },
+        {
+            "ID": "MV",
+            "skin": "★ Moto Gloves | Turtle"
+        },
+        {
+            "ID": "MW",
+            "skin": "★ Moto Gloves | Transport"
+        },
+        {
+            "ID": "MX",
+            "skin": "★ Moto Gloves | Polygon"
+        },
+        {
+            "ID": "UF",
+            "skin": "★ Moto Gloves | Finish Line"
+        },
+        {
+            "ID": "UG",
+            "skin": "★ Moto Gloves | Blood Pressure"
+        },
+        {
+            "ID": "UH",
+            "skin": "★ Moto Gloves | Smoke Out"
+        },
+        {
+            "ID": "UI",
+            "skin": "★ Moto Gloves | 3rd Commando Company"
+        }
+    ],
+    "Specialist Gloves": [
+        {
+            "ID": "LX",
+            "skin": "★ Specialist Gloves | Crimson Kimono"
+        },
+        {
+            "ID": "LY",
+            "skin": "★ Specialist Gloves | Emerald Web"
+        },
+        {
+            "ID": "LZ",
+            "skin": "★ Specialist Gloves | Forest DDPAT"
+        },
+        {
+            "ID": "La",
+            "skin": "★ Specialist Gloves | Foundation"
+        },
+        {
+            "ID": "MI",
+            "skin": "★ Specialist Gloves | Fade"
+        },
+        {
+            "ID": "MJ",
+            "skin": "★ Specialist Gloves | Crimson Web"
+        },
+        {
+            "ID": "MK",
+            "skin": "★ Specialist Gloves | Mogul"
+        },
+        {
+            "ID": "ML",
+            "skin": "★ Specialist Gloves | Buckshot"
+        },
+        {
+            "ID": "UJ",
+            "skin": "★ Specialist Gloves | Lt. Commander"
+        },
+        {
+            "ID": "UK",
+            "skin": "★ Specialist Gloves | Marble Fade"
+        },
+        {
+            "ID": "UL",
+            "skin": "★ Specialist Gloves | Tiger Strike"
+        },
+        {
+            "ID": "UM",
+            "skin": "★ Specialist Gloves | Field Agent"
+        }
+    ],
+    "Sport Gloves": [
+        {
+            "ID": "Lb",
+            "skin": "★ Sport Gloves | Arid"
+        },
+        {
+            "ID": "Lc",
+            "skin": "★ Sport Gloves | Hedge Maze"
+        },
+        {
+            "ID": "Ld",
+            "skin": "★ Sport Gloves | Pandora's Box"
+        },
+        {
+            "ID": "Le",
+            "skin": "★ Sport Gloves | Superconductor"
+        },
+        {
+            "ID": "MM",
+            "skin": "★ Sport Gloves | Omega"
+        },
+        {
+            "ID": "MN",
+            "skin": "★ Sport Gloves | Vice"
+        },
+        {
+            "ID": "MO",
+            "skin": "★ Sport Gloves | Amphibious"
+        },
+        {
+            "ID": "MP",
+            "skin": "★ Sport Gloves | Bronze Morph"
+        },
+        {
+            "ID": "UN",
+            "skin": "★ Sport Gloves | Slingshot"
+        },
+        {
+            "ID": "UO",
+            "skin": "★ Sport Gloves | Big Game"
+        },
+        {
+            "ID": "UP",
+            "skin": "★ Sport Gloves | Scarlet Shamagh"
+        },
+        {
+            "ID": "UQ",
+            "skin": "★ Sport Gloves | Nocts"
+        }
+    ],
+    "Hydra Gloves": [
+        {
+            "ID": "ME",
+            "skin": "★ Hydra Gloves | Case Hardened"
+        },
+        {
+            "ID": "MF",
+            "skin": "★ Hydra Gloves | Emerald"
+        },
+        {
+            "ID": "MG",
+            "skin": "★ Hydra Gloves | Rattler"
+        },
+        {
+            "ID": "MH",
+            "skin": "★ Hydra Gloves | Mangrove"
+        }
+    ],
+    "Najava Knife": [
+        {
+            "ID": "Mv",
+            "skin": "Najava Knife | Slaughter"
+        },
+        {
+            "ID": "Mw",
+            "skin": "Najava Knife | Crimson Web"
+        },
+        {
+            "ID": "Mx",
+            "skin": "Najava Knife | Blue Steel"
+        },
+        {
+            "ID": "My",
+            "skin": "Najava Knife | Urban Masked"
+        },
+        {
+            "ID": "Mz",
+            "skin": "Najava Knife | Fade"
+        },
+        {
+            "ID": "M0",
+            "skin": "Najava Knife | Case Hardened"
+        },
+        {
+            "ID": "M1",
+            "skin": "Najava Knife | Stained"
+        },
+        {
+            "ID": "M2",
+            "skin": "Najava Knife | Night Stripe"
+        },
+        {
+            "ID": "M3",
+            "skin": "Najava Knife | Boreal Forest"
+        },
+        {
+            "ID": "M4",
+            "skin": "Najava Knife | Forest DDPAT"
+        },
+        {
+            "ID": "M5",
+            "skin": "Najava Knife | Safari Mesh"
+        },
+        {
+            "ID": "M6",
+            "skin": "Najava Knife | Scorched"
+        }
+    ],
+    "Stiletto Knife": [
+        {
+            "ID": "M7",
+            "skin": "★ Stiletto Knife | Fade"
+        },
+        {
+            "ID": "M8",
+            "skin": "★ Stiletto Knife | Slaughter"
+        },
+        {
+            "ID": "M9",
+            "skin": "★ Stiletto Knife | Crimson Web"
+        },
+        {
+            "ID": "NA",
+            "skin": "★ Stiletto Knife | Blue Steel"
+        },
+        {
+            "ID": "NB",
+            "skin": "★ Stiletto Knife | Forest DDPAT"
+        },
+        {
+            "ID": "NC",
+            "skin": "★ Stiletto Knife | Stained"
+        },
+        {
+            "ID": "ND",
+            "skin": "★ Stiletto Knife | Night Stripe"
+        },
+        {
+            "ID": "NE",
+            "skin": "★ Stiletto Knife | Scorched"
+        },
+        {
+            "ID": "NF",
+            "skin": "★ Stiletto Knife | Boreal Forest"
+        },
+        {
+            "ID": "NG",
+            "skin": "★ Stiletto Knife | Safari Mesh"
+        },
+        {
+            "ID": "NH",
+            "skin": "★ Stiletto Knife | Urban Masked"
+        },
+        {
+            "ID": "NI",
+            "skin": "★ Stiletto Knife | Case Hardened"
+        },
+        {
+            "ID": "OX",
+            "skin": "★ Stiletto Knife | Doppler"
+        },
+        {
+            "ID": "OY",
+            "skin": "★ Stiletto Knife | Marble Fade"
+        },
+        {
+            "ID": "OZ",
+            "skin": "★ Stiletto Knife | Damascus Steel"
+        },
+        {
+            "ID": "Oa",
+            "skin": "★ Stiletto Knife | Ultraviolet"
+        },
+        {
+            "ID": "Ob",
+            "skin": "★ Stiletto Knife | Tiger Tooth"
+        },
+        {
+            "ID": "Oc",
+            "skin": "★ Stiletto Knife | Rust Coat"
+        },
+        {
+            "ID": "Ui",
+            "skin": "★ Stiletto Knife | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "Uj",
+            "skin": "★ Stiletto Knife | Doppler (Phase 1)"
+        },
+        {
+            "ID": "Uk",
+            "skin": "★ Stiletto Knife | Doppler (Phase 2)"
+        },
+        {
+            "ID": "Ul",
+            "skin": "★ Stiletto Knife | Doppler (Phase 3)"
+        },
+        {
+            "ID": "Um",
+            "skin": "★ Stiletto Knife | Doppler (Phase 4)"
+        },
+        {
+            "ID": "Un",
+            "skin": "★ Stiletto Knife | Doppler (Ruby)"
+        },
+        {
+            "ID": "Uo",
+            "skin": "★ Stiletto Knife | Doppler (Sapphire)"
+        }
+    ],
+    "Talon Knife": [
+        {
+            "ID": "NJ",
+            "skin": "★ Talon Knife | Slaughter"
+        },
+        {
+            "ID": "NK",
+            "skin": "★ Talon Knife | Blue Steel"
+        },
+        {
+            "ID": "NL",
+            "skin": "★ Talon Knife | Crimson Web"
+        },
+        {
+            "ID": "NM",
+            "skin": "★ Talon Knife | Fade"
+        },
+        {
+            "ID": "NN",
+            "skin": "★ Talon Knife | Case Hardened"
+        },
+        {
+            "ID": "NO",
+            "skin": "★ Talon Knife | Forest DDPAT"
+        },
+        {
+            "ID": "NP",
+            "skin": "★ Talon Knife | Safari Mesh"
+        },
+        {
+            "ID": "NQ",
+            "skin": "★ Talon Knife | Scorched"
+        },
+        {
+            "ID": "NR",
+            "skin": "★ Talon Knife | Urban Masked"
+        },
+        {
+            "ID": "NS",
+            "skin": "★ Talon Knife | Stained"
+        },
+        {
+            "ID": "NT",
+            "skin": "★ Talon Knife | Night Stripe"
+        },
+        {
+            "ID": "NU",
+            "skin": "★ Talon Knife | Boreal Forest"
+        },
+        {
+            "ID": "Od",
+            "skin": "★ Talon Knife | Marble Fade"
+        },
+        {
+            "ID": "Oe",
+            "skin": "★ Talon Knife | Doppler"
+        },
+        {
+            "ID": "Of",
+            "skin": "★ Talon Knife | Tiger Tooth"
+        },
+        {
+            "ID": "Og",
+            "skin": "★ Talon Knife | Damascus Steel"
+        },
+        {
+            "ID": "Oh",
+            "skin": "★ Talon Knife | Rust Coat"
+        },
+        {
+            "ID": "Oi",
+            "skin": "★ Talon Knife | Ultraviolet"
+        },
+        {
+            "ID": "Up",
+            "skin": "★ Talon Knife | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "Uq",
+            "skin": "★ Talon Knife | Doppler (Phase 1)"
+        },
+        {
+            "ID": "Ur",
+            "skin": "★ Talon Knife | Doppler (Phase 2)"
+        },
+        {
+            "ID": "Us",
+            "skin": "★ Talon Knife | Doppler (Phase 3)"
+        },
+        {
+            "ID": "Ut",
+            "skin": "★ Talon Knife | Doppler (Phase 4)"
+        },
+        {
+            "ID": "Uu",
+            "skin": "★ Talon Knife | Doppler (Ruby)"
+        },
+        {
+            "ID": "Uv",
+            "skin": "★ Talon Knife | Doppler (Sapphire)"
+        },
+        {
+            "ID": "Wv",
+            "skin": "★ Talon Knife | Case Hardened (Blue Gem)"
+        },
+        {
+            "ID": "Ww",
+            "skin": "★ Talon Knife | Case Hardened (Gold Gem)"
+        }
+    ],
+    "Ursus Knife": [
+        {
+            "ID": "NV",
+            "skin": "★ Ursus Knife | Slaughter"
+        },
+        {
+            "ID": "NW",
+            "skin": "★ Ursus Knife | Blue Steel"
+        },
+        {
+            "ID": "NX",
+            "skin": "★ Ursus Knife | Case Hardened"
+        },
+        {
+            "ID": "NY",
+            "skin": "★ Ursus Knife | Safari Mesh"
+        },
+        {
+            "ID": "NZ",
+            "skin": "★ Ursus Knife | Forest DDPAT"
+        },
+        {
+            "ID": "Na",
+            "skin": "★ Ursus Knife | Urban Masked"
+        },
+        {
+            "ID": "Nb",
+            "skin": "★ Ursus Knife | Night Stripe"
+        },
+        {
+            "ID": "Nc",
+            "skin": "★ Ursus Knife | Stained"
+        },
+        {
+            "ID": "Nd",
+            "skin": "★ Ursus Knife | Boreal Forest"
+        },
+        {
+            "ID": "Ne",
+            "skin": "★ Ursus Knife | Scorched"
+        },
+        {
+            "ID": "Nf",
+            "skin": "★ Ursus Knife | Crimson Web"
+        },
+        {
+            "ID": "Ng",
+            "skin": "★ Ursus Knife | Fade"
+        },
+        {
+            "ID": "Oj",
+            "skin": "★ Ursus Knife | Tiger Tooth"
+        },
+        {
+            "ID": "Ok",
+            "skin": "★ Ursus Knife | Marble Fade"
+        },
+        {
+            "ID": "Ol",
+            "skin": "★ Ursus Knife | Doppler"
+        },
+        {
+            "ID": "Om",
+            "skin": "★ Ursus Knife | Ultraviolet"
+        },
+        {
+            "ID": "On",
+            "skin": "★ Ursus Knife | Damascus Steel"
+        },
+        {
+            "ID": "Oo",
+            "skin": "★ Ursus Knife | Rust Coat"
+        },
+        {
+            "ID": "Uw",
+            "skin": "★ Ursus Knife | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "Ux",
+            "skin": "★ Ursus Knife | Doppler (Phase 1)"
+        },
+        {
+            "ID": "Uy",
+            "skin": "★ Ursus Knife | Doppler (Phase 2)"
+        },
+        {
+            "ID": "Uz",
+            "skin": "★ Ursus Knife | Doppler (Phase 3)"
+        },
+        {
+            "ID": "U0",
+            "skin": "★ Ursus Knife | Doppler (Phase 4)"
+        },
+        {
+            "ID": "U1",
+            "skin": "★ Ursus Knife | Doppler (Ruby)"
+        },
+        {
+            "ID": "U2",
+            "skin": "★ Ursus Knife | Doppler (Sapphire)"
+        }
+    ],
+    "MP5-SD": [
+        {
+            "ID": "Nk",
+            "skin": "MP5-SD | Phosphor"
+        },
+        {
+            "ID": "N5",
+            "skin": "MP5-SD | Gauss"
+        },
+        {
+            "ID": "Ow",
+            "skin": "MP5-SD | Co-Processor"
+        },
+        {
+            "ID": "O3",
+            "skin": "MP5-SD | Agent"
+        },
+        {
+            "ID": "Pb",
+            "skin": "MP5-SD | Acid Wash"
+        },
+        {
+            "ID": "Qn",
+            "skin": "MP5-SD | Desert Strike"
+        },
+        {
+            "ID": "S8",
+            "skin": "MP5-SD | Kitbash"
+        },
+        {
+            "ID": "Tw",
+            "skin": "MP5-SD | Condition Zero"
+        },
+        {
+            "ID": "al",
+            "skin": "MP5-SD | Oxide Oasis"
+        },
+        {
+            "ID": "a3",
+            "skin": "MP5-SD | Necro Jr."
+        },
+        {
+            "ID": "bX",
+            "skin": "MP5-SD | Liquidation"
+        },
+        {
+            "ID": "cx",
+            "skin": "MP5-SD | Statics"
+        },
+        {
+            "ID": "dS",
+            "skin": "MP5-SD | Neon Squeezer"
+        },
+        {
+            "ID": "di",
+            "skin": "MP5-SD | Savannah Halftone"
+        }
+    ],
+    "Navaja Knife": [
+        {
+            "ID": "OF",
+            "skin": "★ Navaja Knife | Tiger Tooth"
+        },
+        {
+            "ID": "OG",
+            "skin": "★ Navaja Knife | Marble Fade"
+        },
+        {
+            "ID": "OH",
+            "skin": "★ Navaja Knife | Damascus Steel"
+        },
+        {
+            "ID": "OI",
+            "skin": "★ Navaja Knife | Doppler"
+        },
+        {
+            "ID": "OJ",
+            "skin": "★ Navaja Knife | Ultraviolet"
+        },
+        {
+            "ID": "OK",
+            "skin": "★ Navaja Knife | Rust Coat"
+        },
+        {
+            "ID": "OL",
+            "skin": "★ Navaja Knife | Fade"
+        },
+        {
+            "ID": "OM",
+            "skin": "★ Navaja Knife | Slaughter"
+        },
+        {
+            "ID": "ON",
+            "skin": "★ Navaja Knife | Urban Masked"
+        },
+        {
+            "ID": "OO",
+            "skin": "★ Navaja Knife | Crimson Web"
+        },
+        {
+            "ID": "OP",
+            "skin": "★ Navaja Knife | Case Hardened"
+        },
+        {
+            "ID": "OQ",
+            "skin": "★ Navaja Knife | Blue Steel"
+        },
+        {
+            "ID": "OR",
+            "skin": "★ Navaja Knife | Stained"
+        },
+        {
+            "ID": "OS",
+            "skin": "★ Navaja Knife | Boreal Forest"
+        },
+        {
+            "ID": "OT",
+            "skin": "★ Navaja Knife | Scorched"
+        },
+        {
+            "ID": "OU",
+            "skin": "★ Navaja Knife | Night Stripe"
+        },
+        {
+            "ID": "OV",
+            "skin": "★ Navaja Knife | Safari Mesh"
+        },
+        {
+            "ID": "OW",
+            "skin": "★ Navaja Knife | Forest DDPAT"
+        },
+        {
+            "ID": "Ub",
+            "skin": "★ Navaja Knife | Doppler (Black Pearl)"
+        },
+        {
+            "ID": "Uc",
+            "skin": "★ Navaja Knife | Doppler (Phase 1)"
+        },
+        {
+            "ID": "Ud",
+            "skin": "★ Navaja Knife | Doppler (Phase 2)"
+        },
+        {
+            "ID": "Ue",
+            "skin": "★ Navaja Knife | Doppler (Phase 3)"
+        },
+        {
+            "ID": "Uf",
+            "skin": "★ Navaja Knife | Doppler (Phase 4)"
+        },
+        {
+            "ID": "Ug",
+            "skin": "★ Navaja Knife | Doppler (Ruby)"
+        },
+        {
+            "ID": "Uh",
+            "skin": "★ Navaja Knife | Doppler (Sapphire)"
+        }
+    ],
+    "Classic Knife": [
+        {
+            "ID": "PE",
+            "skin": "★ Classic Knife | Fade"
+        },
+        {
+            "ID": "PF",
+            "skin": "★ Classic Knife | Slaughter"
+        },
+        {
+            "ID": "PG",
+            "skin": "★ Classic Knife | Crimson Web"
+        },
+        {
+            "ID": "PH",
+            "skin": "★ Classic Knife | Case Hardened"
+        },
+        {
+            "ID": "PI",
+            "skin": "★ Classic Knife | Forest DDPAT"
+        },
+        {
+            "ID": "PJ",
+            "skin": "★ Classic Knife | Blue Steel"
+        },
+        {
+            "ID": "PK",
+            "skin": "★ Classic Knife | Boreal Forest"
+        },
+        {
+            "ID": "PL",
+            "skin": "★ Classic Knife | Night Stripe"
+        },
+        {
+            "ID": "PM",
+            "skin": "★ Classic Knife | Safari Mesh"
+        },
+        {
+            "ID": "PN",
+            "skin": "★ Classic Knife | Stained"
+        },
+        {
+            "ID": "PO",
+            "skin": "★ Classic Knife | Scorched"
+        },
+        {
+            "ID": "PP",
+            "skin": "★ Classic Knife | Urban Masked"
+        },
+        {
+            "ID": "Wx",
+            "skin": "★ Classic Knife | Case Hardened (Gold Gem)"
+        }
+    ],
+    "Paracord Knife": [
+        {
+            "ID": "Pj",
+            "skin": "★ Paracord Knife | Slaughter"
+        },
+        {
+            "ID": "Pk",
+            "skin": "★ Paracord Knife | Fade"
+        },
+        {
+            "ID": "Pl",
+            "skin": "★ Paracord Knife | Night Stripe"
+        },
+        {
+            "ID": "Pm",
+            "skin": "★ Paracord Knife | Crimson Web"
+        },
+        {
+            "ID": "Pn",
+            "skin": "★ Paracord Knife | Case Hardened"
+        },
+        {
+            "ID": "Po",
+            "skin": "★ Paracord Knife | Stained"
+        },
+        {
+            "ID": "Pp",
+            "skin": "★ Paracord Knife | Blue Steel"
+        },
+        {
+            "ID": "Pq",
+            "skin": "★ Paracord Knife | Boreal Forest"
+        },
+        {
+            "ID": "Pr",
+            "skin": "★ Paracord Knife | Urban Masked"
+        },
+        {
+            "ID": "Ps",
+            "skin": "★ Paracord Knife | Safari Mesh"
+        },
+        {
+            "ID": "Pt",
+            "skin": "★ Paracord Knife | Scorched"
+        },
+        {
+            "ID": "Pu",
+            "skin": "★ Paracord Knife | Forest DDPAT"
+        }
+    ],
+    "Survival Knife": [
+        {
+            "ID": "Pv",
+            "skin": "★ Survival Knife | Fade"
+        },
+        {
+            "ID": "Pw",
+            "skin": "★ Survival Knife | Slaughter"
+        },
+        {
+            "ID": "Px",
+            "skin": "★ Survival Knife | Case Hardened"
+        },
+        {
+            "ID": "Py",
+            "skin": "★ Survival Knife | Crimson Web"
+        },
+        {
+            "ID": "Pz",
+            "skin": "★ Survival Knife | Boreal Forest"
+        },
+        {
+            "ID": "P0",
+            "skin": "★ Survival Knife | Stained"
+        },
+        {
+            "ID": "P1",
+            "skin": "★ Survival Knife | Scorched"
+        },
+        {
+            "ID": "P2",
+            "skin": "★ Survival Knife | Night Stripe"
+        },
+        {
+            "ID": "P3",
+            "skin": "★ Survival Knife | Blue Steel"
+        },
+        {
+            "ID": "P4",
+            "skin": "★ Survival Knife | Forest DDPAT"
+        },
+        {
+            "ID": "P5",
+            "skin": "★ Survival Knife | Safari Mesh"
+        },
+        {
+            "ID": "P6",
+            "skin": "★ Survival Knife | Urban Masked"
+        }
+    ],
+    "Skeleton Knife": [
+        {
+            "ID": "P7",
+            "skin": "★ Skeleton Knife | Fade"
+        },
+        {
+            "ID": "P8",
+            "skin": "★ Skeleton Knife | Crimson Web"
+        },
+        {
+            "ID": "P9",
+            "skin": "★ Skeleton Knife | Case Hardened"
+        },
+        {
+            "ID": "QA",
+            "skin": "★ Skeleton Knife | Slaughter"
+        },
+        {
+            "ID": "QB",
+            "skin": "★ Skeleton Knife | Blue Steel"
+        },
+        {
+            "ID": "QC",
+            "skin": "★ Skeleton Knife | Stained"
+        },
+        {
+            "ID": "QD",
+            "skin": "★ Skeleton Knife | Night Stripe"
+        },
+        {
+            "ID": "QE",
+            "skin": "★ Skeleton Knife | Forest DDPAT"
+        },
+        {
+            "ID": "QF",
+            "skin": "★ Skeleton Knife | Boreal Forest"
+        },
+        {
+            "ID": "QG",
+            "skin": "★ Skeleton Knife | Safari Mesh"
+        },
+        {
+            "ID": "QH",
+            "skin": "★ Skeleton Knife | Urban Masked"
+        },
+        {
+            "ID": "QI",
+            "skin": "★ Skeleton Knife | Scorched"
+        },
+        {
+            "ID": "Wy",
+            "skin": "★ Skeleton Knife | Case Hardened (Blue Gem)"
+        },
+        {
+            "ID": "Wz",
+            "skin": "★ Skeleton Knife | Case Hardened (Gold Gem)"
+        }
+    ],
+    "Nomad Knife": [
+        {
+            "ID": "QJ",
+            "skin": "★ Nomad Knife | Fade"
+        },
+        {
+            "ID": "QK",
+            "skin": "★ Nomad Knife | Slaughter"
+        },
+        {
+            "ID": "QL",
+            "skin": "★ Nomad Knife | Crimson Web"
+        },
+        {
+            "ID": "QM",
+            "skin": "★ Nomad Knife | Urban Masked"
+        },
+        {
+            "ID": "QN",
+            "skin": "★ Nomad Knife | Boreal Forest"
+        },
+        {
+            "ID": "QO",
+            "skin": "★ Nomad Knife | Case Hardened"
+        },
+        {
+            "ID": "QP",
+            "skin": "★ Nomad Knife | Blue Steel"
+        },
+        {
+            "ID": "QQ",
+            "skin": "★ Nomad Knife | Scorched"
+        },
+        {
+            "ID": "QR",
+            "skin": "★ Nomad Knife | Forest DDPAT"
+        },
+        {
+            "ID": "QS",
+            "skin": "★ Nomad Knife | Stained"
+        },
+        {
+            "ID": "QT",
+            "skin": "★ Nomad Knife | Night Stripe"
+        },
+        {
+            "ID": "QU",
+            "skin": "★ Nomad Knife | Safari Mesh"
+        }
+    ],
+    "Broken Fang Gloves": [
+        {
+            "ID": "T3",
+            "skin": "Broken Fang Gloves | Jade"
+        },
+        {
+            "ID": "T4",
+            "skin": "Broken Fang Gloves | Unhinged"
+        },
+        {
+            "ID": "T5",
+            "skin": "Broken Fang Gloves | Yellow-banded"
+        },
+        {
+            "ID": "T6",
+            "skin": "Broken Fang Gloves | Needle Point"
+        }
+    ],
+    "Master Agent": [
+        {
+            "ID": "X3",
+            "skin": "Master Agent | Sir Bloody Miami Darryl | The Professionals"
+        },
+        {
+            "ID": "X4",
+            "skin": "Master Agent | Sir Bloody Loudmouth Darryl | The Professionals"
+        },
+        {
+            "ID": "X5",
+            "skin": "Master Agent | Special Agent Ava | FBI"
+        },
+        {
+            "ID": "X6",
+            "skin": "Master Agent | Sir Bloody Darryl Royale | The Professionals"
+        },
+        {
+            "ID": "X7",
+            "skin": "Master Agent | Lt. Commander Ricksaw | NSWC SEAL"
+        },
+        {
+            "ID": "X8",
+            "skin": "Master Agent | Sir Bloody Skullhead Darryl | The Professionals"
+        },
+        {
+            "ID": "X9",
+            "skin": "Master Agent | Cmdr. Mae 'Dead Cold' Jamison | SWAT"
+        },
+        {
+            "ID": "YA",
+            "skin": "Master Agent | Sir Bloody Silent Darryl | The Professionals"
+        },
+        {
+            "ID": "YB",
+            "skin": "Master Agent | 'The Doctor' Romanov | Sabre"
+        },
+        {
+            "ID": "YC",
+            "skin": "Master Agent | The Elite Mr. Muhlik | Elite Crew"
+        },
+        {
+            "ID": "Zv",
+            "skin": "Master Agent | Chef d'Escadron Rouchard | Gendarmerie Nationale"
+        },
+        {
+            "ID": "Zw",
+            "skin": "Master Agent | Vypa Sista of the Revolution | Guerrilla Warfare"
+        },
+        {
+            "ID": "Zx",
+            "skin": "Master Agent | 'Medium Rare' Crasswater | Guerrilla Warfare"
+        },
+        {
+            "ID": "Zy",
+            "skin": "Master Agent | Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman"
+        },
+        {
+            "ID": "Zz",
+            "skin": "Master Agent | Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman"
+        },
+        {
+            "ID": "Z0",
+            "skin": "Master Agent | Crasswater The Forgotten | Guerrilla Warfare"
+        }
+    ],
+    "Superior Agent": [
+        {
+            "ID": "YD",
+            "skin": "Superior Agent | Number K | The Professionals"
+        },
+        {
+            "ID": "YE",
+            "skin": "Superior Agent | Safecracker Voltzmann | The Professionals"
+        },
+        {
+            "ID": "YF",
+            "skin": "Superior Agent | 1st Lieutenant Farlow | SWAT"
+        },
+        {
+            "ID": "YG",
+            "skin": "Superior Agent | Blackwolf | Sabre"
+        },
+        {
+            "ID": "YH",
+            "skin": "Superior Agent | Rezan The Ready | Sabre"
+        },
+        {
+            "ID": "YI",
+            "skin": "Superior Agent | 'Two Times' McCoy | USAF TACP"
+        },
+        {
+            "ID": "YJ",
+            "skin": "Superior Agent | Michael Syfers | FBI Sniper"
+        },
+        {
+            "ID": "YK",
+            "skin": "Superior Agent | 'Two Times' McCoy | TACP Cavalry"
+        },
+        {
+            "ID": "YL",
+            "skin": "Superior Agent | Rezan the Redshirt | Sabre"
+        },
+        {
+            "ID": "YM",
+            "skin": "Superior Agent | Prof. Shahmat | Elite Crew"
+        },
+        {
+            "ID": "Z1",
+            "skin": "Superior Agent | Chem-Haz Capitaine | Gendarmerie Nationale"
+        },
+        {
+            "ID": "Z2",
+            "skin": "Superior Agent | Elite Trapper Solman | Guerrilla Warfare"
+        },
+        {
+            "ID": "Z3",
+            "skin": "Superior Agent | Bloody Darryl The Strapped | The Professionals"
+        },
+        {
+            "ID": "Z4",
+            "skin": "Superior Agent | Lieutenant Rex Krikey | SEAL Frogman"
+        },
+        {
+            "ID": "Z5",
+            "skin": "Superior Agent | Arno The Overgrown | Guerrilla Warfare"
+        }
+    ],
+    "Exceptional Agent": [
+        {
+            "ID": "YN",
+            "skin": "Exceptional Agent | Getaway Sally | The Professionals"
+        },
+        {
+            "ID": "YO",
+            "skin": "Exceptional Agent | Little Kev | The Professionals"
+        },
+        {
+            "ID": "YP",
+            "skin": "Exceptional Agent | Sergeant Bombson | SWAT"
+        },
+        {
+            "ID": "YQ",
+            "skin": "Exceptional Agent | John 'Van Healen' Kask | SWAT"
+        },
+        {
+            "ID": "YR",
+            "skin": "Exceptional Agent | 'Blueberries' Buckshot | NSWC SEAL"
+        },
+        {
+            "ID": "YS",
+            "skin": "Exceptional Agent | Buckshot | NSWC SEAL"
+        },
+        {
+            "ID": "YT",
+            "skin": "Exceptional Agent | Markus Delrow | FBI HRT"
+        },
+        {
+            "ID": "YU",
+            "skin": "Exceptional Agent | Slingshot | Phoenix"
+        },
+        {
+            "ID": "YV",
+            "skin": "Exceptional Agent | Maximus | Sabre"
+        },
+        {
+            "ID": "YW",
+            "skin": "Exceptional Agent | Dragomir | Sabre"
+        },
+        {
+            "ID": "YX",
+            "skin": "Exceptional Agent | Osiris | Elite Crew"
+        },
+        {
+            "ID": "Z6",
+            "skin": "Exceptional Agent | Col. Mangos Dabisi | Guerrilla Warfare"
+        },
+        {
+            "ID": "Z7",
+            "skin": "Exceptional Agent | Officer Jacques Beltram | Gendarmerie Nationale"
+        },
+        {
+            "ID": "Z8",
+            "skin": "Exceptional Agent | Trapper | Guerrilla Warfare"
+        },
+        {
+            "ID": "Z9",
+            "skin": "Exceptional Agent | Lieutenant 'Tree Hugger' Farlow | SWAT"
+        },
+        {
+            "ID": "aA",
+            "skin": "Exceptional Agent | Sous-Lieutenant Medic | Gendarmerie Nationale"
+        }
+    ],
+    "Distinguished Agent": [
+        {
+            "ID": "YY",
+            "skin": "Distinguished Agent | Chem-Haz Specialist | SWAT"
+        },
+        {
+            "ID": "YZ",
+            "skin": "Distinguished Agent | 3rd Commando Company | KSK"
+        },
+        {
+            "ID": "Ya",
+            "skin": "Distinguished Agent | Seal Team 6 Soldier | NSWC SEAL"
+        },
+        {
+            "ID": "Yb",
+            "skin": "Distinguished Agent | Bio-Haz Specialist | SWAT"
+        },
+        {
+            "ID": "Yc",
+            "skin": "Distinguished Agent | Street Soldier | Phoenix"
+        },
+        {
+            "ID": "Yd",
+            "skin": "Distinguished Agent | B Squadron Officer | SAS"
+        },
+        {
+            "ID": "Ye",
+            "skin": "Distinguished Agent | Operator | FBI SWAT"
+        },
+        {
+            "ID": "Yf",
+            "skin": "Distinguished Agent | Dragomir | Sabre Footsoldier"
+        },
+        {
+            "ID": "Yg",
+            "skin": "Distinguished Agent | Enforcer | Phoenix"
+        },
+        {
+            "ID": "Yh",
+            "skin": "Distinguished Agent | Soldier | Phoenix"
+        },
+        {
+            "ID": "Yi",
+            "skin": "Distinguished Agent | Ground Rebel | Elite Crew"
+        },
+        {
+            "ID": "aB",
+            "skin": "Distinguished Agent | Primeiro Tenente | Brazilian 1st Battalion"
+        },
+        {
+            "ID": "aC",
+            "skin": "Distinguished Agent | D Squadron Officer | NZSAS"
+        },
+        {
+            "ID": "aD",
+            "skin": "Distinguished Agent | Trapper Aggressor | Guerrilla Warfare"
+        },
+        {
+            "ID": "aE",
+            "skin": "Distinguished Agent | Mr. Muhlik | Elite Crew"
+        },
+        {
+            "ID": "aF",
+            "skin": "Distinguished Agent | Aspirant | Gendarmerie Nationale"
+        }
+    ],
+    "Zeus x27": [
+        {
+            "ID": "cK",
+            "skin": "Zeus x27 | Olympus"
+        },
+        {
+            "ID": "dJ",
+            "skin": "Zeus x27 | Dragon Snore"
+        }
+    ],
+    "Kukri Knife": [
+        {
+            "ID": "cY",
+            "skin": "★ Kukri Knife | Fade"
+        },
+        {
+            "ID": "cZ",
+            "skin": "★ Kukri Knife | Crimson Web"
+        },
+        {
+            "ID": "ca",
+            "skin": "★ Kukri Knife | Slaughter"
+        },
+        {
+            "ID": "cb",
+            "skin": "★ Kukri Knife | Case Hardened"
+        },
+        {
+            "ID": "cc",
+            "skin": "★ Kukri Knife | Blue Steel"
+        },
+        {
+            "ID": "cd",
+            "skin": "★ Kukri Knife | Night Stripe"
+        },
+        {
+            "ID": "ce",
+            "skin": "★ Kukri Knife | Stained"
+        },
+        {
+            "ID": "cf",
+            "skin": "★ Kukri Knife | Forest DDPAT"
+        },
+        {
+            "ID": "cg",
+            "skin": "★ Kukri Knife | Scorched"
+        },
+        {
+            "ID": "ch",
+            "skin": "★ Kukri Knife | Boreal Forest"
+        },
+        {
+            "ID": "ci",
+            "skin": "★ Kukri Knife | Urban Masked"
+        },
+        {
+            "ID": "cj",
+            "skin": "★ Kukri Knife | Safari Mesh"
+        }
+    ]
+}
