@@ -45,20 +45,88 @@ def get_id_bugged(keyword=None, chat_id="RU"):
     messages = response.json()  # Предполагается, что ответ в формате JSON
     user_id = None
     for message in messages:
-        if keyword and keyword.lower() in messages[message]['msg'].lower():  # Проверяем наличие ключевого слова
+        if keyword and (keyword.lower() in messages[message]['msg'].lower() and keyword.lower() in messages[message]['nick'].lower()):  # Проверяем наличие ключевого слова
             user_id = messages[message]['playerID']  # Получаем ID пользователя
             break  # Выходим из цикла, если нашли
 
     return user_id if user_id else "not found"
+    
+def parse_item(item_string):
+    # Разделяем строку по символу '$'
+    parts = item_string.split('$')
 
+    # Извлекаем предмет (первую часть)
+    item_part = parts[0]
+
+    # Проверяем, что строка предмета достаточно длинная
+    if len(item_part) < 4:
+        return None  # Или можно вернуть пустой словарь, если нужно
+
+    item_id = item_part
+
+    # Собираем наклейки (до 4)
+    stickers = parts[1:5]  # Берем до 4-х наклеек
+
+    return {
+        'item_id': item_id,
+        'stickers': stickers
+    }
+
+def glitched(skin):
+    with open("skins.json", 'r',encoding='utf-8') as file:
+        data = json.load(file)
+
+    id = skin['item_id'][:2]
+    modifiers = skin['item_id'][2:]
+    flag = True
+    weapons = "M4A4,AWP,AUG,M4A1-S,AK-47,USP-S,P250,G3SG1,Glock-18,Zeus x27,Desert Eagle,MAC-10,MP7,UMP-45,MP9,Tec-9,Five-SeveN,Galil AR,Dual Berettas,P2000,SSG 08,P90,FAMAS,MAG-7,CZ75-Auto,XM1014,M249,SCAR-20,PP-Bizon,Sawed-Off,Nova,SG 553,Negev,R8 Revolver,MP5-SD,Zeus x27"
+    weapons = weapons.split(',')
+    if modifiers[1]=="6":
+        flag = False
+    for category in data:
+        for elem in data[category]:
+            if id == elem["ID"]:
+                if category == "Sticker" or "Agent" in category:
+                    if modifiers[1] != "0" or skin["stickers"] != []:
+                        flag = False
+
+                elif "Gloves" in category or "Wraps" in category:
+                    if modifiers[1] != "0" or skin["stickers"] != []:
+                        flag = False
+
+                elif category in weapons:
+                    for sticker in skin["stickers"]:
+                        for cat in data:
+                            for e in data[cat]:
+                                if sticker[:2] == elem["ID"]:
+                                    if cat != "Sticker":
+                                      flag = False
+
+                else:
+                    if modifiers[1] not in ["0","4"] or skin["stickers"] != []:
+                        flag = False
+
+    return flag
+
+def checkskins(skins):
+    skins = skins.split()
+    for elem in skins:
+        if glitched(parse_items(elem)):
+            return False
+    return True
+    
 # Функция для торговли
 def trade(nick, skin="GG40$Xz0$Xz1$Xz2$Xz3$Xz4"):
     iD = getId(nick)
     if iD == "error":
         iD = nick
 
-    req = "https://api.efezgames.com/v1/trades/createOffer?token={TOKEN}&timestamp={TS}&playerID={PLAYERID}&receiverID={RECEIVERID}&senderNick={SENDERNICK}&senderFrame={SENDERFRAME}&senderAvatar={SENDERAVATAR}&receiverNick={RECEIVERNICK}&receiverFrame={RECEIVERFRAME}&receiverAvatar={RECEIVERAVATAR}&skinsOffered={SKINSOFFERED}&skinsRequested={SKINSREQUESTED}&message={MESSAGE}&pricesHash={PRICESHASH}&senderOneSignal=01122&receiverOneSignal=01122&senderVersion=2.31.0&receiverVersion=2.31.0"
 
+    req = "https://api.efezgames.com/v1/trades/createOffer?token={TOKEN}&timestamp={TS}&playerID={PLAYERID}&receiverID={RECEIVERID}&senderNick={SENDERNICK}&senderFrame={SENDERFRAME}&senderAvatar={SENDERAVATAR}&receiverNick={RECEIVERNICK}&receiverFrame={RECEIVERFRAME}&receiverAvatar={RECEIVERAVATAR}&skinsOffered={SKINSOFFERED}&skinsRequested={SKINSREQUESTED}&message={MESSAGE}&pricesHash={PRICESHASH}&senderOneSignal=01122&receiverOneSignal=01122&senderVersion=2.31.0&receiverVersion=2.31.0"
+    
+    if !checkskins(skin):
+        return "You're not allowed to get glitched items!!!"
+    skin = skin.replace(" ","")
     # Замените эти значения на свои
     token = "01122"  # Замените на ваш токен
     sender_nick = "Tool_Bot™"  # Замените на ваше имя отправителя
