@@ -110,7 +110,7 @@ def glitched(skin):
 def checkskins(skins):
     skins = skins.split()
     for elem in skins:
-        if glitched(parse_items(elem)):
+        if glitched(parse_item(elem)):
             return False
     return True
     
