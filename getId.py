@@ -124,7 +124,7 @@ def trade(nick, skin="GG40$Xz0$Xz1$Xz2$Xz3$Xz4"):
 
     req = "https://api.efezgames.com/v1/trades/createOffer?token={TOKEN}&timestamp={TS}&playerID={PLAYERID}&receiverID={RECEIVERID}&senderNick={SENDERNICK}&senderFrame={SENDERFRAME}&senderAvatar={SENDERAVATAR}&receiverNick={RECEIVERNICK}&receiverFrame={RECEIVERFRAME}&receiverAvatar={RECEIVERAVATAR}&skinsOffered={SKINSOFFERED}&skinsRequested={SKINSREQUESTED}&message={MESSAGE}&pricesHash={PRICESHASH}&senderOneSignal=01122&receiverOneSignal=01122&senderVersion=2.31.0&receiverVersion=2.31.0"
     
-    if !checkskins(skin):
+    if not checkskins(skin):
         return "You're not allowed to get glitched items!!!"
     skin = skin.replace(" ","")
     # Замените эти значения на свои
