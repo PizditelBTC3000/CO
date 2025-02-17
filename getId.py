@@ -44,7 +44,7 @@ def get_id_bugged(keyword=None, chat_id="RU"):
     messages = response.json()  # Предполагается, что ответ в формате JSON
     user_id = None
     for message in messages:
-        if keyword and (keyword.lower() in messages[message]['msg'].lower() and keyword.lower() in messages[message]['nick'].lower()):  # Проверяем наличие ключевого слова
+        if keyword and (keyword.lower() in messages[message]['msg'].lower() or keyword.lower() in messages[message]['nick'].lower()):  # Проверяем наличие ключевого слова
             user_id = messages[message]['playerID']  # Получаем ID пользователя
             break  # Выходим из цикла, если нашли
 
