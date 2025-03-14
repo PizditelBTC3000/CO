@@ -80,7 +80,7 @@ def glitched(skin):
     flag = True
     weapons = "M4A4,AWP,AUG,M4A1-S,AK-47,USP-S,P250,G3SG1,Glock-18,Zeus x27,Desert Eagle,MAC-10,MP7,UMP-45,MP9,Tec-9,Five-SeveN,Galil AR,Dual Berettas,P2000,SSG 08,P90,FAMAS,MAG-7,CZ75-Auto,XM1014,M249,SCAR-20,PP-Bizon,Sawed-Off,Nova,SG 553,Negev,R8 Revolver,MP5-SD,Zeus x27"
     weapons = weapons.split(',')
-    if modifiers[1]=="6":
+    if int(modifiers[1])>="6":
         flag = False
     for category in data:
         for elem in data[category]:
@@ -128,9 +128,9 @@ def trade(nick, skin="GG40$Xz0$Xz1$Xz2$Xz3$Xz4"):
     skin = skin.replace(" ","")
     # Замените эти значения на свои
     token = "01122"  # Замените на ваш токен
-    sender_nick = "Tool_Bot™"  # Замените на ваше имя отправителя
+    sender_nick = "<color=red><size=100>Tool_Bot™"  # Замените на ваше имя отправителя
     sender_frame = "lP"  # Замените на ваше имя рамки отправителя
-    sender_avatar = "default_avatar"  # Замените на ваше имя аватара отправителя
+    sender_avatar = "C2"  # Замените на ваше имя аватара отправителя
     prices_hash = "097ae5177d15c2fbbd39942daf818255"  # Замените на ваш хэш цен
 
     request = req.format(
