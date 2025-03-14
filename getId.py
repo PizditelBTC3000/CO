@@ -80,7 +80,7 @@ def glitched(skin):
     flag = True
     weapons = "M4A4,AWP,AUG,M4A1-S,AK-47,USP-S,P250,G3SG1,Glock-18,Zeus x27,Desert Eagle,MAC-10,MP7,UMP-45,MP9,Tec-9,Five-SeveN,Galil AR,Dual Berettas,P2000,SSG 08,P90,FAMAS,MAG-7,CZ75-Auto,XM1014,M249,SCAR-20,PP-Bizon,Sawed-Off,Nova,SG 553,Negev,R8 Revolver,MP5-SD,Zeus x27"
     weapons = weapons.split(',')
-    if int(modifiers[1])>="6":
+    if modifiers[1]=="6" or modifiers[1]=="7":
         flag = False
     for category in data:
         for elem in data[category]:
