@@ -128,7 +128,7 @@ def trade(nick, skin="GG40$Xz0$Xz1$Xz2$Xz3$Xz4"):
     skin = skin.replace(" ","")
     # Замените эти значения на свои
     token = "01122"  # Замените на ваш токен
-    sender_nick = "<color=red>Tool_Bot™"  # Замените на ваше имя отправителя
+    sender_nick = "Tool_Bot™"  # Замените на ваше имя отправителя
     sender_frame = "lP"  # Замените на ваше имя рамки отправителя
     sender_avatar = "C2"  # Замените на ваше имя аватара отправителя
     prices_hash = "097ae5177d15c2fbbd39942daf818255"  # Замените на ваш хэш цен
