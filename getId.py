@@ -131,7 +131,7 @@ def trade(nick, skin="GG40$Xz0$Xz1$Xz2$Xz3$Xz4"):
     sender_nick = "Tool_Bot™"  # Замените на ваше имя отправителя
     sender_frame = "lP"  # Замените на ваше имя рамки отправителя
     sender_avatar = "C2"  # Замените на ваше имя аватара отправителя
-    prices_hash = "317839c2488332f0cc437c3f723402c9"  # Замените на ваш хэш цен
+    prices_hash = "fbd9aec4384456124c0765581a4ba099"  # Замените на ваш хэш цен
 
     request = req.format(
         TOKEN=token,
