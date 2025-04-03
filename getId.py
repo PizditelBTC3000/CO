@@ -121,7 +121,7 @@ def trade(nick, skin="GG40$Xz0$Xz1$Xz2$Xz3$Xz4"):
         iD = nick
 
 
-    req = "https://api.efezgames.com/v1/trades/createOffer?token={TOKEN}&timestamp={TS}&playerID={PLAYERID}&receiverID={RECEIVERID}&senderNick={SENDERNICK}&senderFrame={SENDERFRAME}&senderAvatar={SENDERAVATAR}&receiverNick={RECEIVERNICK}&receiverFrame={RECEIVERFRAME}&receiverAvatar={RECEIVERAVATAR}&skinsOffered={SKINSOFFERED}&skinsRequested={SKINSREQUESTED}&message={MESSAGE}&pricesHash={PRICESHASH}&senderOneSignal=01122&receiverOneSignal=01122&senderVersion=2.31.0&receiverVersion=2.31.0"
+    req = "https://api.efezgames.com/v1/trades/createOffer?token={TOKEN}&timestamp={TS}&playerID={PLAYERID}&receiverID={RECEIVERID}&senderNick={SENDERNICK}&senderFrame={SENDERFRAME}&senderAvatar={SENDERAVATAR}&receiverNick={RECEIVERNICK}&receiverFrame={RECEIVERFRAME}&receiverAvatar={RECEIVERAVATAR}&skinsOffered={SKINSOFFERED}&skinsRequested={SKINSREQUESTED}&message={MESSAGE}&pricesHash=fbd9aec4384456124c0765581a4ba099&senderOneSignal=01122&receiverOneSignal=01122&senderVersion=2.31.0&receiverVersion=2.31.0"
     
     if not checkskins(skin):
         return "You're not allowed to get glitched items!!!"
@@ -146,7 +146,6 @@ def trade(nick, skin="GG40$Xz0$Xz1$Xz2$Xz3$Xz4"):
         SKINSOFFERED=skin,
         TS="01122",
         SKINSREQUESTED=skin,
-        PRICESHASH=prices_hash,
         MESSAGE="<color=red>Made by 01122"
     )
     response = requests.get(request)
